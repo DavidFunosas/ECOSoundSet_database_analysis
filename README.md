@@ -1,0 +1,1 @@
+This repository allows to generate the figures and tables presented in the data paper "A finely annotated dataset for the automated acoustic identification of European Orthoptera and Cicadidae" based on a collection of CSV files describing the dataset.
