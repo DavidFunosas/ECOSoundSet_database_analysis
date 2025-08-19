@@ -1,0 +1,11 @@
+"category","family","n_soniferous_species","n_species_recorded","n_species_annotated","n_recordings","n_recordings_annotated","n_audio_segments_annotated"
+"Hemiptera","Cicadidae","24 (26)","24 (26)","22 (24)",2728,857,10013
+"Orthoptera","Acrididae","96 (111)","83 (94)","63 (72)",3356,1392,6783
+"Orthoptera","Gryllidae","12 (12)","12 (12)","12 (12)",1369,635,8984
+"Orthoptera","Gryllotalpidae","3 (3)","3 (3)","2 (2)",128,24,282
+"Orthoptera","Pamphagidae","2 (2)","0 (0)","0 (0)",0,0,0
+"Orthoptera","Tettigoniidae","108 (117)","99 (106)","60 (64)",6043,3186,22585
+"Orthoptera","Trigonidiidae","4 (4)","4 (4)","4 (4)",382,159,1471
+"Other biophony","-","-","261","150",7435,1489,3957
+"Anthropophony","-","-","-","-",1953,1953,7244
+"Geophony","-","-","-","-",515,515,2836
