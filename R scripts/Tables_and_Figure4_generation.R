@@ -392,7 +392,7 @@ adapted_tableS1_data <- tableS1 %>%
   select(-FAMILLE)
 
 figure4_data <- data.frame(rbind(adapted_tableS1_data %>%
-                                   mutate(labeling_type = "Weakly labeled",
+                                   mutate(labeling_type = " Weakly labeled",
                                           n_recordings = n_recordings_in_our_dataset - n_recordings_annotated) %>%
                                    rename("n_total_recordings" = "n_recordings_in_our_dataset") %>%
                                    select(species, taxonomic_category, labeling_type, n_recordings, n_total_recordings),
