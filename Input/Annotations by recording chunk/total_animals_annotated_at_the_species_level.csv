@@ -14,7 +14,7 @@
 "Anonconotus ghilianii","Orthoptera",1,0,0,0,0,0,0,0,0
 "Antaxius bouvieri","Orthoptera",14,0,0,0,0,0,0,0,0
 "Antaxius difformis","Orthoptera",2,0,0,0,0,0,0,0,0
-"Antaxius spinibrachius","Orthoptera",9,0,0,0,0,0,0,0,0
+"Antaxius spinibrachius","Orthoptera",10,0,0,0,0,0,0,0,0
 "Anthophora plumipes","Hymenoptera",2,0,0,0,0,0,0,0,0
 "Anthus campestris","Aves",4,0,0,0,0,0,0,0,0
 "Anthus pratensis","Aves",13,0,0,0,0,0,0,0,0
@@ -40,7 +40,7 @@
 "Bufotes viridis","Anura",5,0,0,0,0,0,0,0,0
 "Calidris ferruginea","Aves",1,0,0,0,0,0,0,0,0
 "Calliptamus barbarus","Orthoptera",3,0,0,0,0,0,0,0,0
-"Capreolus capreolus","Mammalia",23,0,0,0,0,0,0,0,0
+"Capreolus capreolus","Mammalia",24,0,0,0,0,0,0,0,0
 "Cerambyx cerdo","Coleoptera",1,0,0,0,0,0,0,0,0
 "Charadrius alexandrinus","Aves",18,0,0,0,0,0,0,0,0
 "Chorthippus alticola","Orthoptera",4,0,0,0,0,0,0,0,0
@@ -53,12 +53,12 @@
 "Cinclus cinclus","Aves",1,0,0,0,0,0,0,0,0
 "Circus aeruginosus","Aves",12,0,0,0,0,0,0,0,0
 "Clamator glandarius","Aves",4,0,0,0,0,0,0,0,0
-"Coloeus monedula","Aves",10,0,0,0,0,0,0,0,0
+"Coloeus monedula","Aves",17,0,0,0,0,0,0,0,0
 "Conocephalus conocephalus","Orthoptera",12,0,0,0,0,0,0,0,0
 "Corsteropleurus chopardi","Orthoptera",16,0,0,0,0,0,0,0,0
 "Corvus frugilegus","Aves",10,0,0,0,0,0,0,0,0
 "Coturnix coturnix","Aves",4,0,0,0,0,0,0,0,0
-"Cuculus canorus","Aves",24,0,0,0,0,0,0,0,0
+"Cuculus canorus","Aves",25,0,0,0,0,0,0,0,0
 "Curruca iberiae","Aves",52,0,0,0,0,0,0,0,0
 "Curruca undata","Aves",6,0,0,0,0,0,0,0,0
 "Cygnus olor","Aves",3,0,0,0,0,0,0,0,0
@@ -100,7 +100,7 @@
 "Isophya stysi","Orthoptera",26,0,0,0,0,0,0,0,0
 "Larus argentatus","Aves",17,0,0,0,0,0,0,0,0
 "Larus michahellis","Aves",17,0,0,0,0,0,0,0,0
-"Leiopicus medius","Aves",10,0,0,0,0,0,0,0,0
+"Leiopicus medius","Aves",12,0,0,0,0,0,0,0,0
 "Leptophyes albovittata","Orthoptera",3,0,0,0,0,0,0,0,0
 "Leptophyes boscii","Orthoptera",3,0,0,0,0,0,0,0,0
 "Limosa lapponica","Aves",1,0,0,0,0,0,0,0,0
@@ -113,7 +113,7 @@
 "Meleagris gallopavo","Aves",1,0,0,0,0,0,0,0,0
 "Milvus migrans","Aves",3,0,0,0,0,0,0,0,0
 "Montana montana","Orthoptera",1,0,0,0,0,0,0,0,0
-"Motacilla alba","Aves",15,0,0,0,0,0,0,0,0
+"Motacilla alba","Aves",16,0,0,0,0,0,0,0,0
 "Myrmeleotettix antennatus","Orthoptera",6,0,0,0,0,0,0,0,0
 "Numenius arquata","Aves",3,0,0,0,0,0,0,0,0
 "Numenius phaeopus","Aves",5,0,0,0,0,0,0,0,0
@@ -126,7 +126,7 @@
 "Pelophylax grafi","Anura",3,0,0,0,0,0,0,0,0
 "Pelophylax perezi","Anura",20,0,0,0,0,0,0,0,0
 "Phalacrocorax carbo","Aves",2,0,0,0,0,0,0,0,0
-"Phasianus colchicus","Aves",2,0,0,0,0,0,0,0,0
+"Phasianus colchicus","Aves",5,0,0,0,0,0,0,0,0
 "Picus sharpei","Aves",3,0,0,0,0,0,0,0,0
 "Pluvialis apricaria","Aves",1,0,0,0,0,0,0,0,0
 "Pluvialis squatarola","Aves",1,0,0,0,0,0,0,0,0
@@ -179,15 +179,15 @@
 "Charadrius dubius","Aves",7,1,2,2,0.388073999999996,0,2,0,2
 "Charadrius hiaticula","Aves",11,1,4,3,1.192687,0,4,0,3
 "Chorthippus cialancensis","Orthoptera",9,1,1,1,3.720405,0,1,0,1
-"Cicadetta sibillae","Hemiptera",1,1,17,17,68,0,17,0,17
+"Cicadetta sibillae","Hemiptera",6,1,17,17,68,0,17,0,17
 "Circaetus gallicus","Aves",10,1,4,2,1.709809,0,4,0,2
 "Coccothraustes coccothraustes","Aves",27,1,2,1,0.285080999999998,0,2,0,1
 "Curruca communis","Aves",10,1,1,1,0.587838,0,1,0,1
 "Cymbalophora pudica","Lepidoptera",1,1,10,1,0.00412000000000079,0,10,0,1
 "Dociostaurus maroccanus","Orthoptera",29,1,10,7,9.610134,0,10,0,7
 "Dryocopus martius","Aves",14,1,5,3,2.988329,0,5,0,3
-"Emberiza cia","Aves",26,1,1,1,2.264658,0,1,0,1
-"Eugryllodes pipiens","Orthoptera",57,1,4,4,15.363352,0,4,0,4
+"Emberiza cia","Aves",27,1,1,1,2.264658,0,1,0,1
+"Eugryllodes pipiens","Orthoptera",58,1,4,4,15.363352,0,4,0,4
 "Felis silvestris","Mammalia",7,1,7,6,19.721523,0,7,0,6
 "Ficedula hypoleuca","Aves",4,1,6,3,0.543595999999996,0,6,0,3
 "Gampsocleis glabra","Orthoptera",24,1,5,5,19.938091,0,5,0,5
@@ -196,7 +196,6 @@
 "Leptophyes laticauda","Orthoptera",27,1,50,21,5.31604100000004,0,50,0,21
 "Loxia curvirostra","Aves",16,1,1,1,4,1,0,1,0
 "Melanitta nigra","Aves",2,1,3,3,7.099208,0,3,0,3
-"Metrioptera brachyptera","Orthoptera",9,1,12,4,0.966000000000002,0,12,0,4
 "Microtus agrestis","Mammalia",1,1,11,1,0.14598,0,11,0,1
 "Modicogryllus algirius","Orthoptera",6,1,7,5,12.679126,0,7,0,5
 "Motacilla cinerea","Aves",8,1,19,4,1.141373,0,19,0,4
@@ -233,7 +232,7 @@
 "Chorthippus pullus","Orthoptera",37,2,2,2,6.715719,0,2,0,2
 "Ciconia ciconia","Aves",3,2,2,2,3.91643999999999,0,2,0,2
 "Construction noise","Anthropophony",2,2,6,6,17.989124,6,0,6,0
-"Dendrocopos major","Aves",20,2,5,4,2.187107,5,0,4,0
+"Dendrocopos major","Aves",21,2,5,4,2.187107,5,0,4,0
 "Ephippiger persicarius","Orthoptera",15,2,15,15,58.829269,0,15,0,15
 "Equus caballus","Mammalia",4,2,4,3,6.607697,3,1,2,1
 "Fulica atra","Aves",37,2,2,2,0.32357,0,2,0,2
@@ -241,7 +240,7 @@
 "Gunshot","Anthropophony",2,2,2,2,0.598162000000009,0,2,0,2
 "Haematopus ostralegus","Aves",6,2,2,2,4.227367,0,2,0,2
 "Helicopter","Anthropophony",2,2,16,16,55.829731,0,16,0,16
-"Hirundo rustica","Aves",15,2,16,15,42.807866,14,2,14,1
+"Hirundo rustica","Aves",20,2,16,15,42.807866,14,2,14,1
 "Ichthyaetus melanocephalus","Aves",2,2,18,6,15.254768,0,18,0,6
 "Linaria cannabina","Aves",20,2,8,2,1.297684,0,8,0,2
 "Martes foina","Mammalia",7,2,17,14,40.358107,0,17,0,14
@@ -249,7 +248,7 @@
 "Myotis blythii","Chiroptera",10,2,15,2,0.1856,0,15,0,2
 "Natula averni","Orthoptera",18,2,15,15,58.945527,0,15,0,15
 "Oedipoda coerulea","Orthoptera",2,2,20,13,11.253167,0,20,0,13
-"Oligoglena tibialis","Hemiptera",60,2,3,3,11.831163,0,3,0,3
+"Oligoglena tibialis","Hemiptera",61,2,3,3,11.831163,0,3,0,3
 "Omocestus defauti","Orthoptera",7,2,5,5,6.906261,0,5,0,5
 "Pelodytes punctatus","Anura",167,2,12,12,20.568573,12,0,12,0
 "Petronia petronia","Aves",20,2,8,4,3.688692,0,8,0,4
@@ -265,7 +264,7 @@
 "Stenobothrus crassipes","Orthoptera",7,2,10,9,16.71887,0,10,0,9
 "Stenobothrus fischeri","Orthoptera",37,2,13,13,28.023314,0,13,0,13
 "Stenobothrus rubicundulus","Orthoptera",36,2,8,8,22.806298,0,8,0,8
-"Streptopelia decaocto","Aves",20,2,6,3,4.391882,0,6,0,3
+"Streptopelia decaocto","Aves",23,2,6,3,4.391882,0,6,0,3
 "Tachybaptus ruficollis","Aves",16,2,8,4,5.509538,0,8,0,4
 "Tettigonia caudata","Orthoptera",31,2,7,6,18.144834,0,7,0,6
 "Antaxius chopardi","Orthoptera",23,3,41,18,25.108466,0,41,0,18
@@ -283,7 +282,7 @@
 "Oedipoda caerulescens","Orthoptera",46,3,12,6,6.227362,0,12,0,6
 "Regulus ignicapilla","Aves",37,3,4,4,6.809102,4,0,4,0
 "Saxicola rubicola","Aves",18,3,13,10,10.717232,0,13,0,10
-"Serinus serinus","Aves",39,3,17,10,6.638046,2,15,1,9
+"Serinus serinus","Aves",42,3,17,10,6.638046,2,15,1,9
 "Song","Anthropophony",3,3,3,3,4.71894200000001,2,1,2,1
 "Stenobothrus cotticus","Orthoptera",61,3,9,8,28.515152,0,9,0,8
 "Stenobothrus festivus","Orthoptera",14,3,8,8,15.245376,0,8,0,8
@@ -295,18 +294,18 @@
 "Water","Geophony",3,3,4,4,9.49797400000003,3,1,3,1
 "Zip","Anthropophony",3,3,3,3,1.303491,3,0,3,0
 "Bryodemella tuberculata","Orthoptera",10,4,25,25,98.259158,0,25,0,25
-"Chloris chloris","Aves",39,4,10,9,7.12512400000001,0,10,0,9
+"Chloris chloris","Aves",41,4,10,9,7.12512400000001,0,10,0,9
 "Chorthippus corsicus","Orthoptera",13,4,16,14,35.770266,0,16,0,14
-"Chorthippus eisentrauti","Orthoptera",14,4,15,8,13.226552,0,15,0,8
+"Chorthippus eisentrauti","Orthoptera",15,4,15,8,13.226552,0,15,0,8
 "Eupholidoptera tyrrhenica","Orthoptera",19,4,41,39,122.934799,0,41,0,39
 "Gomphocerippus armoricanus","Orthoptera",13,4,19,16,27.108458,0,19,0,16
 "Jynx torquilla","Aves",8,4,44,14,36.31738,0,44,0,14
 "Microphone whistling","Anthropophony",4,4,135,132,503.082332,0,135,0,132
 "Modicogryllus frontalis","Orthoptera",10,4,26,24,85.358208,0,26,0,24
 "Nyctalus noctula","Chiroptera",6,4,52,4,0.806499999999999,0,52,0,4
-"Phoenicurus ochruros","Aves",30,4,17,11,5.809227,2,15,1,10
+"Phoenicurus ochruros","Aves",32,4,17,11,5.809227,2,15,1,10
 "Pholidoptera aptera","Orthoptera",46,4,29,28,52.017992,0,29,0,28
-"Picus viridis","Aves",15,4,10,6,8.26915100000001,1,9,1,5
+"Picus viridis","Aves",19,4,10,6,8.26915100000001,1,9,1,5
 "Poecile palustris","Aves",13,4,10,6,3.54463700000003,4,6,4,2
 "Polysarcus scutatus","Orthoptera",31,4,46,29,93.096298,0,46,0,29
 "Pyrrhula pyrrhula","Aves",12,4,12,7,1.633592,10,2,6,1
@@ -329,7 +328,7 @@
 "Oedipoda germanica","Orthoptera",27,5,19,16,56.469225,0,19,0,16
 "Omocestus antigai","Orthoptera",15,5,24,22,38.911977,0,24,0,22
 "Phoenicurus phoenicurus","Aves",17,5,14,9,4.672342,0,14,0,9
-"Phylloscopus bonelli","Aves",29,5,13,9,6.791004,9,4,5,4
+"Phylloscopus bonelli","Aves",33,5,13,9,6.791004,9,4,5,4
 "Platycleis falx","Orthoptera",30,5,125,96,344.499795,0,125,0,96
 "Rain","Geophony",5,5,14,7,11.3990957,11,3,4,3
 "Tringa ochropus","Aves",17,5,15,13,10.9138130000001,0,15,0,13
@@ -337,9 +336,9 @@
 "Alauda arvensis","Aves",24,6,49,34,76.103522,0,49,0,34
 "Anthus trivialis","Aves",19,6,6,6,6.921497,2,4,2,4
 "Burhinus oedicnemus","Aves",31,6,10,10,17.1142470000001,0,10,0,10
-"Columba palumbus","Aves",27,6,22,18,45.902504,10,12,10,8
+"Columba palumbus","Aves",33,6,22,18,45.902504,10,12,10,8
 "Coughing","Anthropophony",6,6,8,7,6.420517,5,3,4,3
-"Curruca hortensis","Aves",13,6,10,10,15.061358,0,10,0,10
+"Curruca hortensis","Aves",14,6,10,10,15.061358,0,10,0,10
 "Emberiza citrinella","Aves",15,6,21,17,14.262431,13,8,10,7
 "Euchorthippus chopardi","Orthoptera",40,6,11,8,20.435954,11,0,8,0
 "Gryllotalpa vineae","Orthoptera",72,6,32,28,97.891603,7,25,5,23
@@ -349,7 +348,7 @@
 "Omocestus petraeus","Orthoptera",34,6,19,16,41.483553,0,19,0,16
 "Pelophylax ridibundus","Anura",31,6,17,13,16.900392,0,17,0,13
 "Tractor","Anthropophony",6,6,33,33,123.490663,33,0,33,0
-"Troglodytes troglodytes","Aves",93,6,22,16,17.841595,10,12,10,6
+"Troglodytes troglodytes","Aves",94,6,22,16,17.841595,10,12,10,6
 "Acheta domesticus","Orthoptera",28,7,59,59,194.912275,0,59,0,59
 "Barbitistes fischeri","Orthoptera",33,7,89,47,138.020327,0,89,0,47
 "Barbitistes serricauda","Orthoptera",19,7,74,21,15.236398,0,74,0,21
@@ -361,8 +360,8 @@
 "Meconema thalassinum","Orthoptera",14,7,12,11,31.786398,0,12,0,11
 "Pica pica","Aves",69,7,19,17,14.960204,1,18,1,16
 "Podismopsis keisti","Orthoptera",18,7,50,43,63.772142,0,50,0,43
-"Psophus stridulus","Orthoptera",33,7,19,16,25.438564,0,19,0,16
-"Sitta europaea","Aves",32,7,73,28,27.757625,6,67,6,22
+"Psophus stridulus","Orthoptera",34,7,19,16,25.438564,0,19,0,16
+"Sitta europaea","Aves",33,7,73,28,27.757625,6,67,6,22
 "Turdus philomelos","Aves",78,7,14,13,15.262488,4,10,4,9
 "Whistle","Anthropophony",7,7,16,15,27.470245,10,6,10,5
 "Caprimulgus europaeus","Aves",34,8,74,51,122.624155,0,74,0,51
@@ -381,37 +380,35 @@
 "Isophya pyrenaea","Orthoptera",31,9,88,16,6.510092,0,88,0,16
 "Laughter","Anthropophony",9,9,14,13,11.887256,13,1,12,1
 "Myotis crypticus","Chiroptera",28,9,529,9,2.92327,0,529,0,9
-"Pteronemobius lineolatus","Orthoptera",46,9,155,151,479.408373,74,81,73,78
-"Apus apus","Aves",11,10,34,13,24.04882,0,34,0,13
+"Pteronemobius lineolatus","Orthoptera",50,9,154,150,475.408373,74,80,73,77
+"Apus apus","Aves",16,10,34,13,24.04882,0,34,0,13
 "Bos taurus","Mammalia",21,10,34,29,54.183259,1,33,1,28
-"Carduelis carduelis","Aves",54,10,37,14,13.187701,0,37,0,14
-"Cisticola juncidis","Aves",31,10,60,24,17.686817,1,59,1,23
-"Erithacus rubecula","Aves",242,10,48,32,41.506744,4,44,4,28
+"Carduelis carduelis","Aves",61,10,37,14,13.187701,0,37,0,14
+"Cisticola juncidis","Aves",32,10,60,24,17.686817,1,59,1,23
+"Erithacus rubecula","Aves",243,10,48,32,41.506744,4,44,4,28
 "Ovis aries","Mammalia",10,10,24,21,19.254375,10,14,9,12
 "Rhinolophus ferrumequinum","Chiroptera",45,10,620,10,14.5879928,2,618,1,9
 "Antaxius sorrezensis","Orthoptera",26,11,209,11,1.7561,0,209,0,11
 "Callicrania ramburii","Orthoptera",39,11,33,31,30.3281138,14,19,12,19
 "Gomphocerus sibiricus","Orthoptera",33,11,114,85,312.570071,28,86,20,65
 "Rhacocleis poneli","Orthoptera",43,11,100,11,2.38886,0,100,0,11
-"Conocephalus dorsalis","Orthoptera",28,12,87,81,319.936968487,0,87,0,81
 "Creaking","Geophony",12,12,15,13,7.64936499999997,5,10,5,8
-"Delichon urbicum","Aves",25,12,29,18,7.27023100000001,6,23,3,15
-"Oriolus oriolus","Aves",25,12,52,37,22.870642,0,52,0,37
+"Delichon urbicum","Aves",26,12,29,18,7.27023100000001,6,23,3,15
+"Oriolus oriolus","Aves",28,12,52,37,22.870642,0,52,0,37
 "Aeropedellus variegatus","Orthoptera",29,13,23,23,68.34397,0,23,0,23
 "Barbastella barbastellus","Chiroptera",62,13,276,13,2.20589,0,276,0,13
 "Cicadetta fangoana","Hemiptera",18,13,278,185,695.848276,0,278,0,185
-"Emberiza calandra","Aves",27,13,41,35,41.002581,7,34,7,28
+"Emberiza calandra","Aves",29,13,41,35,41.002581,7,34,7,28
 "Merops apiaster","Aves",28,13,91,43,75.418324,14,77,12,31
 "Myotis capaccinii","Chiroptera",30,13,438,13,4.22051,0,438,0,13
 "Sepiana sepium","Orthoptera",80,13,100,42,91.535094,0,100,0,42
 "Chorthippus sampeyrensis","Orthoptera",19,14,23,23,81.517075,0,23,0,23
-"Platycleis affinis","Orthoptera",87,14,206,172,372.814514,0,206,0,172
-"Tibicina steveni","Hemiptera",115,14,303,268,1058.171854,2,301,2,266
-"Chorthippus albomarginatus","Orthoptera",27,15,85,55,41.245254666,0,85,0,55
-"Corvus corone","Aves",94,15,34,23,25.5327100000001,13,21,9,14
+"Platycleis affinis","Orthoptera",88,14,205,171,371.65554,0,205,0,171
+"Tibicina steveni","Hemiptera",115,14,305,270,1066.171854,2,303,2,268
+"Corvus corone","Aves",99,15,34,23,25.5327100000001,13,21,9,14
 "Melanogryllus desertus","Orthoptera",48,15,98,44,30.608972,80,18,40,4
 "Myotis alcathoe","Chiroptera",39,15,902,15,8.64557,0,902,0,15
-"Passer domesticus","Aves",59,15,117,62,86.379306,24,93,24,38
+"Passer domesticus","Aves",62,15,117,62,86.379306,24,93,24,38
 "Phaneroptera laticerca","Orthoptera",33,15,252,90,62.81796,0,252,0,90
 "Sorapagus catalaunicus","Orthoptera",33,15,290,81,212.870224,0,290,0,81
 "Stenobothrus stigmaticus","Orthoptera",41,15,118,101,127.216322,2,116,2,99
@@ -419,119 +416,122 @@
 "Myrmeleotettix maculatus","Orthoptera",37,16,181,111,337.919677,64,117,17,94
 "Roeseliana azami","Orthoptera",61,16,128,117,441.822095,0,128,0,117
 "Tibicina quadrisignata","Hemiptera",133,16,637,608,2431.232713,0,637,0,608
-"Cyanistes caeruleus","Aves",168,17,41,30,18.081144,3,38,3,27
+"Chorthippus albomarginatus","Orthoptera",29,17,88,58,46.040734684,0,88,0,58
+"Cyanistes caeruleus","Aves",173,17,41,30,18.081144,3,38,3,27
 "Motorbike","Anthropophony",17,17,70,68,215.676308,45,25,43,25
 "Chrysochraon dispar","Orthoptera",55,18,91,64,71.169317,55,36,36,28
-"Cicadetta cerdaniensis","Hemiptera",25,18,849,347,703.520157,230,619,132,215
+"Cicadetta cerdaniensis","Hemiptera",32,18,848,346,699.520157,230,618,132,214
 "Digital bug","Anthropophony",18,18,37,30,30.547653,21,16,16,14
 "Engine","Anthropophony",18,18,306,301,1157.117938,0,306,0,301
 "Gryllotalpa gryllotalpa","Orthoptera",52,18,259,254,972.456644,194,65,191,63
-"Lullula arborea","Aves",84,18,90,69,101.711521,0,90,0,69
+"Lullula arborea","Aves",85,18,90,69,101.711521,0,90,0,69
 "Omocestus viridulus","Orthoptera",39,19,234,192,656.953176,44,190,40,152
 "Platycleis sabulosa","Orthoptera",37,19,467,68,205.995311,6,461,4,64
 "Strix aluco","Aves",119,19,80,73,141.784998,53,27,49,24
 "Water stream","Geophony",19,19,117,109,405.362647,37,80,35,74
-"Zeuneriana abbreviata","Orthoptera",43,20,350,302,1118.365514,299,51,287,15
+"Zeuneriana abbreviata","Orthoptera",43,20,351,303,1122.365514,300,51,288,15
 "Branch","Geophony",21,21,30,30,22.1879480000001,15,15,15,15
 "Tibicina nigronervosa","Hemiptera",37,21,274,247,974.968,0,274,0,247
 "Euchorthippus declivus","Orthoptera",61,22,183,68,107.693294,134,49,56,12
 "Hyla meridionalis","Anura",134,22,221,141,274.851474,38,183,18,123
 "Cyrtaspis scutata","Orthoptera",75,23,108,32,73.9178862,62,46,17,15
-"Gomphocerippus rufus","Orthoptera",57,23,80,75,183.176049,15,65,15,60
+"Gomphocerippus rufus","Orthoptera",58,23,80,75,183.176049,15,65,15,60
 "Rhinolophus euryale","Chiroptera",60,23,1777,23,16.04492,0,1777,0,23
-"Emberiza cirlus","Aves",67,24,49,48,45.16506,1,48,1,47
-"Euchorthippus elegantulus","Orthoptera",88,25,128,96,321.658759,107,21,83,13
+"Emberiza cirlus","Aves",70,24,49,48,45.16506,1,48,1,47
+"Euchorthippus elegantulus","Orthoptera",89,25,128,96,321.658759,107,21,83,13
 "Miniopterus schreibersii","Chiroptera",67,25,528,25,6.26961,0,528,0,25
 "Rhinolophus hipposideros","Chiroptera",82,25,1770,25,36.1922673,2,1768,2,23
-"Tibicina corsica","Hemiptera",148,25,578,522,2019.134133,0,578,0,522
+"Tibicina corsica","Hemiptera",152,25,578,522,2019.134133,0,578,0,522
 "Arcyptera fusca","Orthoptera",54,26,111,71,161.569798,56,55,31,40
 "Leaves","Geophony",26,26,227,210,609.561904,9,218,9,201
 "Periparus ater","Aves",97,26,72,56,56.743282,43,29,35,21
 "Scream","Anthropophony",26,26,71,61,92.874047,17,54,14,47
-"Tessellana tessellata","Orthoptera",113,26,484,49,55.7364956,27,457,8,41
 "Chorthippus saulcyi","Orthoptera",81,27,166,144,309.841183,23,143,23,121
-"Cicadetta montana","Hemiptera",198,28,346,341,1253.355288,0,346,0,341
+"Cicadetta montana","Hemiptera",200,28,346,341,1253.355288,0,346,0,341
 "Gryllus bimaculatus","Orthoptera",142,28,332,271,770.252429,162,170,148,123
-"Metrioptera buyssoni","Orthoptera",65,28,257,160,568.238267,112,145,76,84
-"Cicada barbara","Hemiptera",31,29,338,337,1332.258799,0,338,0,337
+"Metrioptera buyssoni","Orthoptera",67,28,257,160,568.238267,112,145,76,84
+"Cicada barbara","Hemiptera",31,29,339,338,1336.258799,0,339,0,338
 "Chorthippus jacobsi","Orthoptera",60,30,265,112,191.494574,37,228,27,85
 "Polysarcus denticauda","Orthoptera",86,30,332,273,1058.70072,306,26,251,22
-"Chorthippus vagans","Orthoptera",88,31,133,104,304.772669,76,57,69,35
-"Cicadetta petryi","Hemiptera",107,31,298,205,685.609566,56,242,39,166
-"Stenobothrus lineatus","Orthoptera",82,31,322,261,974.157933,43,279,37,224
-"Cicadetta cantilatrix","Hemiptera",138,32,810,734,2688.573,0,810,0,734
-"Dimissalna dimissa","Hemiptera",113,32,642,632,2502.914162,0,642,0,632
+"Chorthippus vagans","Orthoptera",89,31,133,104,304.772669,76,57,69,35
+"Cicadetta cantilatrix","Hemiptera",138,32,813,737,2700.331,0,813,0,737
+"Dimissalna dimissa","Hemiptera",113,32,641,631,2498.914162,0,641,0,631
 "Eptesicus serotinus","Chiroptera",53,32,704,32,17.69251,0,704,0,32
 "Nyctalus leisleri","Chiroptera",74,32,868,32,13.74778,0,868,0,32
 "Pipistrellus pygmaeus","Chiroptera",74,32,1055,32,10.45799,0,1055,0,32
 "Rhacocleis annulata","Orthoptera",48,32,273,128,282.606965,273,0,128,0
-"Tibicina garricola","Hemiptera",226,32,330,316,1176.045144,61,269,61,255
+"Tibicina garricola","Hemiptera",231,32,331,317,1180.045144,61,270,61,256
+"Cicadetta petryi","Hemiptera",118,34,363,238,794.432566,56,307,39,199
 "Hypsugo savii","Chiroptera",57,35,774,35,12.53468,0,774,0,35
-"Parus major","Aves",368,35,110,76,78.176213,15,95,13,63
-"Tibicina haematodes","Hemiptera",199,35,293,285,1047.666733,213,80,205,80
+"Parus major","Aves",371,35,110,76,78.176213,15,95,13,63
+"Tibicina haematodes","Hemiptera",208,35,294,286,1051.666733,213,81,205,81
+"Tessellana tessellata","Orthoptera",124,37,644,209,671.237594217,27,617,8,201
 "Plecotus austriacus","Chiroptera",69,38,1214,38,8.07646,0,1214,0,38
-"Tettigettula pygmea","Hemiptera",146,39,380,276,793.664143,49,331,36,240
-"Turdus merula","Aves",242,39,129,108,121.423681,26,103,24,84
+"Tettigettula pygmea","Hemiptera",156,39,380,276,793.664143,49,331,36,240
+"Turdus merula","Aves",245,39,129,108,121.423681,26,103,24,84
 "Bombina variegata","Anura",60,41,568,502,1906.703877,568,0,502,0
 "Omocestus raymondi","Orthoptera",69,41,107,96,179.036823,93,14,87,9
+"Stenobothrus lineatus","Orthoptera",92,41,348,287,1051.235986084,43,305,37,250
 "Step","Anthropophony",42,42,181,157,434.868825,43,138,35,122
-"Tibicina picta","Hemiptera",137,42,471,417,1612.019908,57,414,55,362
-"Phylloscopus collybita","Aves",86,43,178,105,96.8062060000001,86,92,62,43
+"Tibicina picta","Hemiptera",137,42,469,415,1604.019908,57,412,55,360
+"Phylloscopus collybita","Aves",87,43,178,105,96.8062060000001,86,92,62,43
+"Cicadetta brevipennis","Hemiptera",120,45,1327,1140,4301.612494,0,1327,0,1140
 "Platycleis intermedia","Orthoptera",92,45,862,283,726.557985,39,823,32,251
-"Chorthippus brunneus","Orthoptera",108,46,251,139,182.910074659,98,153,61,78
-"Stethophyma grossum","Orthoptera",86,47,197,143,289.751423507,72,125,22,121
 "Yersinella raymondii","Orthoptera",133,47,448,86,57.0252251,245,203,40,46
-"Cicadetta brevipennis","Hemiptera",123,48,1392,1173,4410.435494,0,1392,0,1173
 "Euthystira brachyptera","Orthoptera",70,48,624,479,476.862271155,44,580,27,452
 "Pipistrellus kuhlii","Chiroptera",115,48,1028,48,29.1555365,9,1019,7,41
 "Stauroderus scalaris","Orthoptera",115,48,246,152,371.880507,141,105,82,70
+"Conocephalus dorsalis","Orthoptera",66,50,290,279,1046.173468175,0,290,0,279
 "Bell","Anthropophony",51,51,254,226,683.673696,158,96,132,94
 "Pholidoptera femorata","Orthoptera",63,51,460,275,308.065725,0,460,0,275
 "Tylopsis lilifolia","Orthoptera",115,52,220,136,195.3092085,141,79,82,54
 "Cicadatra atra","Hemiptera",114,54,396,371,1374.354515,164,232,164,207
 "Metrioptera saussuriana","Orthoptera",123,56,772,466,1416.720225,247,525,201,265
-"Lyristes plebejus","Hemiptera",104,57,527,454,1579.272552,126,401,120,334
+"Lyristes plebejus","Hemiptera",104,57,526,453,1575.272552,126,400,120,333
 "Pteronemobius heydenii","Orthoptera",121,57,658,633,2243.473527,520,138,500,133
+"Metrioptera brachyptera","Orthoptera",67,58,332,318,1205.186365387,0,332,0,318
 "Luscinia megarhynchos","Aves",268,59,233,170,212.418435,23,210,19,151
 "Plane","Anthropophony",61,61,423,392,1528.148585,175,248,174,218
-"Chorthippus dorsatus","Orthoptera",113,62,594,335,488.917954382,52,542,35,300
-"Fringilla coelebs","Aves",271,65,239,191,199.52186,37,202,34,157
+"Fringilla coelebs","Aves",274,65,239,191,199.52186,37,202,34,157
 "Uromenus rugosicollis","Orthoptera",126,65,762,330,1156.5832476,285,477,247,83
-"Chorthippus apricarius","Orthoptera",116,69,412,388,1361.700979683,99,313,95,293
-"Decticus verrucivorus","Orthoptera",112,71,591,405,1340.397315,238,353,183,222
-"Sylvia atricapilla","Aves",223,73,211,173,255.815004,77,134,65,108
+"Chorthippus dorsatus","Orthoptera",121,70,632,355,517.273592848,52,580,35,320
+"Sylvia atricapilla","Aves",235,73,211,173,255.815004,77,134,65,108
 "Decticus albifrons","Orthoptera",141,74,470,390,1312.716496,225,245,215,175
 "Phaneroptera falcata","Orthoptera",76,74,1322,661,419.094325701,0,1322,0,661
-"Chorthippus mollis","Orthoptera",123,76,404,358,1026.424847188,100,304,86,272
+"Decticus verrucivorus","Orthoptera",117,76,612,421,1374.733354577,238,374,183,238
 "Pipistrellus pipistrellus","Chiroptera",145,79,2320,79,40.160779,8,2312,7,72
 "Cowbell","Anthropophony",80,80,727,428,1178.781113,140,587,68,360
+"Chorthippus mollis","Orthoptera",128,81,422,376,1089.531443682,100,322,86,290
 "Collision","Anthropophony",81,81,155,127,47.8566089999999,13,142,10,117
-"Bicolorana bicolor","Orthoptera",134,88,1172,798,2623.182454572,72,1100,64,734
-"Nemobius sylvestris","Orthoptera",200,91,975,673,1775.779189,155,820,136,537
+"Nemobius sylvestris","Orthoptera",202,91,975,673,1775.779189,155,820,136,537
+"Stethophyma grossum","Orthoptera",133,93,327,250,484.43169395,72,255,22,228
+"Bicolorana bicolor","Orthoptera",141,95,1338,916,3127.30655238,72,1266,64,852
 "Ephippiger diurnus","Orthoptera",231,95,1631,466,861.985822500001,334,1297,148,318
-"Eumodicogryllus bordigalensis","Orthoptera",229,96,2242,2048,6412.706584,329,1913,312,1736
-"Chorthippus biguttulus","Orthoptera",189,102,840,587,1277.781039176,119,721,113,474
+"Chorthippus apricarius","Orthoptera",143,96,468,444,1557.615035927,99,369,95,349
+"Eumodicogryllus bordigalensis","Orthoptera",229,96,2239,2045,6403.822982,329,1910,312,1733
 "Canis familiaris","Mammalia",190,105,707,557,953.224407,330,377,281,276
 "Tettigettalna argentata","Hemiptera",167,110,787,707,2617.108692,215,572,206,501
-"Tettigonia cantans","Orthoptera",194,112,1405,1039,3174.733023405,187,1218,181,858
-"Oecanthus pellucens","Orthoptera",192,114,1769,1679,5798.0927422,734,1035,717,962
-"Ruspolia nitidula","Orthoptera",192,122,2861,833,3074.8507848,566,2295,546,287
+"Chorthippus brunneus","Orthoptera",178,116,641,399,671.239660135,98,543,61,338
+"Oecanthus pellucens","Orthoptera",215,136,2302,2211,7893.847415302,734,1568,717,1494
 "Omocestus rufipes","Orthoptera",236,142,494,391,1080.677014,177,317,160,231
-"Car","Anthropophony",153,153,930,904,3093.573518,331,599,331,573
-"Isophya kraussii","Orthoptera",188,163,2586,2113,9755.009354638,0,2586,0,2113
+"Ruspolia nitidula","Orthoptera",213,143,3531,1453,5728.724719585,566,2965,546,907
+"Car","Anthropophony",157,157,986,960,3308.726518,331,655,331,629
+"Chorthippus biguttulus","Orthoptera",249,162,1080,767,1589.553059808,119,961,113,654
 "Phaneroptera nana","Orthoptera",309,163,1347,441,321.3283733,369,978,176,265
-"Pholidoptera griseoaptera","Orthoptera",222,172,3440,1523,1042.014151555,241,3199,181,1342
-"Conocephalus fuscus","Orthoptera",219,173,2339,1894,7852.998142607,66,2273,28,1866
-"Platycleis albopunctata","Orthoptera",313,176,1202,940,3015.797530029,170,1032,145,795
+"Isophya kraussii","Orthoptera",193,167,2644,2171,9983.745643055,0,2644,0,2171
+"Conocephalus fuscus","Orthoptera",219,173,2341,1896,7860.998142607,66,2275,28,1868
 "Cicada orni","Hemiptera",282,180,1692,1571,5751.516238,374,1318,358,1213
-"Scraping","Anthropophony",180,180,391,333,449.704116,38,353,20,313
-"Pseudochorthippus parallelus","Orthoptera",293,222,2034,1564,2766.477738893,292,1742,274,1290
+"Scraping","Anthropophony",181,181,394,336,457.446116,38,356,20,316
+"Tettigonia cantans","Orthoptera",281,199,1715,1301,3832.987111049,187,1528,181,1120
+"Platycleis albopunctata","Orthoptera",353,216,1824,1468,5078.162893515,170,1654,145,1323
 "Human movement","Anthropophony",236,236,583,527,1044.306295,385,198,333,194
+"Pseudochorthippus parallelus","Orthoptera",323,251,2141,1650,2875.671932131,292,1849,274,1376
 "Microphone","Anthropophony",266,266,1672,1318,3103.823973,722,950,486,832
 "Voice","Anthropophony",268,268,1137,791,1478.9767928,691,446,473,318
-"Leptophyes punctatissima","Orthoptera",339,275,1526,996,173.886371019,365,1161,128,868
-"Unidentified sound","Anthropophony",349,349,1592,1008,2180.4788668,223,1369,199,809
-"Roeseliana roeselii","Orthoptera",390,351,3326,2739,10066.784117882,258,3068,215,2524
-"Gryllus campestris","Orthoptera",571,355,5418,4655,17033.141574441,1628,3790,1371,3284
+"Pholidoptera griseoaptera","Orthoptera",322,271,4339,1823,1318.559119154,241,4098,181,1642
+"Leptophyes punctatissima","Orthoptera",396,332,1911,1291,820.534058196,365,1546,128,1163
+"Gryllus campestris","Orthoptera",573,355,5420,4657,17038.912691441,1628,3792,1371,3286
+"Unidentified sound","Anthropophony",373,373,1659,1052,2283.113965846,223,1436,199,853
 "Wind","Geophony",415,415,2556,2358,8329.201003,948,1608,879,1479
-"Tettigonia viridissima","Orthoptera",772,514,11037,4187,14036.292828177,601,10436,563,3624
+"Tettigonia viridissima","Orthoptera",849,590,11647,4612,15696.143077517,601,11046,563,4049
+"Roeseliana roeselii","Orthoptera",644,605,4528,3925,14794.421296835,258,4270,215,3710

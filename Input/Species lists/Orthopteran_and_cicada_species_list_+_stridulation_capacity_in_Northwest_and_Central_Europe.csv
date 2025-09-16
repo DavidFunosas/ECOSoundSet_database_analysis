@@ -2,9 +2,8 @@ Espèce,Ordre,Sous-ordre,Stridulation,Son,Fréquences dominantes (kHz),Ultrasons
 Acheta domesticus,Orthoptera,Ensifera,Oui,Stridulation,Audible,,Habitations,Méditerranée,Janvier,Décembre,Pic en été
 Acrida ungarica mediterranea,Orthoptera,Caelifera,Non,No,,,Milieux sableux ou alluvionnaires,Méditerranée,Juillet,Octobre,
 Acrometopa italica,Orthoptera,Ensifera,Oui,Stridulation,Audible,,Friches thermophiles à strate herbacée haute,Corse,,,
-Acrotylus braudi,Orthoptera,Caelifera,Crissement,Wing rattle,Audible,,Milieux pionniers secs avec végétation lacunaires,Corse,Janvier,Décembre,Pic au printemps et été
 Acrotylus fischeri,Orthoptera,Caelifera,Crissement,Wing rattle,Audible,,Milieux pionniers secs avec végétation lacunaires,Occitanie,Janvier,Décembre,Pic au printemps et été
-Acrotylus insubricus braudi,Orthoptera,Caelifera,Crissement,Wing rattle,Audible,,,,,,
+Acrotylus insubricus braudi,Orthoptera,Caelifera,Crissement,Wing rattle,Audible,,Milieux pionniers secs avec végétation lacunaires,Corse,Janvier,Décembre,Pic au printemps et été
 Acrotylus insubricus insubricus,Orthoptera,Caelifera,Crissement,Wing rattle,Audible,,Milieux pionniers secs avec végétation lacunaires,Occitanie,Janvier,Décembre,Pic au printemps et été
 Acrotylus patruelis,Orthoptera,Caelifera,Crissement,Wing rattle,Audible,,Milieux pionniers secs avec végétation lacunaires,Corse,Janvier,Décembre,Pic au printemps et été
 Aeropedellus variegatus variegatus,Orthoptera,Caelifera,Oui,Stridulation,Audible,,"Pelouses et pâturage alpins, combes à neige",Alpes,Juillet,Octobre,
@@ -263,7 +262,7 @@ Pseudochorthippus parallelus parallelus,Orthoptera,Caelifera,Oui,Stridulation,Au
 Pseudochorthippus tatrae,Orthoptera,Caelifera,Non,No,,,,,,,
 Pseudomogoplistes squamiger,Orthoptera,Ensifera,Non,No,,,"Plages de galets et d'algues, posidonies, digues, ports",Méditerranée,Janvier,Décembre,Pic en été
 Pseudomogoplistes vicentae septentrionalis,Orthoptera,Ensifera,Non,No,,,Plages de galets et d'algues,Bretagne,Juin,Avril,
-Psophus stridulus stridulus,Orthoptera,Caelifera,Crissement,Wing rattle,Audible,,"Pelouses, alpages rocailleux, terrasses alluviales, landes sableuses",Occitanie,Juin,Novembre,
+Psophus stridulus,Orthoptera,Caelifera,Crissement,Wing rattle,Audible,,"Pelouses, alpages rocailleux, terrasses alluviales, landes sableuses",Occitanie,Juin,Novembre,
 Pteronemobius heydenii heydenii,Orthoptera,Ensifera,Oui,Stridulation,Audible,,"Marais, rives d'étangs, fossés, suintements",Occitanie,Avril,Octobre,
 Pteronemobius lineolatus,Orthoptera,Ensifera,Oui,Stridulation,Audible,,"Rives sableuses, graveleuses ou limoneuses de cours d'eau",Occitanie,Juillet,Octobre,
 Pyrgomorpha conica conica,Orthoptera,Caelifera,Non,No,,,"Guarrigues, sable, pelouses à Brachypode rameux, à thyms et à cistes",Méditerranée,Avril,Août,
