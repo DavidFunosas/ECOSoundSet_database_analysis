@@ -1,5 +1,5 @@
 "recording_category","n_recordings","n_recordings_exhaustively_annotated","n_recordings_partially_annotated","total_minutes_recorded","n_audio_segments_annotated"
-"Expressly collected focal recording",2282,494,1086,1810,7138
-"Pre-existing focal recording",6930,508,287,7372,10954
-"Expressly collected soundscape",1279,3,1276,1104,1085
-"Pre-existing soundscape",1429,0,1397,2783,23331
+"Expressly collected focal recording",2282,487,1039,3233,7138
+"Pre-existing focal recording",6930,481,253,7665,10954
+"Expressly collected soundscape",288,3,173,142,1085
+"Pre-existing soundscape",2420,0,2307,6479,23331

@@ -143,6 +143,9 @@ ort_hem_recording_metadata <- ort_hem_recordings %>%
   mutate(longitude = as.character(longitude),
          latitue = as.character(latitude))
 
+ort_hem_recording_metadata <- ort_hem_recording_metadata %>%
+  mutate(air_temperature = as.character(air_temperature))
+
 # Transforming NAs into empty strings
 ort_hem_recording_metadata[is.na(ort_hem_recording_metadata)] <- ""
 
