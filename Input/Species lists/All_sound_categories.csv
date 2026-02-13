@@ -22550,7 +22550,6 @@ Animalia,Arthropoda,Insecta,Coleoptera,Cerambycidae,Cerambycinae,Molorchini,8024
 Animalia,Arthropoda,Insecta,Coleoptera,Cerambycidae,Cerambycinae,Molorchini,223130,223130,ES,Molorchus minor
 Animalia,Arthropoda,Insecta,Coleoptera,Cerambycidae,Cerambycinae,Molorchini,802426,223130,ES,Necydalis minor
 Animalia,Arthropoda,Insecta,Coleoptera,Cerambycidae,Cerambycinae,Molorchini,795645,795645,SSES,Molorchus minor minor
-Animalia,Arthropoda,Insecta,Coleoptera,Cerambycidae,Cerambycinae,Nathriini,12334,188656,ES,Leptidea brevipennis
 Animalia,Arthropoda,Insecta,Coleoptera,Cerambycidae,Cerambycinae,Nathriini,188656,188656,ES,Nathrius brevipennis
 Animalia,Arthropoda,Insecta,Coleoptera,Cerambycidae,Cerambycinae,Nathriini,396448,188656,ES,Nathrius porteri
 Animalia,Arthropoda,Insecta,Coleoptera,Cerambycidae,Cerambycinae,Obriini,223132,223132,ES,Obrium brunneum
@@ -54400,7 +54399,6 @@ Animalia,Arthropoda,Insecta,Diptera,Calliphoridae,,,27453,224828,ES,Cynomyia mor
 Animalia,Arthropoda,Insecta,Diptera,Calliphoridae,,,936309,224828,ES,Musca mortuorum
 Animalia,Arthropoda,Insecta,Diptera,Calliphoridae,,,224829,224829,ES,Eggisops pecchiolii
 Animalia,Arthropoda,Insecta,Diptera,Calliphoridae,,,27501,27501,ES,Eurychaeta muscaria
-Animalia,Arthropoda,Insecta,Diptera,Calliphoridae,,,936310,27501,ES,Sarcophaga muscaria
 Animalia,Arthropoda,Insecta,Diptera,Calliphoridae,,,224830,224830,ES,Eurychaeta palpalis
 Animalia,Arthropoda,Insecta,Diptera,Calliphoridae,,,398310,224830,ES,Helicobosca distinguenda
 Animalia,Arthropoda,Insecta,Diptera,Calliphoridae,,,936311,224830,ES,Theria palpalis
@@ -68736,9 +68734,6 @@ Animalia,Arthropoda,Insecta,Diptera,Sarcophagidae,,,27544,27544,ES,Agria affinis
 Animalia,Arthropoda,Insecta,Diptera,Sarcophagidae,,,940065,27544,ES,Agria grisescens
 Animalia,Arthropoda,Insecta,Diptera,Sarcophagidae,,,27543,27544,ES,Agria punctata
 Animalia,Arthropoda,Insecta,Diptera,Sarcophagidae,,,940064,27544,ES,Musca affinis
-Animalia,Arthropoda,Insecta,Diptera,Sarcophagidae,,,940066,27544,ES,Sarcophaga arvensis
-Animalia,Arthropoda,Insecta,Diptera,Sarcophagidae,,,940067,27544,ES,Sarcophaga procax
-Animalia,Arthropoda,Insecta,Diptera,Sarcophagidae,,,940068,27544,ES,Sarcophaga quinquevittata
 Animalia,Arthropoda,Insecta,Diptera,Sarcophagidae,,,27545,27545,ES,Agria mamillata
 Animalia,Arthropoda,Insecta,Diptera,Sarcophagidae,,,940070,27545,ES,Pseudosarcophaga pacifica
 Animalia,Arthropoda,Insecta,Diptera,Sarcophagidae,,,940071,27545,ES,Sarcophila biclunis
@@ -68780,7 +68775,6 @@ Animalia,Arthropoda,Insecta,Diptera,Sarcophagidae,,,940095,226473,ES,Blaesoxipha
 Animalia,Arthropoda,Insecta,Diptera,Sarcophagidae,,,940096,226473,ES,Blaesoxipha ampliforceps
 Animalia,Arthropoda,Insecta,Diptera,Sarcophagidae,,,226473,226473,ES,Blaesoxipha cochlearis
 Animalia,Arthropoda,Insecta,Diptera,Sarcophagidae,,,940097,226473,ES,Blaesoxipha sinica
-Animalia,Arthropoda,Insecta,Diptera,Sarcophagidae,,,940094,226473,ES,Sarcophaga cochlearis
 Animalia,Arthropoda,Insecta,Diptera,Sarcophagidae,,,226474,226474,ES,Blaesoxipha descosseae
 Animalia,Arthropoda,Insecta,Diptera,Sarcophagidae,,,226475,226475,ES,Blaesoxipha dupuisi
 Animalia,Arthropoda,Insecta,Diptera,Sarcophagidae,,,226489,226489,ES,Blaesoxipha erythrura
@@ -68791,15 +68785,12 @@ Animalia,Arthropoda,Insecta,Diptera,Sarcophagidae,,,940102,226489,ES,Myophora cr
 Animalia,Arthropoda,Insecta,Diptera,Sarcophagidae,,,940103,226489,ES,Myophora riparia
 Animalia,Arthropoda,Insecta,Diptera,Sarcophagidae,,,940104,226489,ES,Ravinia aurea
 Animalia,Arthropoda,Insecta,Diptera,Sarcophagidae,,,940105,226489,ES,Ravinia blaesoxyphina
-Animalia,Arthropoda,Insecta,Diptera,Sarcophagidae,,,940098,226489,ES,Sarcophaga erythrura
-Animalia,Arthropoda,Insecta,Diptera,Sarcophagidae,,,940106,226489,ES,Sarcophaga lusatica
 Animalia,Arthropoda,Insecta,Diptera,Sarcophagidae,,,940107,226489,ES,Servaisia egena
 Animalia,Arthropoda,Insecta,Diptera,Sarcophagidae,,,940108,226489,ES,Servaisia gagatea
 Animalia,Arthropoda,Insecta,Diptera,Sarcophagidae,,,940109,226489,ES,Servaisia luteicauda
 Animalia,Arthropoda,Insecta,Diptera,Sarcophagidae,,,27660,226489,ES,Servaisia (Servaisia) erythrura
 Animalia,Arthropoda,Insecta,Diptera,Sarcophagidae,,,226468,226468,ES,Blaesoxipha fossoria
 Animalia,Arthropoda,Insecta,Diptera,Sarcophagidae,,,940111,226468,ES,Blaesoxipha potanini
-Animalia,Arthropoda,Insecta,Diptera,Sarcophagidae,,,940110,226468,ES,Sarcophaga fossoria
 Animalia,Arthropoda,Insecta,Diptera,Sarcophagidae,,,940113,226492,ES,Blaesoxipha beaumonti
 Animalia,Arthropoda,Insecta,Diptera,Sarcophagidae,,,226492,226492,ES,Blaesoxipha grisea
 Animalia,Arthropoda,Insecta,Diptera,Sarcophagidae,,,940114,226492,ES,Gesneria agrestis
@@ -68821,17 +68812,12 @@ Animalia,Arthropoda,Insecta,Diptera,Sarcophagidae,,,940129,226492,ES,Gesneria ra
 Animalia,Arthropoda,Insecta,Diptera,Sarcophagidae,,,940130,226492,ES,Gesneria riparia
 Animalia,Arthropoda,Insecta,Diptera,Sarcophagidae,,,940131,226492,ES,Gesneria ruralis
 Animalia,Arthropoda,Insecta,Diptera,Sarcophagidae,,,940132,226492,ES,Gesneria rustica
-Animalia,Arthropoda,Insecta,Diptera,Sarcophagidae,,,940133,226492,ES,Sarcophaga brunnicans
-Animalia,Arthropoda,Insecta,Diptera,Sarcophagidae,,,940112,226492,ES,Sarcophaga grisea
 Animalia,Arthropoda,Insecta,Diptera,Sarcophagidae,,,226476,226476,ES,Blaesoxipha lapidosa
-Animalia,Arthropoda,Insecta,Diptera,Sarcophagidae,,,399670,226476,ES,Sarcophaga lapidosa
 Animalia,Arthropoda,Insecta,Diptera,Sarcophagidae,,,940135,226477,ES,Blaesoxipha changbaishanensis
 Animalia,Arthropoda,Insecta,Diptera,Sarcophagidae,,,940136,226477,ES,Blaesoxipha grylloctona
 Animalia,Arthropoda,Insecta,Diptera,Sarcophagidae,,,226477,226477,ES,Blaesoxipha laticornis
 Animalia,Arthropoda,Insecta,Diptera,Sarcophagidae,,,940137,226477,ES,Blaesoxipha sibirica
 Animalia,Arthropoda,Insecta,Diptera,Sarcophagidae,,,940138,226477,ES,Blaesoxipha ussurica
-Animalia,Arthropoda,Insecta,Diptera,Sarcophagidae,,,940139,226477,ES,Sarcophaga grylloctena
-Animalia,Arthropoda,Insecta,Diptera,Sarcophagidae,,,940134,226477,ES,Sarcophaga laticornis
 Animalia,Arthropoda,Insecta,Diptera,Sarcophagidae,,,226478,226478,ES,Blaesoxipha lautaretensis
 Animalia,Arthropoda,Insecta,Diptera,Sarcophagidae,,,940141,226479,ES,Blaesoxipha acuminata
 Animalia,Arthropoda,Insecta,Diptera,Sarcophagidae,,,940142,226479,ES,Blaesoxipha formosa
@@ -68842,7 +68828,6 @@ Animalia,Arthropoda,Insecta,Diptera,Sarcophagidae,,,226480,226480,ES,Blaesoxipha
 Animalia,Arthropoda,Insecta,Diptera,Sarcophagidae,,,226481,226481,ES,Blaesoxipha occatrix
 Animalia,Arthropoda,Insecta,Diptera,Sarcophagidae,,,940145,226481,ES,Blaesoxipha rohdendorfi
 Animalia,Arthropoda,Insecta,Diptera,Sarcophagidae,,,940146,226481,ES,Blaesoxipha zachvatkini
-Animalia,Arthropoda,Insecta,Diptera,Sarcophagidae,,,940144,226481,ES,Sarcophaga occatrix
 Animalia,Arthropoda,Insecta,Diptera,Sarcophagidae,,,940147,226482,ES,Agriella pandellei
 Animalia,Arthropoda,Insecta,Diptera,Sarcophagidae,,,940148,226482,ES,Agriella zernyi
 Animalia,Arthropoda,Insecta,Diptera,Sarcophagidae,,,226482,226482,ES,Blaesoxipha pandellei
@@ -72486,7 +72471,6 @@ Animalia,Arthropoda,Insecta,Diptera,Syrphidae,Syrphinae,Pipizini,850555,217579,E
 Animalia,Arthropoda,Insecta,Diptera,Syrphidae,Syrphinae,Pipizini,217579,217579,ES,Pipizella viduata
 Animalia,Arthropoda,Insecta,Diptera,Syrphidae,Syrphinae,Pipizini,945609,24398,ES,Heringia fumida
 Animalia,Arthropoda,Insecta,Diptera,Syrphidae,Syrphinae,Pipizini,945607,24398,ES,Mulio virens
-Animalia,Arthropoda,Insecta,Diptera,Syrphidae,Syrphinae,Pipizini,945610,24398,ES,Paragus geniculata
 Animalia,Arthropoda,Insecta,Diptera,Syrphidae,Syrphinae,Pipizini,945611,24398,ES,Pipiza fulvitarsis
 Animalia,Arthropoda,Insecta,Diptera,Syrphidae,Syrphinae,Pipizini,945612,24398,ES,Pipiza interrupta
 Animalia,Arthropoda,Insecta,Diptera,Syrphidae,Syrphinae,Pipizini,945613,24398,ES,Pipiza morosa
@@ -86331,7 +86315,6 @@ Animalia,Arthropoda,Insecta,Hymenoptera,Apidae,Anthophorinae,,407151,239515,ES,A
 Animalia,Arthropoda,Insecta,Hymenoptera,Apidae,Anthophorinae,,239515,239515,ES,Anthophora robusta
 Animalia,Arthropoda,Insecta,Hymenoptera,Apidae,Anthophorinae,,239494,239517,ES,Anthophora crinipes
 Animalia,Arthropoda,Insecta,Hymenoptera,Apidae,Anthophorinae,,239517,239517,ES,Anthophora salviae
-Animalia,Arthropoda,Insecta,Hymenoptera,Apidae,Anthophorinae,,815955,239517,ES,Lasius salviae
 Animalia,Arthropoda,Insecta,Hymenoptera,Apidae,Anthophorinae,,239519,239519,ES,Anthophora senescens
 Animalia,Arthropoda,Insecta,Hymenoptera,Apidae,Anthophorinae,,239520,239520,ES,Anthophora sichelii
 Animalia,Arthropoda,Insecta,Hymenoptera,Apidae,Anthophorinae,,239687,239687,ES,Habropoda tarsata
@@ -89739,7 +89722,6 @@ Animalia,Arthropoda,Insecta,Hymenoptera,Colletidae,Colletinae,Colletini,239615,2
 Animalia,Arthropoda,Insecta,Hymenoptera,Colletidae,Colletinae,Colletini,239616,239616,ES,Colletes albomaculatus
 Animalia,Arthropoda,Insecta,Hymenoptera,Colletidae,Colletinae,Colletini,997664,239616,ES,Colletes niveofasciatus
 Animalia,Arthropoda,Insecta,Hymenoptera,Colletidae,Colletinae,Colletini,1000333,239616,ES,Colletes spectabilis
-Animalia,Arthropoda,Insecta,Hymenoptera,Colletidae,Colletinae,Colletini,997662,239616,ES,Halictus albomaculatus
 Animalia,Arthropoda,Insecta,Hymenoptera,Colletidae,Colletinae,Colletini,317802,317802,ES,Colletes brevigena
 Animalia,Arthropoda,Insecta,Hymenoptera,Colletidae,Colletinae,Colletini,239617,239617,ES,Colletes canescens
 Animalia,Arthropoda,Insecta,Hymenoptera,Colletidae,Colletinae,Colletini,239618,239618,ES,Colletes carinatus
@@ -95739,9 +95721,6 @@ Animalia,Arthropoda,Insecta,Hymenoptera,Halictidae,Nomiinae,,1016253,1016253,ES,
 Animalia,Arthropoda,Insecta,Hymenoptera,Halictidae,Nomioidinae,,1000177,239573,ES,Andrena variegata
 Animalia,Arthropoda,Insecta,Hymenoptera,Halictidae,Nomioidinae,,239573,239573,ES,Ceylalictus variegatus
 Animalia,Arthropoda,Insecta,Hymenoptera,Halictidae,Nomioidinae,,718511,239573,ES,Nomioides variegatus
-Animalia,Arthropoda,Insecta,Hymenoptera,Halictidae,Nomioidinae,,1000411,240046,ES,Halictus facilis
-Animalia,Arthropoda,Insecta,Hymenoptera,Halictidae,Nomioidinae,,407197,240046,ES,Halictus fallax
-Animalia,Arthropoda,Insecta,Hymenoptera,Halictidae,Nomioidinae,,239700,240046,ES,Halictus handlirschii
 Animalia,Arthropoda,Insecta,Hymenoptera,Halictidae,Nomioidinae,,240046,240046,ES,Nomioides facilis
 Animalia,Arthropoda,Insecta,Hymenoptera,Halictidae,Nomioidinae,,898952,240047,ES,Apis minutissima
 Animalia,Arthropoda,Insecta,Hymenoptera,Halictidae,Nomioidinae,,407198,240047,ES,Nomioides canariensis
@@ -100115,7 +100094,6 @@ Animalia,Arthropoda,Insecta,Hymenoptera,Megachilidae,Megachilinae,Osmiini,53177,
 Animalia,Arthropoda,Insecta,Hymenoptera,Megachilidae,Megachilinae,Osmiini,997262,239739,ES,Osmia loti
 Animalia,Arthropoda,Insecta,Hymenoptera,Megachilidae,Megachilinae,Osmiini,318027,318027,ES,Hoplitis manicata
 Animalia,Arthropoda,Insecta,Hymenoptera,Megachilidae,Megachilinae,Osmiini,997264,318027,ES,Osmia manicata
-Animalia,Arthropoda,Insecta,Hymenoptera,Megachilidae,Megachilinae,Osmiini,53133,318028,ES,Halictus marchali
 Animalia,Arthropoda,Insecta,Hymenoptera,Megachilidae,Megachilinae,Osmiini,318028,318028,ES,Hoplitis marchali
 Animalia,Arthropoda,Insecta,Hymenoptera,Megachilidae,Megachilinae,Osmiini,997261,318028,ES,Osmia marchali
 Animalia,Arthropoda,Insecta,Hymenoptera,Megachilidae,Megachilinae,Osmiini,239740,239740,ES,Hoplitis mitis
@@ -117020,15 +116998,10 @@ Animalia,Arthropoda,Insecta,Lepidoptera,Limacodidae,,,247031,247031,ES,Hoyosia c
 Animalia,Arthropoda,Insecta,Lepidoptera,Limacodidae,,,647757,247031,ES,Limacodes codeti
 Animalia,Arthropoda,Insecta,Lepidoptera,Lycaenidae,Lycaeninae,Lycaenini,53991,219752,ES,Heodes alciphron
 Animalia,Arthropoda,Insecta,Lepidoptera,Lycaenidae,Lycaeninae,Lycaenini,219752,219752,ES,Lycaena alciphron
-Animalia,Arthropoda,Insecta,Lepidoptera,Lycaenidae,Lycaeninae,Lycaenini,642253,219752,ES,Papilio alciphron
-Animalia,Arthropoda,Insecta,Lepidoptera,Lycaenidae,Lycaeninae,Lycaenini,701943,219752,ES,Papilio virgaureae
-Animalia,Arthropoda,Insecta,Lepidoptera,Lycaenidae,Lycaeninae,Lycaenini,777283,219752,ES,Polyommatus alciphron
 Animalia,Arthropoda,Insecta,Lepidoptera,Lycaenidae,Lycaeninae,Lycaenini,642296,219752,ES,Thersamolycaena alciphron
 Animalia,Arthropoda,Insecta,Lepidoptera,Lycaenidae,Lycaeninae,Lycaenini,642303,608279,SSES,Heodes alciphron ochsenfeldinus
 Animalia,Arthropoda,Insecta,Lepidoptera,Lycaenidae,Lycaeninae,Lycaenini,608279,608279,SSES,Lycaena alciphron alciphron
 Animalia,Arthropoda,Insecta,Lepidoptera,Lycaenidae,Lycaeninae,Lycaenini,642335,608279,SSES,Lycaena alciphron burgundiae
-Animalia,Arthropoda,Insecta,Lepidoptera,Lycaenidae,Lycaeninae,Lycaenini,832886,608279,ES,Papilio hiere
-Animalia,Arthropoda,Insecta,Lepidoptera,Lycaenidae,Lycaeninae,Lycaenini,832887,608279,ES,Polyommatus hiere
 Animalia,Arthropoda,Insecta,Lepidoptera,Lycaenidae,Lycaeninae,Lycaenini,642330,608279,SSES,Thersamolycaena alciphron burgundiae
 Animalia,Arthropoda,Insecta,Lepidoptera,Lycaenidae,Lycaeninae,Lycaenini,642299,608279,SSES,Thersamolycaena alciphron ochsenfeldinus
 Animalia,Arthropoda,Insecta,Lepidoptera,Lycaenidae,Lycaeninae,Lycaenini,642338,608280,SSES,Chrysophanus alciphron gallon
@@ -117046,10 +117019,6 @@ Animalia,Arthropoda,Insecta,Lepidoptera,Lycaenidae,Lycaeninae,Lycaenini,642342,6
 Animalia,Arthropoda,Insecta,Lepidoptera,Lycaenidae,Lycaeninae,Lycaenini,833879,608280,SSES,Lycaena alciphron oceani
 Animalia,Arthropoda,Insecta,Lepidoptera,Lycaenidae,Lycaeninae,Lycaenini,833885,608280,SSES,Lycaena alciphron veronius
 Animalia,Arthropoda,Insecta,Lepidoptera,Lycaenidae,Lycaeninae,Lycaenini,838745,608280,ES,Lycaena gordius
-Animalia,Arthropoda,Insecta,Lepidoptera,Lycaenidae,Lycaeninae,Lycaenini,392218,608280,ES,Papilio gordius
-Animalia,Arthropoda,Insecta,Lepidoptera,Lycaenidae,Lycaeninae,Lycaenini,774672,608280,SSES,Polyommatus gordius diniensis
-Animalia,Arthropoda,Insecta,Lepidoptera,Lycaenidae,Lycaeninae,Lycaenini,642277,608280,ES,Polyommatus gordius
-Animalia,Arthropoda,Insecta,Lepidoptera,Lycaenidae,Lycaeninae,Lycaenini,777410,608280,SSES,Polyommatus hiere gordius
 Animalia,Arthropoda,Insecta,Lepidoptera,Lycaenidae,Lycaeninae,Lycaenini,642337,608280,SSES,Thersamolycaena alciphron gallon
 Animalia,Arthropoda,Insecta,Lepidoptera,Lycaenidae,Lycaeninae,Lycaenini,642349,608280,SSES,Thersamolycaena alciphron minutepunctata
 Animalia,Arthropoda,Insecta,Lepidoptera,Lycaenidae,Lycaeninae,Lycaenini,642341,608280,SSES,Thersamolycaena alciphron morvandica
@@ -117071,13 +117040,6 @@ Animalia,Arthropoda,Insecta,Lepidoptera,Lycaenidae,Lycaeninae,Lycaenini,53979,53
 Animalia,Arthropoda,Insecta,Lepidoptera,Lycaenidae,Lycaeninae,Lycaenini,833775,53979,SSES,Lycaena dispar rutila
 Animalia,Arthropoda,Insecta,Lepidoptera,Lycaenidae,Lycaeninae,Lycaenini,884218,53979,ES,Lycaena hippothoe
 Animalia,Arthropoda,Insecta,Lepidoptera,Lycaenidae,Lycaeninae,Lycaenini,884219,53979,SSES,Lycaena hippothoe rutilus
-Animalia,Arthropoda,Insecta,Lepidoptera,Lycaenidae,Lycaeninae,Lycaenini,642351,53979,ES,Papilio dispar
-Animalia,Arthropoda,Insecta,Lepidoptera,Lycaenidae,Lycaeninae,Lycaenini,642353,53979,ES,Papilio hippothoe
-Animalia,Arthropoda,Insecta,Lepidoptera,Lycaenidae,Lycaeninae,Lycaenini,392212,53979,ES,Papilio rutilus
-Animalia,Arthropoda,Insecta,Lepidoptera,Lycaenidae,Lycaeninae,Lycaenini,778243,53979,ES,Polyommatus dispar
-Animalia,Arthropoda,Insecta,Lepidoptera,Lycaenidae,Lycaeninae,Lycaenini,642355,53979,ES,Polyommatus hippothoe
-Animalia,Arthropoda,Insecta,Lepidoptera,Lycaenidae,Lycaeninae,Lycaenini,774711,53979,SSES,Polyommatus hippothoe dispar
-Animalia,Arthropoda,Insecta,Lepidoptera,Lycaenidae,Lycaeninae,Lycaenini,838769,53979,ES,Polyommatus rutilus
 Animalia,Arthropoda,Insecta,Lepidoptera,Lycaenidae,Lycaeninae,Lycaenini,627798,53979,SSES,Thersamolycaena dispar burdigalensis
 Animalia,Arthropoda,Insecta,Lepidoptera,Lycaenidae,Lycaeninae,Lycaenini,642361,53979,SSES,Thersamolycaena dispar carueli
 Animalia,Arthropoda,Insecta,Lepidoptera,Lycaenidae,Lycaeninae,Lycaenini,642356,53979,SSES,Thersamolycaena dispar gronieri
@@ -117086,10 +117048,6 @@ Animalia,Arthropoda,Insecta,Lepidoptera,Lycaenidae,Lycaeninae,Lycaenini,779802,5
 Animalia,Arthropoda,Insecta,Lepidoptera,Lycaenidae,Lycaeninae,Lycaenini,53978,53976,ES,Helleia helle
 Animalia,Arthropoda,Insecta,Lepidoptera,Lycaenidae,Lycaeninae,Lycaenini,642381,53976,ES,Heodes amphidamas
 Animalia,Arthropoda,Insecta,Lepidoptera,Lycaenidae,Lycaeninae,Lycaenini,53976,53976,ES,Lycaena helle
-Animalia,Arthropoda,Insecta,Lepidoptera,Lycaenidae,Lycaeninae,Lycaenini,392210,53976,ES,Papilio amphidamas
-Animalia,Arthropoda,Insecta,Lepidoptera,Lycaenidae,Lycaeninae,Lycaenini,642379,53976,ES,Papilio amphidamas
-Animalia,Arthropoda,Insecta,Lepidoptera,Lycaenidae,Lycaeninae,Lycaenini,642378,53976,ES,Papilio helle
-Animalia,Arthropoda,Insecta,Lepidoptera,Lycaenidae,Lycaeninae,Lycaenini,642380,53976,ES,Polyommatus amphidamas
 Animalia,Arthropoda,Insecta,Lepidoptera,Lycaenidae,Lycaeninae,Lycaenini,608281,608281,SSES,Lycaena helle arduinnae
 Animalia,Arthropoda,Insecta,Lepidoptera,Lycaenidae,Lycaeninae,Lycaenini,608282,608282,SSES,Lycaena helle arvernica
 Animalia,Arthropoda,Insecta,Lepidoptera,Lycaenidae,Lycaeninae,Lycaenini,642385,608283,SSES,Helleia helle pyrenaica
@@ -117115,11 +117073,6 @@ Animalia,Arthropoda,Insecta,Lepidoptera,Lycaenidae,Lycaeninae,Lycaenini,642537,2
 Animalia,Arthropoda,Insecta,Lepidoptera,Lycaenidae,Lycaeninae,Lycaenini,809622,219753,ES,Palaeochrysophanus hippothoe
 Animalia,Arthropoda,Insecta,Lepidoptera,Lycaenidae,Lycaeninae,Lycaenini,54005,219753,SSES,Paleochrysophanus hippothoe leonhardi
 Animalia,Arthropoda,Insecta,Lepidoptera,Lycaenidae,Lycaeninae,Lycaenini,54001,219753,ES,Paleochrysophanus hippothoe
-Animalia,Arthropoda,Insecta,Lepidoptera,Lycaenidae,Lycaeninae,Lycaenini,642367,219753,ES,Papilio chryseis
-Animalia,Arthropoda,Insecta,Lepidoptera,Lycaenidae,Lycaeninae,Lycaenini,642365,219753,ES,Papilio hippothoe
-Animalia,Arthropoda,Insecta,Lepidoptera,Lycaenidae,Lycaeninae,Lycaenini,642368,219753,ES,Polyommatus chryseis
-Animalia,Arthropoda,Insecta,Lepidoptera,Lycaenidae,Lycaeninae,Lycaenini,976063,219753,ES,Polyommatus eurydice
-Animalia,Arthropoda,Insecta,Lepidoptera,Lycaenidae,Lycaeninae,Lycaenini,778461,219753,ES,Polyommatus hippothoe
 Animalia,Arthropoda,Insecta,Lepidoptera,Lycaenidae,Lycaeninae,Lycaenini,392221,608289,ES,Chrysophanus eurydame
 Animalia,Arthropoda,Insecta,Lepidoptera,Lycaenidae,Lycaeninae,Lycaenini,642377,608289,SSES,Chrysophanus hippothoe valderiana
 Animalia,Arthropoda,Insecta,Lepidoptera,Lycaenidae,Lycaeninae,Lycaenini,778245,608289,SSES,Lycaena chryseis eurydice
@@ -117127,10 +117080,6 @@ Animalia,Arthropoda,Insecta,Lepidoptera,Lycaenidae,Lycaeninae,Lycaenini,608289,6
 Animalia,Arthropoda,Insecta,Lepidoptera,Lycaenidae,Lycaeninae,Lycaenini,833781,608289,SSES,Lycaena hippothoe valderiana
 Animalia,Arthropoda,Insecta,Lepidoptera,Lycaenidae,Lycaeninae,Lycaenini,642375,608289,SSES,Palaeochrysophanus hippothoe valderiana
 Animalia,Arthropoda,Insecta,Lepidoptera,Lycaenidae,Lycaeninae,Lycaenini,54004,608289,SSES,Paleochrysophanus hippothoe eurydame
-Animalia,Arthropoda,Insecta,Lepidoptera,Lycaenidae,Lycaeninae,Lycaenini,392220,608289,ES,Papilio eurybia
-Animalia,Arthropoda,Insecta,Lepidoptera,Lycaenidae,Lycaeninae,Lycaenini,720075,608289,ES,Papilio eurydame
-Animalia,Arthropoda,Insecta,Lepidoptera,Lycaenidae,Lycaeninae,Lycaenini,774748,608289,SSES,Polyommatus chryseis euridice
-Animalia,Arthropoda,Insecta,Lepidoptera,Lycaenidae,Lycaeninae,Lycaenini,976064,608289,SSES,Polyommatus eurydice eurybia
 Animalia,Arthropoda,Insecta,Lepidoptera,Lycaenidae,Lycaeninae,Lycaenini,642371,608288,SSES,Chrysophanus hippothoe mirus
 Animalia,Arthropoda,Insecta,Lepidoptera,Lycaenidae,Lycaeninae,Lycaenini,608288,608288,SSES,Lycaena hippothoe hippothoe
 Animalia,Arthropoda,Insecta,Lepidoptera,Lycaenidae,Lycaeninae,Lycaenini,833878,608288,SSES,Lycaena hippothoe mirus
@@ -117138,8 +117087,6 @@ Animalia,Arthropoda,Insecta,Lepidoptera,Lycaenidae,Lycaeninae,Lycaenini,833780,6
 Animalia,Arthropoda,Insecta,Lepidoptera,Lycaenidae,Lycaeninae,Lycaenini,642370,608288,SSES,Palaeochrysophanus hippothoe mirus
 Animalia,Arthropoda,Insecta,Lepidoptera,Lycaenidae,Lycaeninae,Lycaenini,642373,608288,SSES,Palaeochrysophanus hippothoe paraeurydice
 Animalia,Arthropoda,Insecta,Lepidoptera,Lycaenidae,Lycaeninae,Lycaenini,54003,608288,SSES,Paleochrysophanus hippothoe hippothoe
-Animalia,Arthropoda,Insecta,Lepidoptera,Lycaenidae,Lycaeninae,Lycaenini,774747,608288,SSES,Polyommatus chryseis chryseis
-Animalia,Arthropoda,Insecta,Lepidoptera,Lycaenidae,Lycaeninae,Lycaenini,392222,608288,SSES,Polyommatus chryseis stiberi
 Animalia,Arthropoda,Insecta,Lepidoptera,Lycaenidae,Lycaeninae,Lycaenini,774640,53973,ES,Chrysophanus phlaeas
 Animalia,Arthropoda,Insecta,Lepidoptera,Lycaenidae,Lycaeninae,Lycaenini,392209,53973,SSES,Chrysophanus phlaeas polaris
 Animalia,Arthropoda,Insecta,Lepidoptera,Lycaenidae,Lycaeninae,Lycaenini,392208,53973,ES,Chrysophanus phlaeoides
@@ -117148,32 +117095,18 @@ Animalia,Arthropoda,Insecta,Lepidoptera,Lycaenidae,Lycaeninae,Lycaenini,642396,5
 Animalia,Arthropoda,Insecta,Lepidoptera,Lycaenidae,Lycaeninae,Lycaenini,53973,53973,ES,Lycaena phlaeas
 Animalia,Arthropoda,Insecta,Lepidoptera,Lycaenidae,Lycaeninae,Lycaenini,642393,53973,SSES,Lycaena phlaeas nigrioreleus
 Animalia,Arthropoda,Insecta,Lepidoptera,Lycaenidae,Lycaeninae,Lycaenini,642392,53973,SSES,Lycaena phlaeas phlaeas
-Animalia,Arthropoda,Insecta,Lepidoptera,Lycaenidae,Lycaeninae,Lycaenini,642389,53973,ES,Papilio phlaeas
-Animalia,Arthropoda,Insecta,Lepidoptera,Lycaenidae,Lycaeninae,Lycaenini,952210,53973,ES,Papilio virgaureae
-Animalia,Arthropoda,Insecta,Lepidoptera,Lycaenidae,Lycaeninae,Lycaenini,826762,53973,SSES,Polyommatus phlaeas cuprinus
-Animalia,Arthropoda,Insecta,Lepidoptera,Lycaenidae,Lycaeninae,Lycaenini,642390,53973,ES,Polyommatus phlaeas
-Animalia,Arthropoda,Insecta,Lepidoptera,Lycaenidae,Lycaeninae,Lycaenini,774749,53973,SSES,Polyommatus phlaeas schmidtii
 Animalia,Arthropoda,Insecta,Lepidoptera,Lycaenidae,Lycaeninae,Lycaenini,642394,53973,SSES,Rumicia phlaeas nigrioreleus
 Animalia,Arthropoda,Insecta,Lepidoptera,Lycaenidae,Lycaeninae,Lycaenini,783609,219751,ES,Chrysophanus dorilis
 Animalia,Arthropoda,Insecta,Lepidoptera,Lycaenidae,Lycaeninae,Lycaenini,642401,219751,ES,Heodes dorilis
 Animalia,Arthropoda,Insecta,Lepidoptera,Lycaenidae,Lycaeninae,Lycaenini,53985,219751,ES,Heodes tityrus
 Animalia,Arthropoda,Insecta,Lepidoptera,Lycaenidae,Lycaeninae,Lycaenini,838744,219751,ES,Lycaena dorilis
 Animalia,Arthropoda,Insecta,Lepidoptera,Lycaenidae,Lycaeninae,Lycaenini,219751,219751,ES,Lycaena tityrus
-Animalia,Arthropoda,Insecta,Lepidoptera,Lycaenidae,Lycaeninae,Lycaenini,392216,219751,ES,Papilio circe
-Animalia,Arthropoda,Insecta,Lepidoptera,Lycaenidae,Lycaeninae,Lycaenini,392215,219751,ES,Papilio dorilis
-Animalia,Arthropoda,Insecta,Lepidoptera,Lycaenidae,Lycaeninae,Lycaenini,642397,219751,ES,Papilio tityrus
-Animalia,Arthropoda,Insecta,Lepidoptera,Lycaenidae,Lycaeninae,Lycaenini,642398,219751,ES,Papilio xanthe
-Animalia,Arthropoda,Insecta,Lepidoptera,Lycaenidae,Lycaeninae,Lycaenini,825165,219751,ES,Polyommatus dorilis
-Animalia,Arthropoda,Insecta,Lepidoptera,Lycaenidae,Lycaeninae,Lycaenini,642399,219751,ES,Polyommatus xanthe
 Animalia,Arthropoda,Insecta,Lepidoptera,Lycaenidae,Lycaeninae,Lycaenini,720080,608291,SSES,Heodes tityrus mixtalpina
 Animalia,Arthropoda,Insecta,Lepidoptera,Lycaenidae,Lycaeninae,Lycaenini,820678,608291,SSES,Heodes tityrus subalpinus
 Animalia,Arthropoda,Insecta,Lepidoptera,Lycaenidae,Lycaeninae,Lycaenini,884212,608291,SSES,Lycaena dorilis montana
 Animalia,Arthropoda,Insecta,Lepidoptera,Lycaenidae,Lycaeninae,Lycaenini,392217,608291,ES,Lycaena subalpinus
 Animalia,Arthropoda,Insecta,Lepidoptera,Lycaenidae,Lycaeninae,Lycaenini,608291,608291,SSES,Lycaena tityrus subalpina
 Animalia,Arthropoda,Insecta,Lepidoptera,Lycaenidae,Lycaeninae,Lycaenini,53988,608291,SSES,Lycaena tityrus subalpinus
-Animalia,Arthropoda,Insecta,Lepidoptera,Lycaenidae,Lycaeninae,Lycaenini,642412,608291,VAR,Polyommatus circe var. subalpina
-Animalia,Arthropoda,Insecta,Lepidoptera,Lycaenidae,Lycaeninae,Lycaenini,976065,608291,SSES,Polyommatus dorilis montanus
-Animalia,Arthropoda,Insecta,Lepidoptera,Lycaenidae,Lycaeninae,Lycaenini,774751,608291,SSES,Polyommatus xanthe montanus
 Animalia,Arthropoda,Insecta,Lepidoptera,Lycaenidae,Lycaeninae,Lycaenini,836753,608290,SSES,Chrysophanus dorilis intermedia
 Animalia,Arthropoda,Insecta,Lepidoptera,Lycaenidae,Lycaeninae,Lycaenini,642410,608290,SSES,Heodes tityrus catherinei
 Animalia,Arthropoda,Insecta,Lepidoptera,Lycaenidae,Lycaeninae,Lycaenini,642411,608290,SSES,Heodes tityrus dorilis
@@ -117185,7 +117118,6 @@ Animalia,Arthropoda,Insecta,Lepidoptera,Lycaenidae,Lycaeninae,Lycaenini,833902,6
 Animalia,Arthropoda,Insecta,Lepidoptera,Lycaenidae,Lycaeninae,Lycaenini,833901,608290,SSES,Lycaena tityrus pallidepicta
 Animalia,Arthropoda,Insecta,Lepidoptera,Lycaenidae,Lycaeninae,Lycaenini,608290,608290,SSES,Lycaena tityrus tityrus
 Animalia,Arthropoda,Insecta,Lepidoptera,Lycaenidae,Lycaeninae,Lycaenini,642403,608290,SSES,Palaeoloweia tityrus pallidepicta
-Animalia,Arthropoda,Insecta,Lepidoptera,Lycaenidae,Lycaeninae,Lycaenini,774750,608290,SSES,Polyommatus xanthe xanthe
 Animalia,Arthropoda,Insecta,Lepidoptera,Lycaenidae,Lycaeninae,Lycaenini,642427,219750,SSES,Chrysophanus virgaureae chrysorhoas
 Animalia,Arthropoda,Insecta,Lepidoptera,Lycaenidae,Lycaeninae,Lycaenini,642422,219750,SSES,Chrysophanus virgaureae pelusiota
 Animalia,Arthropoda,Insecta,Lepidoptera,Lycaenidae,Lycaeninae,Lycaenini,642420,219750,SSES,Heodes tityrus apennina
@@ -117205,11 +117137,6 @@ Animalia,Arthropoda,Insecta,Lepidoptera,Lycaenidae,Lycaeninae,Lycaenini,713915,2
 Animalia,Arthropoda,Insecta,Lepidoptera,Lycaenidae,Lycaeninae,Lycaenini,642416,219750,SSES,Lycaena virgaureae pyrenaeicola
 Animalia,Arthropoda,Insecta,Lepidoptera,Lycaenidae,Lycaeninae,Lycaenini,713917,219750,SSES,Lycaena virgaureae pyrenemontana
 Animalia,Arthropoda,Insecta,Lepidoptera,Lycaenidae,Lycaeninae,Lycaenini,642424,219750,SSES,Lycaena virgaureae vera
-Animalia,Arthropoda,Insecta,Lepidoptera,Lycaenidae,Lycaeninae,Lycaenini,642413,219750,ES,Papilio virgaureae
-Animalia,Arthropoda,Insecta,Lepidoptera,Lycaenidae,Lycaeninae,Lycaenini,392214,219750,ES,Polyommatus miegii
-Animalia,Arthropoda,Insecta,Lepidoptera,Lycaenidae,Lycaeninae,Lycaenini,642419,219750,SSES,Polyommatus virgaureae apennina
-Animalia,Arthropoda,Insecta,Lepidoptera,Lycaenidae,Lycaeninae,Lycaenini,642414,219750,ES,Polyommatus virgaureae
-Animalia,Arthropoda,Insecta,Lepidoptera,Lycaenidae,Lycaeninae,Lycaenini,392213,219750,VAR,Polyommatus virgaureae var. montana
 Animalia,Arthropoda,Insecta,Lepidoptera,Lycaenidae,Polyommatinae,Polyommatini,54202,54200,SSES,Agriades glandon glandon
 Animalia,Arthropoda,Insecta,Lepidoptera,Lycaenidae,Polyommatinae,Polyommatini,622182,54200,SSES,Agriades glandon magnaglandon
 Animalia,Arthropoda,Insecta,Lepidoptera,Lycaenidae,Polyommatinae,Polyommatini,54200,54200,ES,Agriades glandon
@@ -117872,12 +117799,8 @@ Animalia,Arthropoda,Insecta,Lepidoptera,Lycaenidae,Theclinae,Eumaeini,54309,5430
 Animalia,Arthropoda,Insecta,Lepidoptera,Lycaenidae,Theclinae,Eumaeini,646138,54307,SSES,Callophrys rubi intermedia
 Animalia,Arthropoda,Insecta,Lepidoptera,Lycaenidae,Theclinae,Eumaeini,54307,54307,ES,Callophrys rubi
 Animalia,Arthropoda,Insecta,Lepidoptera,Lycaenidae,Theclinae,Eumaeini,646137,54307,SSES,Callophrys rubi rubi
-Animalia,Arthropoda,Insecta,Lepidoptera,Lycaenidae,Theclinae,Eumaeini,952209,54307,ES,Papilio caecus
-Animalia,Arthropoda,Insecta,Lepidoptera,Lycaenidae,Theclinae,Eumaeini,646136,54307,ES,Papilio rubi
-Animalia,Arthropoda,Insecta,Lepidoptera,Lycaenidae,Theclinae,Eumaeini,777320,54307,ES,Polyommatus rubi
 Animalia,Arthropoda,Insecta,Lepidoptera,Lycaenidae,Theclinae,Eumaeini,774926,54307,ES,Thecla rubi
 Animalia,Arthropoda,Insecta,Lepidoptera,Lycaenidae,Theclinae,Eumaeini,54292,219760,ES,Nordmannia acaciae
-Animalia,Arthropoda,Insecta,Lepidoptera,Lycaenidae,Theclinae,Eumaeini,646139,219760,ES,Papilio acaciae
 Animalia,Arthropoda,Insecta,Lepidoptera,Lycaenidae,Theclinae,Eumaeini,219760,219760,ES,Satyrium acaciae
 Animalia,Arthropoda,Insecta,Lepidoptera,Lycaenidae,Theclinae,Eumaeini,646140,219760,SSES,Satyrium acaciae frigidior
 Animalia,Arthropoda,Insecta,Lepidoptera,Lycaenidae,Theclinae,Eumaeini,646142,219760,SSES,Satyrium acaciae nostras
@@ -117889,7 +117812,6 @@ Animalia,Arthropoda,Insecta,Lepidoptera,Lycaenidae,Theclinae,Eumaeini,777402,219
 Animalia,Arthropoda,Insecta,Lepidoptera,Lycaenidae,Theclinae,Eumaeini,646143,219760,SSES,Thecla acaciae nostras
 Animalia,Arthropoda,Insecta,Lepidoptera,Lycaenidae,Theclinae,Eumaeini,54290,219759,SSES,Nordmannia esculi esculi
 Animalia,Arthropoda,Insecta,Lepidoptera,Lycaenidae,Theclinae,Eumaeini,54288,219759,ES,Nordmannia esculi
-Animalia,Arthropoda,Insecta,Lepidoptera,Lycaenidae,Theclinae,Eumaeini,646145,219759,ES,Papilio esculi
 Animalia,Arthropoda,Insecta,Lepidoptera,Lycaenidae,Theclinae,Eumaeini,646146,219759,SSES,Satyrium esculi camboi
 Animalia,Arthropoda,Insecta,Lepidoptera,Lycaenidae,Theclinae,Eumaeini,608328,219759,SSES,Satyrium esculi esculi
 Animalia,Arthropoda,Insecta,Lepidoptera,Lycaenidae,Theclinae,Eumaeini,219759,219759,ES,Satyrium esculi
@@ -117899,10 +117821,6 @@ Animalia,Arthropoda,Insecta,Lepidoptera,Lycaenidae,Theclinae,Eumaeini,778861,219
 Animalia,Arthropoda,Insecta,Lepidoptera,Lycaenidae,Theclinae,Eumaeini,778859,219759,ES,Strymonidia esculi
 Animalia,Arthropoda,Insecta,Lepidoptera,Lycaenidae,Theclinae,Eumaeini,777336,219759,ES,Thecla aesculi
 Animalia,Arthropoda,Insecta,Lepidoptera,Lycaenidae,Theclinae,Eumaeini,54286,219758,ES,Nordmannia ilicis
-Animalia,Arthropoda,Insecta,Lepidoptera,Lycaenidae,Theclinae,Eumaeini,646155,219758,ES,Papilio cerri
-Animalia,Arthropoda,Insecta,Lepidoptera,Lycaenidae,Theclinae,Eumaeini,774925,219758,ES,Papilio linceus
-Animalia,Arthropoda,Insecta,Lepidoptera,Lycaenidae,Theclinae,Eumaeini,646148,219758,SSES,Papilio pruni ilicis
-Animalia,Arthropoda,Insecta,Lepidoptera,Lycaenidae,Theclinae,Eumaeini,820964,219758,ES,Polyommatus lynceus
 Animalia,Arthropoda,Insecta,Lepidoptera,Lycaenidae,Theclinae,Eumaeini,646153,219758,SSES,Satyrium ilicis cerri
 Animalia,Arthropoda,Insecta,Lepidoptera,Lycaenidae,Theclinae,Eumaeini,219758,219758,ES,Satyrium ilicis
 Animalia,Arthropoda,Insecta,Lepidoptera,Lycaenidae,Theclinae,Eumaeini,646149,219758,SSES,Satyrium ilicis ilicis
@@ -117916,11 +117834,9 @@ Animalia,Arthropoda,Insecta,Lepidoptera,Lycaenidae,Theclinae,Eumaeini,646151,219
 Animalia,Arthropoda,Insecta,Lepidoptera,Lycaenidae,Theclinae,Eumaeini,777338,219758,ES,Thecla lynceus
 Animalia,Arthropoda,Insecta,Lepidoptera,Lycaenidae,Theclinae,Eumaeini,643511,219756,ES,Fixenia pruni
 Animalia,Arthropoda,Insecta,Lepidoptera,Lycaenidae,Theclinae,Eumaeini,984634,219756,ES,Fixsenia pruni
-Animalia,Arthropoda,Insecta,Lepidoptera,Lycaenidae,Theclinae,Eumaeini,646156,219756,ES,Papilio pruni
 Animalia,Arthropoda,Insecta,Lepidoptera,Lycaenidae,Theclinae,Eumaeini,219756,219756,ES,Satyrium pruni
 Animalia,Arthropoda,Insecta,Lepidoptera,Lycaenidae,Theclinae,Eumaeini,54302,219756,ES,Strymonidia pruni
 Animalia,Arthropoda,Insecta,Lepidoptera,Lycaenidae,Theclinae,Eumaeini,778491,219756,ES,Thecla pruni
-Animalia,Arthropoda,Insecta,Lepidoptera,Lycaenidae,Theclinae,Eumaeini,646158,219757,ES,Papilio spini
 Animalia,Arthropoda,Insecta,Lepidoptera,Lycaenidae,Theclinae,Eumaeini,884232,219757,ES,Satyrium lyncaeus
 Animalia,Arthropoda,Insecta,Lepidoptera,Lycaenidae,Theclinae,Eumaeini,646170,219757,SSES,Satyrium spini bofilli
 Animalia,Arthropoda,Insecta,Lepidoptera,Lycaenidae,Theclinae,Eumaeini,646167,219757,SSES,Satyrium spini brevicaudis
@@ -117933,8 +117849,6 @@ Animalia,Arthropoda,Insecta,Lepidoptera,Lycaenidae,Theclinae,Eumaeini,54296,2197
 Animalia,Arthropoda,Insecta,Lepidoptera,Lycaenidae,Theclinae,Eumaeini,778863,219757,SSES,Strymonidia spini spini
 Animalia,Arthropoda,Insecta,Lepidoptera,Lycaenidae,Theclinae,Eumaeini,646169,219757,SSES,Thecla linceus brevicaudis
 Animalia,Arthropoda,Insecta,Lepidoptera,Lycaenidae,Theclinae,Eumaeini,777337,219757,ES,Thecla spini
-Animalia,Arthropoda,Insecta,Lepidoptera,Lycaenidae,Theclinae,Eumaeini,646173,219755,ES,Papilio w-album
-Animalia,Arthropoda,Insecta,Lepidoptera,Lycaenidae,Theclinae,Eumaeini,820963,219755,ES,Polyommatus w-album
 Animalia,Arthropoda,Insecta,Lepidoptera,Lycaenidae,Theclinae,Eumaeini,219755,219755,ES,Satyrium w-album
 Animalia,Arthropoda,Insecta,Lepidoptera,Lycaenidae,Theclinae,Eumaeini,884234,219755,ES,Strymon w-album
 Animalia,Arthropoda,Insecta,Lepidoptera,Lycaenidae,Theclinae,Eumaeini,54299,219755,ES,Strymonidia w-album
@@ -117951,8 +117865,6 @@ Animalia,Arthropoda,Insecta,Lepidoptera,Lycaenidae,Theclinae,Theclini,650373,716
 Animalia,Arthropoda,Insecta,Lepidoptera,Lycaenidae,Theclinae,Theclini,646190,716499,SSES,Laeosopis roboris portaensis
 Animalia,Arthropoda,Insecta,Lepidoptera,Lycaenidae,Theclinae,Theclini,713866,716499,SSES,Laeosopis roboris roboris
 Animalia,Arthropoda,Insecta,Lepidoptera,Lycaenidae,Theclinae,Theclini,646188,716499,SSES,Laeosopis roboris thiersi
-Animalia,Arthropoda,Insecta,Lepidoptera,Lycaenidae,Theclinae,Theclini,646185,716499,ES,Papilio evippus
-Animalia,Arthropoda,Insecta,Lepidoptera,Lycaenidae,Theclinae,Theclini,646178,716499,ES,Papilio roboris
 Animalia,Arthropoda,Insecta,Lepidoptera,Lycaenidae,Theclinae,Theclini,777342,716499,ES,Thecla evippus
 Animalia,Arthropoda,Insecta,Lepidoptera,Lycaenidae,Theclinae,Theclini,777404,716499,ES,Thecla roboris
 Animalia,Arthropoda,Insecta,Lepidoptera,Lycaenidae,Theclinae,Theclini,646177,54322,SSES,Bithys quercus interjecta
@@ -117960,7 +117872,6 @@ Animalia,Arthropoda,Insecta,Lepidoptera,Lycaenidae,Theclinae,Theclini,653751,543
 Animalia,Arthropoda,Insecta,Lepidoptera,Lycaenidae,Theclinae,Theclini,646176,54322,SSES,Neozephyrus quercus interjecta
 Animalia,Arthropoda,Insecta,Lepidoptera,Lycaenidae,Theclinae,Theclini,219754,54322,ES,Neozephyrus quercus
 Animalia,Arthropoda,Insecta,Lepidoptera,Lycaenidae,Theclinae,Theclini,646175,54322,SSES,Neozephyrus quercus quercus
-Animalia,Arthropoda,Insecta,Lepidoptera,Lycaenidae,Theclinae,Theclini,646174,54322,ES,Papilio quercus
 Animalia,Arthropoda,Insecta,Lepidoptera,Lycaenidae,Theclinae,Theclini,54325,54322,SSES,Quercusia quercus iberica
 Animalia,Arthropoda,Insecta,Lepidoptera,Lycaenidae,Theclinae,Theclini,710501,54322,SSES,Quercusia quercus interjecta
 Animalia,Arthropoda,Insecta,Lepidoptera,Lycaenidae,Theclinae,Theclini,54322,54322,ES,Quercusia quercus
@@ -117968,14 +117879,10 @@ Animalia,Arthropoda,Insecta,Lepidoptera,Lycaenidae,Theclinae,Theclini,54324,5432
 Animalia,Arthropoda,Insecta,Lepidoptera,Lycaenidae,Theclinae,Theclini,774924,54322,ES,Thecla quercus
 Animalia,Arthropoda,Insecta,Lepidoptera,Lycaenidae,Theclinae,Theclini,392223,54322,ES,Zephyrus iberica
 Animalia,Arthropoda,Insecta,Lepidoptera,Lycaenidae,Theclinae,Theclini,770463,54322,ES,Zephyrus quercus
-Animalia,Arthropoda,Insecta,Lepidoptera,Lycaenidae,Theclinae,Theclini,646191,54319,ES,Papilio betulae
-Animalia,Arthropoda,Insecta,Lepidoptera,Lycaenidae,Theclinae,Theclini,820962,54319,ES,Polyommatus betulae
 Animalia,Arthropoda,Insecta,Lepidoptera,Lycaenidae,Theclinae,Theclini,988296,54319,ES,Ruralis betulae
 Animalia,Arthropoda,Insecta,Lepidoptera,Lycaenidae,Theclinae,Theclini,54319,54319,ES,Thecla betulae
 Animalia,Arthropoda,Insecta,Lepidoptera,Lycaenidae,Theclinae,Theclini,770464,54319,ES,Zephyrus betulae
 Animalia,Arthropoda,Insecta,Lepidoptera,Lycaenidae,Theclinae,Theclini,918951,54319,SSES,Zephyrus betulae sinemacula
-Animalia,Arthropoda,Insecta,Lepidoptera,Lycaenidae,Theclinae,Tomarini,646194,54312,ES,Papilio ballus
-Animalia,Arthropoda,Insecta,Lepidoptera,Lycaenidae,Theclinae,Tomarini,834110,54312,ES,Polyommatus ballus
 Animalia,Arthropoda,Insecta,Lepidoptera,Lycaenidae,Theclinae,Tomarini,646199,54312,SSES,Thestor ballus catalonica
 Animalia,Arthropoda,Insecta,Lepidoptera,Lycaenidae,Theclinae,Tomarini,774639,54312,ES,Thestor ballus
 Animalia,Arthropoda,Insecta,Lepidoptera,Lycaenidae,Theclinae,Tomarini,646197,54312,SSES,Tomares ballus catalonica
@@ -123318,7 +123225,6 @@ Animalia,Arthropoda,Insecta,Lepidoptera,Pieridae,Dismorphiinae,,54378,54378,ES,L
 Animalia,Arthropoda,Insecta,Lepidoptera,Pieridae,Dismorphiinae,,641948,54378,ES,Leucophasia duponcheli
 Animalia,Arthropoda,Insecta,Lepidoptera,Pieridae,Dismorphiinae,,777614,54378,ES,Leucophasia lathyri
 Animalia,Arthropoda,Insecta,Lepidoptera,Pieridae,Dismorphiinae,,777311,54378,SSES,Leucophasia sinapis lathyri
-Animalia,Arthropoda,Insecta,Lepidoptera,Pieridae,Dismorphiinae,,642097,54378,ES,Pieris lathyri
 Animalia,Arthropoda,Insecta,Lepidoptera,Pieridae,Dismorphiinae,,608271,608271,SSES,Leptidea duponcheli duponcheli
 Animalia,Arthropoda,Insecta,Lepidoptera,Pieridae,Dismorphiinae,,392441,608271,ES,Leptidea lathyri
 Animalia,Arthropoda,Insecta,Lepidoptera,Pieridae,Dismorphiinae,,608272,608272,ES,Leptidea juvernica
@@ -123342,7 +123248,6 @@ Animalia,Arthropoda,Insecta,Lepidoptera,Pieridae,Dismorphiinae,,774923,54376,SSE
 Animalia,Arthropoda,Insecta,Lepidoptera,Pieridae,Dismorphiinae,,976062,54376,SSES,Leucophasia sinapis lathyri
 Animalia,Arthropoda,Insecta,Lepidoptera,Pieridae,Dismorphiinae,,641947,54376,ES,Leucophasia sinapis
 Animalia,Arthropoda,Insecta,Lepidoptera,Pieridae,Dismorphiinae,,641943,54376,ES,Papilio sinapis
-Animalia,Arthropoda,Insecta,Lepidoptera,Pieridae,Dismorphiinae,,820960,54376,ES,Pieris sinapis
 Animalia,Arthropoda,Insecta,Lepidoptera,Pieridae,Pierinae,Anthocharini,657997,54451,SSES,Anthocharis cardamines cardamines
 Animalia,Arthropoda,Insecta,Lepidoptera,Pieridae,Pierinae,Anthocharini,921062,54451,SSES,Anthocharis cardamines lasthenia
 Animalia,Arthropoda,Insecta,Lepidoptera,Pieridae,Pierinae,Anthocharini,54451,54451,ES,Anthocharis cardamines
@@ -123353,7 +123258,6 @@ Animalia,Arthropoda,Insecta,Lepidoptera,Pieridae,Pierinae,Anthocharini,770468,54
 Animalia,Arthropoda,Insecta,Lepidoptera,Pieridae,Pierinae,Anthocharini,836527,54451,SSES,Euchlo� cardamines meridionalis
 Animalia,Arthropoda,Insecta,Lepidoptera,Pieridae,Pierinae,Anthocharini,833161,54451,SSES,Euchloe cardamines montivaga
 Animalia,Arthropoda,Insecta,Lepidoptera,Pieridae,Pierinae,Anthocharini,642099,54451,ES,Papilio cardamines
-Animalia,Arthropoda,Insecta,Lepidoptera,Pieridae,Pierinae,Anthocharini,820959,54451,ES,Pieris cardamines
 Animalia,Arthropoda,Insecta,Lepidoptera,Pieridae,Pierinae,Anthocharini,54453,219829,ES,Anthocharis belia
 Animalia,Arthropoda,Insecta,Lepidoptera,Pieridae,Pierinae,Anthocharini,54455,219829,SSES,Anthocharis belia belia
 Animalia,Arthropoda,Insecta,Lepidoptera,Pieridae,Pierinae,Anthocharini,54456,219829,SSES,Anthocharis belia euphenoides
@@ -123361,10 +123265,8 @@ Animalia,Arthropoda,Insecta,Lepidoptera,Pieridae,Pierinae,Anthocharini,777324,21
 Animalia,Arthropoda,Insecta,Lepidoptera,Pieridae,Pierinae,Anthocharini,833166,219829,SSES,Anthocharis euphenoides alpium
 Animalia,Arthropoda,Insecta,Lepidoptera,Pieridae,Pierinae,Anthocharini,219829,219829,ES,Anthocharis euphenoides
 Animalia,Arthropoda,Insecta,Lepidoptera,Pieridae,Pierinae,Anthocharini,774652,219829,ES,Euchloe euphenoides
-Animalia,Arthropoda,Insecta,Lepidoptera,Pieridae,Pierinae,Anthocharini,701928,219829,ES,Papilio eupheno
 Animalia,Arthropoda,Insecta,Lepidoptera,Pieridae,Pierinae,Anthocharini,833150,833149,SSES,Euchloe ausonia galloiberica
 Animalia,Arthropoda,Insecta,Lepidoptera,Pieridae,Pierinae,Anthocharini,833149,833149,ES,Euchloe ausonia
-Animalia,Arthropoda,Insecta,Lepidoptera,Pieridae,Pierinae,Anthocharini,642105,833149,ES,Papilio ausonia
 Animalia,Arthropoda,Insecta,Lepidoptera,Pieridae,Pierinae,Anthocharini,984114,54443,SSES,Anthocharis belemia glauce
 Animalia,Arthropoda,Insecta,Lepidoptera,Pieridae,Pierinae,Anthocharini,266008,54443,SSES,Euchloe belemia belemia
 Animalia,Arthropoda,Insecta,Lepidoptera,Pieridae,Pierinae,Anthocharini,54443,54443,ES,Euchloe belemia
@@ -123382,7 +123284,6 @@ Animalia,Arthropoda,Insecta,Lepidoptera,Pieridae,Pierinae,Anthocharini,783598,54
 Animalia,Arthropoda,Insecta,Lepidoptera,Pieridae,Pierinae,Anthocharini,54433,54433,ES,Euchloe crameri
 Animalia,Arthropoda,Insecta,Lepidoptera,Pieridae,Pierinae,Anthocharini,642113,54433,ES,Euchlo� crameri
 Animalia,Arthropoda,Insecta,Lepidoptera,Pieridae,Pierinae,Anthocharini,608274,54433,SSES,Euchloe crameri crameri
-Animalia,Arthropoda,Insecta,Lepidoptera,Pieridae,Pierinae,Anthocharini,889554,54433,ES,Papilio belia
 Animalia,Arthropoda,Insecta,Lepidoptera,Pieridae,Pierinae,Anthocharini,642109,219828,SSES,Anthocharis tagis insularis
 Animalia,Arthropoda,Insecta,Lepidoptera,Pieridae,Pierinae,Anthocharini,54430,219828,SSES,Euchloe ausonia insularis
 Animalia,Arthropoda,Insecta,Lepidoptera,Pieridae,Pierinae,Anthocharini,655264,219828,SSES,Euchloe insularis insularis
@@ -123403,9 +123304,6 @@ Animalia,Arthropoda,Insecta,Lepidoptera,Pieridae,Pierinae,Anthocharini,610364,21
 Animalia,Arthropoda,Insecta,Lepidoptera,Pieridae,Pierinae,Anthocharini,642122,219827,SSES,Euchlo� simplonia oberthueri
 Animalia,Arthropoda,Insecta,Lepidoptera,Pieridae,Pierinae,Anthocharini,610363,219827,SSES,Euchloe simplonia simplonia
 Animalia,Arthropoda,Insecta,Lepidoptera,Pieridae,Pierinae,Anthocharini,642123,219827,SSES,Euchlo� simplonia simplonia
-Animalia,Arthropoda,Insecta,Lepidoptera,Pieridae,Pierinae,Anthocharini,816622,219827,ES,Papilio simplonia
-Animalia,Arthropoda,Insecta,Lepidoptera,Pieridae,Pierinae,Anthocharini,701929,219827,SSES,Pieris ausonia simplonia
-Animalia,Arthropoda,Insecta,Lepidoptera,Pieridae,Pierinae,Anthocharini,642121,219827,ES,Pieris simplonia
 Animalia,Arthropoda,Insecta,Lepidoptera,Pieridae,Pierinae,Anthocharini,777323,609941,ES,Anthocharis bellezina
 Animalia,Arthropoda,Insecta,Lepidoptera,Pieridae,Pierinae,Anthocharini,774650,609941,SSES,Anthocharis tagis bellezina
 Animalia,Arthropoda,Insecta,Lepidoptera,Pieridae,Pierinae,Anthocharini,54440,609941,SSES,Euchloe tagis bellezina
@@ -123415,9 +123313,6 @@ Animalia,Arthropoda,Insecta,Lepidoptera,Pieridae,Pierinae,Anthocharini,654733,60
 Animalia,Arthropoda,Insecta,Lepidoptera,Pieridae,Pierinae,Anthocharini,622122,609941,SSES,Iberochloe tagis bellezina
 Animalia,Arthropoda,Insecta,Lepidoptera,Pieridae,Pierinae,Anthocharini,609941,609941,ES,Iberochloe tagis
 Animalia,Arthropoda,Insecta,Lepidoptera,Pieridae,Pierinae,Anthocharini,657998,609941,SSES,Iberochloe tagis piemonti
-Animalia,Arthropoda,Insecta,Lepidoptera,Pieridae,Pierinae,Anthocharini,642125,609941,ES,Papilio tagis
-Animalia,Arthropoda,Insecta,Lepidoptera,Pieridae,Pierinae,Anthocharini,392434,609941,ES,Pieris bellezina
-Animalia,Arthropoda,Insecta,Lepidoptera,Pieridae,Pierinae,Anthocharini,834109,609941,SSES,Pieris tagis bellezina
 Animalia,Arthropoda,Insecta,Lepidoptera,Pieridae,Pierinae,Pierini,837193,54339,SSES,Aporia crataegi basanius
 Animalia,Arthropoda,Insecta,Lepidoptera,Pieridae,Pierinae,Pierini,642180,54339,SSES,Aporia crataegi crataegi
 Animalia,Arthropoda,Insecta,Lepidoptera,Pieridae,Pierinae,Pierini,54339,54339,ES,Aporia crataegi
@@ -137924,9 +137819,7 @@ Animalia,Chordata,Amphibia,Urodela,Salamandridae,,,167,163,SSES,Triturus marmora
 Animalia,Chordata,Ascidiacea,Stolidobranchia,Styelidae,,,553288,372826,ES,Eusynstyela errans
 Animalia,Chordata,Ascidiacea,Stolidobranchia,Styelidae,,,372826,372826,ES,Polycarpa errans
 Animalia,Chordata,Aves,Accipitriformes,Accipitridae,,,2891,2891,ES,Accipiter gentilis
-Animalia,Chordata,Aves,Accipitriformes,Accipitridae,,,416684,2891,ES,Astur palumbarius
-Animalia,Chordata,Aves,Accipitriformes,Accipitridae,,,2893,2891,ES,Falco gentilis
-Animalia,Chordata,Aves,Accipitriformes,Accipitridae,,,846569,2891,ES,Falco palumbarius
+Animalia,Chordata,Aves,Accipitriformes,Accipitridae,,,2891,2891,ES,Astur gentilis
 Animalia,Chordata,Aves,Accipitriformes,Accipitridae,,,2894,2894,SSES,Accipiter gentilis arrigonii
 Animalia,Chordata,Aves,Accipitriformes,Accipitridae,,,927027,2894,SSES,Astur gentilis arrigonii
 Animalia,Chordata,Aves,Accipitriformes,Accipitridae,,,782301,782301,SSES,Accipiter gentilis gentilis
@@ -137934,91 +137827,39 @@ Animalia,Chordata,Aves,Accipitriformes,Accipitridae,,,2895,2895,ES,Accipiter nis
 Animalia,Chordata,Aves,Accipitriformes,Accipitridae,,,2898,2895,SSES,Accipiter nisus nisus
 Animalia,Chordata,Aves,Accipitriformes,Accipitridae,,,2899,2895,SSES,Accipiter nisus wolterstorffi
 Animalia,Chordata,Aves,Accipitriformes,Accipitridae,,,961179,2895,ES,Accipiter wolterstorffi
-Animalia,Chordata,Aves,Accipitriformes,Accipitridae,,,2897,2895,ES,Falco nisus
 Animalia,Chordata,Aves,Accipitriformes,Accipitridae,,,2869,2869,ES,Aegypius monachus
-Animalia,Chordata,Aves,Accipitriformes,Accipitridae,,,2871,2869,ES,Vultur monachus
 Animalia,Chordata,Aves,Accipitriformes,Accipitridae,,,2634,2634,ES,Aquila adalberti
 Animalia,Chordata,Aves,Accipitriformes,Accipitridae,,,2645,2645,ES,Aquila chrysaetos
-Animalia,Chordata,Aves,Accipitriformes,Accipitridae,,,416681,2645,ES,Aquila fulva
-Animalia,Chordata,Aves,Accipitriformes,Accipitridae,,,2647,2645,ES,Falco chrysaetos
-Animalia,Chordata,Aves,Accipitriformes,Accipitridae,,,846567,2645,ES,Falco fulvus
-Animalia,Chordata,Aves,Accipitriformes,Accipitridae,,,2657,2657,ES,Aquila fasciata
-Animalia,Chordata,Aves,Accipitriformes,Accipitridae,,,2655,2657,ES,Hieraaetus fasciatus
+Animalia,Chordata,Aves,Accipitriformes,Accipitridae,,,2655,2657,ES,Aquila fasciata
 Animalia,Chordata,Aves,Accipitriformes,Accipitridae,,,2643,2643,ES,Aquila heliaca
 Animalia,Chordata,Aves,Accipitriformes,Accipitridae,,,2648,2648,ES,Aquila nipalensis
-Animalia,Chordata,Aves,Accipitriformes,Accipitridae,,,961180,2648,ES,Circa�tus nipalensis
 Animalia,Chordata,Aves,Accipitriformes,Accipitridae,,,2623,2623,ES,Buteo buteo
-Animalia,Chordata,Aves,Accipitriformes,Accipitridae,,,2625,2623,ES,Falco buteo
-Animalia,Chordata,Aves,Accipitriformes,Accipitridae,,,458792,2623,ES,Falco vulgaris
 Animalia,Chordata,Aves,Accipitriformes,Accipitridae,,,938973,938973,SSES,Buteo buteo arrigonii
 Animalia,Chordata,Aves,Accipitriformes,Accipitridae,,,779863,779863,SSES,Buteo buteo vulpinus
-Animalia,Chordata,Aves,Accipitriformes,Accipitridae,,,961181,779863,ES,Falco vulpinus
 Animalia,Chordata,Aves,Accipitriformes,Accipitridae,,,2630,2630,ES,Buteo lagopus
-Animalia,Chordata,Aves,Accipitriformes,Accipitridae,,,2632,2630,ES,Falco lagopus
-Animalia,Chordata,Aves,Accipitriformes,Accipitridae,,,416687,2627,ES,Buteo ferox
 Animalia,Chordata,Aves,Accipitriformes,Accipitridae,,,2627,2627,ES,Buteo rufinus
-Animalia,Chordata,Aves,Accipitriformes,Accipitridae,,,2629,2627,ES,Falco rufinus
 Animalia,Chordata,Aves,Accipitriformes,Accipitridae,,,779895,779895,SSES,Buteo rufinus cirtensis
-Animalia,Chordata,Aves,Accipitriformes,Accipitridae,,,925983,779895,ES,Falco cirtensis
-Animalia,Chordata,Aves,Accipitriformes,Accipitridae,,,199341,199341,ES,Buteo swainsoni
-Animalia,Chordata,Aves,Accipitriformes,Accipitridae,,,961182,2873,ES,Accipiter ferox
-Animalia,Chordata,Aves,Accipitriformes,Accipitridae,,,2876,2873,ES,Circaetus ferox
 Animalia,Chordata,Aves,Accipitriformes,Accipitridae,,,2873,2873,ES,Circaetus gallicus
-Animalia,Chordata,Aves,Accipitriformes,Accipitridae,,,2875,2873,ES,Falco gallicus
 Animalia,Chordata,Aves,Accipitriformes,Accipitridae,,,2878,2878,ES,Circus aeruginosus
-Animalia,Chordata,Aves,Accipitriformes,Accipitridae,,,2880,2878,ES,Falco aeruginosus
 Animalia,Chordata,Aves,Accipitriformes,Accipitridae,,,2881,2881,ES,Circus cyaneus
-Animalia,Chordata,Aves,Accipitriformes,Accipitridae,,,2883,2881,ES,Falco cyaneus
-Animalia,Chordata,Aves,Accipitriformes,Accipitridae,,,2886,2884,ES,Accipiter macrourus
 Animalia,Chordata,Aves,Accipitriformes,Accipitridae,,,2884,2884,ES,Circus macrourus
-Animalia,Chordata,Aves,Accipitriformes,Accipitridae,,,889071,2887,ES,Circus ater
 Animalia,Chordata,Aves,Accipitriformes,Accipitridae,,,2887,2887,ES,Circus pygargus
-Animalia,Chordata,Aves,Accipitriformes,Accipitridae,,,2889,2887,ES,Falco pygargus
-Animalia,Chordata,Aves,Accipitriformes,Accipitridae,,,2641,836346,ES,Aquila clanga
 Animalia,Chordata,Aves,Accipitriformes,Accipitridae,,,836346,836346,ES,Clanga clanga
-Animalia,Chordata,Aves,Accipitriformes,Accipitridae,,,2636,836345,ES,Aquila pomarina
 Animalia,Chordata,Aves,Accipitriformes,Accipitridae,,,836345,836345,ES,Clanga pomarina
 Animalia,Chordata,Aves,Accipitriformes,Accipitridae,,,2836,2836,ES,Elanus caeruleus
-Animalia,Chordata,Aves,Accipitriformes,Accipitridae,,,2838,2836,ES,Falco caeruleus
 Animalia,Chordata,Aves,Accipitriformes,Accipitridae,,,2852,2852,ES,Gypaetus barbatus
-Animalia,Chordata,Aves,Accipitriformes,Accipitridae,,,2854,2852,ES,Vultur barbatus
 Animalia,Chordata,Aves,Accipitriformes,Accipitridae,,,2860,2860,ES,Gyps fulvus
-Animalia,Chordata,Aves,Accipitriformes,Accipitridae,,,2862,2860,ES,Vultur fulvus
-Animalia,Chordata,Aves,Accipitriformes,Accipitridae,,,416705,416705,ES,Gyps melitensis
 Animalia,Chordata,Aves,Accipitriformes,Accipitridae,,,199338,199338,ES,Gyps rueppellii
-Animalia,Chordata,Aves,Accipitriformes,Accipitridae,,,886165,199338,ES,Vultur rueppellii
-Animalia,Chordata,Aves,Accipitriformes,Accipitridae,,,2850,2848,ES,Falco albicilla
 Animalia,Chordata,Aves,Accipitriformes,Accipitridae,,,2848,2848,ES,Haliaeetus albicilla
-Animalia,Chordata,Aves,Accipitriformes,Accipitridae,,,933196,933195,ES,Aquila pelagica
-Animalia,Chordata,Aves,Accipitriformes,Accipitridae,,,933195,933195,ES,Haliaeetus pelagicus
-Animalia,Chordata,Aves,Accipitriformes,Accipitridae,,,933198,933197,ES,Falco vocifer
-Animalia,Chordata,Aves,Accipitriformes,Accipitridae,,,933197,933197,ES,Haliaeetus vocifer
-Animalia,Chordata,Aves,Accipitriformes,Accipitridae,,,2654,2651,ES,Aquila pennata
-Animalia,Chordata,Aves,Accipitriformes,Accipitridae,,,2653,2651,ES,Falco pennatus
 Animalia,Chordata,Aves,Accipitriformes,Accipitridae,,,2651,2651,ES,Hieraaetus pennatus
-Animalia,Chordata,Aves,Accipitriformes,Accipitridae,,,961183,2840,ES,Accipiter korschun
-Animalia,Chordata,Aves,Accipitriformes,Accipitridae,,,2842,2840,ES,Falco migrans
-Animalia,Chordata,Aves,Accipitriformes,Accipitridae,,,2843,2840,ES,Milvus korschun
 Animalia,Chordata,Aves,Accipitriformes,Accipitridae,,,2840,2840,ES,Milvus migrans
-Animalia,Chordata,Aves,Accipitriformes,Accipitridae,,,2846,2844,ES,Falco milvus
 Animalia,Chordata,Aves,Accipitriformes,Accipitridae,,,2844,2844,ES,Milvus milvus
 Animalia,Chordata,Aves,Accipitriformes,Accipitridae,,,2856,2856,ES,Neophron percnopterus
-Animalia,Chordata,Aves,Accipitriformes,Accipitridae,,,2858,2856,ES,Vultur perenopterus
-Animalia,Chordata,Aves,Accipitriformes,Accipitridae,,,2834,2832,ES,Falco apivorus
 Animalia,Chordata,Aves,Accipitriformes,Accipitridae,,,2832,2832,ES,Pernis apivorus
-Animalia,Chordata,Aves,Accipitriformes,Accipitridae,,,2867,2864,ES,Aegypius tracheliotus
-Animalia,Chordata,Aves,Accipitriformes,Accipitridae,,,459634,2864,ES,Torgos tracheliotos
-Animalia,Chordata,Aves,Accipitriformes,Accipitridae,,,2864,2864,ES,Torgos tracheliotus
-Animalia,Chordata,Aves,Accipitriformes,Accipitridae,,,2866,2864,ES,Vultur tracheliotus
-Animalia,Chordata,Aves,Accipitriformes,Pandionidae,,,2662,2660,ES,Falco haliaetus
 Animalia,Chordata,Aves,Accipitriformes,Pandionidae,,,2660,2660,ES,Pandion haliaetus
 Animalia,Chordata,Aves,Anseriformes,Anatidae,Anatinae,,2776,2776,ES,Aix galericulata
-Animalia,Chordata,Aves,Anseriformes,Anatidae,Anatinae,,846643,2776,ES,Anas galericulata
 Animalia,Chordata,Aves,Anseriformes,Anatidae,Anatinae,,2775,2775,ES,Aix sponsa
-Animalia,Chordata,Aves,Anseriformes,Anatidae,Anatinae,,846644,2775,ES,Anas sponsa
 Animalia,Chordata,Aves,Anseriformes,Anatidae,Anatinae,,459626,459626,ES,Alopochen aegyptiaca
-Animalia,Chordata,Aves,Anseriformes,Anatidae,Anatinae,,2763,459626,ES,Alopochen aegyptiacus
-Animalia,Chordata,Aves,Anseriformes,Anatidae,Anatinae,,2765,459626,ES,Anas aegyptiaca
 Animalia,Chordata,Aves,Anseriformes,Anatidae,Anatinae,,1973,1973,ES,Anas acuta
 Animalia,Chordata,Aves,Anseriformes,Anatidae,Anatinae,,1948,1948,ES,Anas bahamensis
 Animalia,Chordata,Aves,Anseriformes,Anatidae,Anatinae,,933142,933142,ES,Anas capensis
@@ -138215,18 +138056,19 @@ Animalia,Chordata,Aves,Anseriformes,Anatidae,Oxyurinae,,896683,2823,SSES,Oxyura 
 Animalia,Chordata,Aves,Anseriformes,Anatidae,Oxyurinae,,2828,2826,ES,Anas leucocephala
 Animalia,Chordata,Aves,Anseriformes,Anatidae,Oxyurinae,,2826,2826,ES,Oxyura leucocephala
 Animalia,Chordata,Aves,Bucerotiformes,Upupidae,,,3590,3590,ES,Upupa epops
-Animalia,Chordata,Aves,Caprimulgiformes,Apodidae,,,199399,199399,ES,Apus affinis
-Animalia,Chordata,Aves,Caprimulgiformes,Apodidae,,,813397,199399,ES,Cypselus affinis
-Animalia,Chordata,Aves,Caprimulgiformes,Apodidae,,,3551,3551,ES,Apus apus
-Animalia,Chordata,Aves,Caprimulgiformes,Apodidae,,,3553,3551,ES,Cypselus apus
-Animalia,Chordata,Aves,Caprimulgiformes,Apodidae,,,3554,3551,ES,Hirundo Apus
-Animalia,Chordata,Aves,Caprimulgiformes,Apodidae,,,3555,3555,ES,Apus pallidus
-Animalia,Chordata,Aves,Caprimulgiformes,Apodidae,,,3557,3555,ES,Cypselus pallidus
-Animalia,Chordata,Aves,Caprimulgiformes,Apodidae,,,199398,199398,ES,Chaetura pelagica
-Animalia,Chordata,Aves,Caprimulgiformes,Apodidae,,,927138,199398,ES,Hirundo Pelagica
-Animalia,Chordata,Aves,Caprimulgiformes,Apodidae,,,3558,3561,ES,Apus melba
-Animalia,Chordata,Aves,Caprimulgiformes,Apodidae,,,3560,3561,ES,Hirundo melba
-Animalia,Chordata,Aves,Caprimulgiformes,Apodidae,,,3561,3561,ES,Tachymarptis melba
+Animalia,Chordata,Aves,Apodiformes,Apodidae,,,199399,199399,ES,Apus affinis
+Animalia,Chordata,Aves,Apodiformes,Apodidae,,,813397,199399,ES,Cypselus affinis
+Animalia,Chordata,Aves,Apodiformes,Apodidae,,,3551,3551,ES,Apus caffer
+Animalia,Chordata,Aves,Apodiformes,Apodidae,,,3551,3551,ES,Apus apus
+Animalia,Chordata,Aves,Apodiformes,Apodidae,,,3553,3551,ES,Cypselus apus
+Animalia,Chordata,Aves,Apodiformes,Apodidae,,,3554,3551,ES,Hirundo Apus
+Animalia,Chordata,Aves,Apodiformes,Apodidae,,,3555,3555,ES,Apus pallidus
+Animalia,Chordata,Aves,Apodiformes,Apodidae,,,3557,3555,ES,Cypselus pallidus
+Animalia,Chordata,Aves,Apodiformes,Apodidae,,,199398,199398,ES,Chaetura pelagica
+Animalia,Chordata,Aves,Apodiformes,Apodidae,,,927138,199398,ES,Hirundo Pelagica
+Animalia,Chordata,Aves,Apodiformes,Apodidae,,,3558,3561,ES,Apus melba
+Animalia,Chordata,Aves,Apodiformes,Apodidae,,,3560,3561,ES,Hirundo melba
+Animalia,Chordata,Aves,Apodiformes,Apodidae,,,3561,3561,ES,Tachymarptis melba
 Animalia,Chordata,Aves,Caprimulgiformes,Caprimulgidae,,,3542,3540,SSES,Caprimulgus europaeus europaeus
 Animalia,Chordata,Aves,Caprimulgiformes,Caprimulgidae,,,3540,3540,ES,Caprimulgus europaeus
 Animalia,Chordata,Aves,Caprimulgiformes,Caprimulgidae,,,3543,3540,SSES,Caprimulgus europaeus meridionalis
@@ -138254,12 +138096,14 @@ Animalia,Chordata,Aves,Charadriiformes,Alcidae,,,3384,3382,ES,Alca lomvia
 Animalia,Chordata,Aves,Charadriiformes,Alcidae,,,3382,3382,ES,Uria lomvia
 Animalia,Chordata,Aves,Charadriiformes,Burhinidae,,,3120,3120,ES,Burhinus oedicnemus
 Animalia,Chordata,Aves,Charadriiformes,Burhinidae,,,3122,3120,ES,Charadrius oedicnemus
+Animalia,Chordata,Aves,Charadriiformes,Charadriidae,,,3142,3142,ES,Anarhynchus alexandrinus
 Animalia,Chordata,Aves,Charadriiformes,Charadriidae,,,3142,3142,ES,Charadrius alexandrinus
 Animalia,Chordata,Aves,Charadriiformes,Charadriidae,,,3150,3150,ES,Charadrius asiaticus
 Animalia,Chordata,Aves,Charadriiformes,Charadriidae,,,3157,3150,ES,Pluvialis asiaticus
 Animalia,Chordata,Aves,Charadriiformes,Charadriidae,,,961015,3136,ES,Charadrius curonicus
 Animalia,Chordata,Aves,Charadriiformes,Charadriidae,,,3139,3136,SSES,Charadrius dubius curonicus
 Animalia,Chordata,Aves,Charadriiformes,Charadriidae,,,3136,3136,ES,Charadrius dubius
+Animalia,Chordata,Aves,Charadriiformes,Charadriidae,,,3136,3136,ES,Thinornis dubius
 Animalia,Chordata,Aves,Charadriiformes,Charadriidae,,,3138,3136,ES,Chardrius dubius
 Animalia,Chordata,Aves,Charadriiformes,Charadriidae,,,3140,3140,ES,Charadrius hiaticula
 Animalia,Chordata,Aves,Charadriiformes,Charadriidae,,,3148,3148,ES,Charadrius leschenaultii
@@ -138691,6 +138535,7 @@ Animalia,Chordata,Aves,Galliformes,Phasianidae,,,416708,935777,ES,Lagopus albus
 Animalia,Chordata,Aves,Galliformes,Phasianidae,,,935777,935777,SSES,Lagopus lagopus alba
 Animalia,Chordata,Aves,Galliformes,Phasianidae,,,416739,935777,SSES,Lagopus lagopus albus
 Animalia,Chordata,Aves,Galliformes,Phasianidae,,,935778,935777,ES,Tetrao albus
+Animalia,Chordata,Aves,Galliformes,Phasianidae,,,459629,459629,ES,Lagopus scoticus
 Animalia,Chordata,Aves,Galliformes,Phasianidae,,,459629,459629,ES,Lagopus muta
 Animalia,Chordata,Aves,Galliformes,Phasianidae,,,2951,459629,ES,Lagopus mutus
 Animalia,Chordata,Aves,Galliformes,Phasianidae,,,2953,459629,ES,Tetrao mutus
@@ -138795,6 +138640,7 @@ Animalia,Chordata,Aves,Passeriformes,Acrocephalidae,,,927793,4192,SSES,Motacilla
 Animalia,Chordata,Aves,Passeriformes,Acrocephalidae,,,4194,4192,ES,Sylvia palustris
 Animalia,Chordata,Aves,Passeriformes,Acrocephalidae,,,4187,4187,ES,Acrocephalus schoenobaenus
 Animalia,Chordata,Aves,Passeriformes,Acrocephalidae,,,4189,4187,ES,Motacilla schoenobaenus
+Animalia,Chordata,Aves,Passeriformes,Acrocephalidae,,,4195,4195,ES,Acrocephalus stentoreus
 Animalia,Chordata,Aves,Passeriformes,Acrocephalidae,,,4195,4195,ES,Acrocephalus scirpaceus
 Animalia,Chordata,Aves,Passeriformes,Acrocephalidae,,,4179,4195,ES,Acrocephalus scirpeus
 Animalia,Chordata,Aves,Passeriformes,Acrocephalidae,,,4197,4195,ES,Turdus scirpaceus
@@ -138813,6 +138659,7 @@ Animalia,Chordata,Aves,Passeriformes,Acrocephalidae,,,199463,199463,ES,Iduna pal
 Animalia,Chordata,Aves,Passeriformes,Acrocephalidae,,,526284,199464,ES,Hippolais rama
 Animalia,Chordata,Aves,Passeriformes,Acrocephalidae,,,199464,199464,ES,Iduna rama
 Animalia,Chordata,Aves,Passeriformes,Acrocephalidae,,,780134,199464,ES,Sylvia rama
+Animalia,Chordata,Aves,Passeriformes,Acrocephalidae,,,526284,199464,ES,Hippolais olivetorum
 Animalia,Chordata,Aves,Passeriformes,Aegithalidae,,,4347,4342,SSES,Aegithalos caudatus aremoricus
 Animalia,Chordata,Aves,Passeriformes,Aegithalidae,,,804727,4342,SSES,Aegithalos caudatus caudatus
 Animalia,Chordata,Aves,Passeriformes,Aegithalidae,,,4344,4342,SSES,Aegithalos caudatus europaeus
@@ -138829,6 +138676,7 @@ Animalia,Chordata,Aves,Passeriformes,Alaudidae,,,961320,3676,ES,Alauda cantarell
 Animalia,Chordata,Aves,Passeriformes,Alaudidae,,,961124,885382,ES,Alauda pispoletta
 Animalia,Chordata,Aves,Passeriformes,Alaudidae,,,961123,885382,ES,Alauda rufescens
 Animalia,Chordata,Aves,Passeriformes,Alaudidae,,,885382,885382,ES,Alaudala rufescens
+Animalia,Chordata,Aves,Passeriformes,Alaudidae,,,885382,885382,ES,Alaudala heinei
 Animalia,Chordata,Aves,Passeriformes,Alaudidae,,,3654,885382,ES,Calandrella pispoletta
 Animalia,Chordata,Aves,Passeriformes,Alaudidae,,,199485,885382,ES,Calandrella rufescens
 Animalia,Chordata,Aves,Passeriformes,Alaudidae,,,3652,885382,ES,Calandrella rufscens
@@ -138893,6 +138741,7 @@ Animalia,Chordata,Aves,Passeriformes,Cinclidae,,,3962,3958,SSES,Cinclus cinclus 
 Animalia,Chordata,Aves,Passeriformes,Cinclidae,,,3964,3958,SSES,Cinclus cinclus sapsworthi
 Animalia,Chordata,Aves,Passeriformes,Cinclidae,,,961522,3958,ES,Cinclus meridionalis
 Animalia,Chordata,Aves,Passeriformes,Cinclidae,,,3960,3958,ES,Sturnus cinclus
+Animalia,Chordata,Aves,Passeriformes,Cisticolidae,,,960682,4155,ES,Prinia gracilis
 Animalia,Chordata,Aves,Passeriformes,Cisticolidae,,,4159,4155,SSES,Cisticola juncidis cisticola
 Animalia,Chordata,Aves,Passeriformes,Cisticolidae,,,4158,4155,SSES,Cisticola juncidis juncidis
 Animalia,Chordata,Aves,Passeriformes,Cisticolidae,,,4155,4155,ES,Cisticola juncidis
@@ -138930,6 +138779,7 @@ Animalia,Chordata,Aves,Passeriformes,Corvidae,,,933245,933245,ES,Cyanopica cooki
 Animalia,Chordata,Aves,Passeriformes,Corvidae,,,927819,199411,ES,Corvus cyanus
 Animalia,Chordata,Aves,Passeriformes,Corvidae,,,4472,199411,ES,Cyanopica cyanea
 Animalia,Chordata,Aves,Passeriformes,Corvidae,,,199411,199411,ES,Cyanopica cyanus
+Animalia,Chordata,Aves,Passeriformes,Corvidae,,,846578,4466,ES,Perisoreus infaustus
 Animalia,Chordata,Aves,Passeriformes,Corvidae,,,846578,4466,ES,Corvus glandarius
 Animalia,Chordata,Aves,Passeriformes,Corvidae,,,4470,4466,SSES,Garrulus glandarius corsicanus
 Animalia,Chordata,Aves,Passeriformes,Corvidae,,,4468,4466,SSES,Garrulus glandarius glandarius
@@ -139012,6 +138862,7 @@ Animalia,Chordata,Aves,Passeriformes,Fringillidae,,,4595,4597,ES,Carduelis flamm
 Animalia,Chordata,Aves,Passeriformes,Fringillidae,,,886229,4597,ES,Fringilla flammea
 Animalia,Chordata,Aves,Passeriformes,Fringillidae,,,886230,886230,SSES,Acanthis flammea cabaret
 Animalia,Chordata,Aves,Passeriformes,Fringillidae,,,4598,886230,SSES,Carduelis flammea cabaret
+Animalia,Chordata,Aves,Passeriformes,Fringillidae,,,886231,886230,ES,Acanthis cabaret
 Animalia,Chordata,Aves,Passeriformes,Fringillidae,,,886231,886230,ES,Fringilla cabaret
 Animalia,Chordata,Aves,Passeriformes,Fringillidae,,,886232,886232,SSES,Acanthis flammea flammea
 Animalia,Chordata,Aves,Passeriformes,Fringillidae,,,4600,886232,SSES,Carduelis flammea flammea
@@ -139053,9 +138904,6 @@ Animalia,Chordata,Aves,Passeriformes,Fringillidae,,,4566,4564,SSES,Fringilla coe
 Animalia,Chordata,Aves,Passeriformes,Fringillidae,,,4564,4564,ES,Fringilla coelebs
 Animalia,Chordata,Aves,Passeriformes,Fringillidae,,,4567,4564,SSES,Fringilla coelebs tyrrhenica
 Animalia,Chordata,Aves,Passeriformes,Fringillidae,,,4568,4568,ES,Fringilla montifringilla
-Animalia,Chordata,Aves,Passeriformes,Fringillidae,,,4589,889047,ES,Acanthis cannabina
-Animalia,Chordata,Aves,Passeriformes,Fringillidae,,,4588,889047,ES,Carduelis cannabina
-Animalia,Chordata,Aves,Passeriformes,Fringillidae,,,889048,889047,ES,Fringilla cannabina
 Animalia,Chordata,Aves,Passeriformes,Fringillidae,,,889047,889047,ES,Linaria cannabina
 Animalia,Chordata,Aves,Passeriformes,Fringillidae,,,4590,889042,ES,Carduelis flavirostris
 Animalia,Chordata,Aves,Passeriformes,Fringillidae,,,895984,889042,ES,Fringilla flavirostris
@@ -139086,6 +138934,7 @@ Animalia,Chordata,Aves,Passeriformes,Fringillidae,,,4571,4571,ES,Serinus serinus
 Animalia,Chordata,Aves,Passeriformes,Fringillidae,,,4586,889056,ES,Carduelis spinus
 Animalia,Chordata,Aves,Passeriformes,Fringillidae,,,889057,889056,ES,Fringilla spinus
 Animalia,Chordata,Aves,Passeriformes,Fringillidae,,,889056,889056,ES,Spinus spinus
+Animalia,Chordata,Aves,Passeriformes,Hirundinidae,,,3701,3701,ES,Cecropis rufula
 Animalia,Chordata,Aves,Passeriformes,Hirundinidae,,,3701,3701,ES,Cecropis daurica
 Animalia,Chordata,Aves,Passeriformes,Hirundinidae,,,3699,3701,ES,Hirundo daurica
 Animalia,Chordata,Aves,Passeriformes,Hirundinidae,,,938975,938975,SSES,Cecropis daurica rufula
@@ -139256,10 +139105,12 @@ Animalia,Chordata,Aves,Passeriformes,Muscicapidae,,,4319,4319,ES,Muscicapa stria
 Animalia,Chordata,Aves,Passeriformes,Muscicapidae,,,4321,4319,SSES,Muscicapa striata striata
 Animalia,Chordata,Aves,Passeriformes,Muscicapidae,,,4322,847121,SSES,Muscicapa striata tyrrhenica
 Animalia,Chordata,Aves,Passeriformes,Muscicapidae,,,847121,847121,ES,Muscicapa tyrrhenica
+Animalia,Chordata,Aves,Passeriformes,Muscicapidae,,,199428,199428,ES,Oenanthe cypriaca
 Animalia,Chordata,Aves,Passeriformes,Muscicapidae,,,199428,199428,ES,Oenanthe deserti
 Animalia,Chordata,Aves,Passeriformes,Muscicapidae,,,4077,199428,ES,Oenanthe desertii
 Animalia,Chordata,Aves,Passeriformes,Muscicapidae,,,4079,199428,ES,Saxicola deserti
 Animalia,Chordata,Aves,Passeriformes,Muscicapidae,,,4076,4074,ES,Motacilla hispanica
+Animalia,Chordata,Aves,Passeriformes,Muscicapidae,,,4074,4074,ES,Oenanthe melanoleuca
 Animalia,Chordata,Aves,Passeriformes,Muscicapidae,,,4074,4074,ES,Oenanthe hispanica
 Animalia,Chordata,Aves,Passeriformes,Muscicapidae,,,4062,4062,ES,Oenanthe isabellina
 Animalia,Chordata,Aves,Passeriformes,Muscicapidae,,,928374,4062,ES,Saxicola isabellina
@@ -139341,11 +139192,13 @@ Animalia,Chordata,Aves,Passeriformes,Paridae,,,886211,886211,SSES,Poecile montan
 Animalia,Chordata,Aves,Passeriformes,Paridae,,,4359,886212,SSES,Parus montanus rhenanus
 Animalia,Chordata,Aves,Passeriformes,Paridae,,,886213,886212,ES,Parus rhenanus
 Animalia,Chordata,Aves,Passeriformes,Paridae,,,886212,886212,SSES,Poecile montanus rhenanus
+Animalia,Chordata,Aves,Passeriformes,Paridae,,,886213,886212,ES,Poecile cinctus
 Animalia,Chordata,Aves,Passeriformes,Paridae,,,961329,534753,SSES,Parus dresseri longirostris
 Animalia,Chordata,Aves,Passeriformes,Paridae,,,4354,534753,SSES,Parus palustris darti
 Animalia,Chordata,Aves,Passeriformes,Paridae,,,4351,534753,ES,Parus palustris
 Animalia,Chordata,Aves,Passeriformes,Paridae,,,4353,534753,SSES,Parus palustris longirostris
 Animalia,Chordata,Aves,Passeriformes,Paridae,,,534753,534753,ES,Poecile palustris
+Animalia,Chordata,Aves,Passeriformes,Paridae,,,534753,534753,ES,Poecile lugubris
 Animalia,Chordata,Aves,Passeriformes,Parulidae,,,782628,626165,ES,Motacilla noveboracensis
 Animalia,Chordata,Aves,Passeriformes,Parulidae,,,626165,626165,ES,Parkesia noveboracensis
 Animalia,Chordata,Aves,Passeriformes,Parulidae,,,4639,626165,ES,Seiurus noveboracensis
@@ -139361,7 +139214,6 @@ Animalia,Chordata,Aves,Passeriformes,Parulidae,,,627668,627668,ES,Setophaga pete
 Animalia,Chordata,Aves,Passeriformes,Parulidae,,,813813,4636,ES,Motacilla ruticilla
 Animalia,Chordata,Aves,Passeriformes,Parulidae,,,4636,4636,ES,Setophaga ruticilla
 Animalia,Chordata,Aves,Passeriformes,Parulidae,,,4634,627671,ES,Dendroica striata
-Animalia,Chordata,Aves,Passeriformes,Parulidae,,,813834,627671,ES,Muscicapa striata
 Animalia,Chordata,Aves,Passeriformes,Parulidae,,,627671,627671,ES,Setophaga striata
 Animalia,Chordata,Aves,Passeriformes,Passerellidae,,,928419,199519,ES,Fringilla albicollis
 Animalia,Chordata,Aves,Passeriformes,Passerellidae,,,199519,199519,ES,Zonotrichia albicollis
@@ -139389,6 +139241,7 @@ Animalia,Chordata,Aves,Passeriformes,Passeridae,,,4542,4540,ES,Passer petronia
 Animalia,Chordata,Aves,Passeriformes,Passeridae,,,4544,4540,SSES,Petronia petronia hellmayri
 Animalia,Chordata,Aves,Passeriformes,Passeridae,,,4540,4540,ES,Petronia petronia
 Animalia,Chordata,Aves,Passeriformes,Passeridae,,,4543,4540,SSES,Petronia petronia petronia
+Animalia,Chordata,Aves,Passeriformes,Phylloscopidae,,,4269,4269,ES,Phylloscopus nitidus
 Animalia,Chordata,Aves,Passeriformes,Phylloscopidae,,,4269,4269,ES,Phylloscopus bonelli
 Animalia,Chordata,Aves,Passeriformes,Phylloscopidae,,,889087,4269,ES,Rhadina bonelli
 Animalia,Chordata,Aves,Passeriformes,Phylloscopidae,,,4271,4269,ES,Sylvia bonelli
@@ -139451,6 +139304,7 @@ Animalia,Chordata,Aves,Passeriformes,Prunellidae,,,3978,3978,ES,Prunella modular
 Animalia,Chordata,Aves,Passeriformes,Prunellidae,,,3981,3978,SSES,Prunella modularis mabbotti
 Animalia,Chordata,Aves,Passeriformes,Prunellidae,,,3982,3978,SSES,Prunella modularis modularis
 Animalia,Chordata,Aves,Passeriformes,Prunellidae,,,3983,3978,SSES,Prunella modularis occidentalis
+Animalia,Chordata,Aves,Passeriformes,Pycnonotidae,,,199479,199479,ES,Pycnonotus xanthopygos
 Animalia,Chordata,Aves,Passeriformes,Pycnonotidae,,,199479,199479,ES,Pycnonotus barbatus
 Animalia,Chordata,Aves,Passeriformes,Pycnonotidae,,,933295,199479,ES,Turdus barbatus
 Animalia,Chordata,Aves,Passeriformes,Pycnonotidae,,,432746,432746,ES,Pycnonotus cafer
@@ -139469,6 +139323,8 @@ Animalia,Chordata,Aves,Passeriformes,Scotocercidae,,,4151,4151,ES,Cettia cetti
 Animalia,Chordata,Aves,Passeriformes,Scotocercidae,,,4153,4151,ES,Sylvia cetti
 Animalia,Chordata,Aves,Passeriformes,Sittidae,,,3776,3774,SSES,Sitta europaea hassica
 Animalia,Chordata,Aves,Passeriformes,Sittidae,,,3774,3774,ES,Sitta europaea
+Animalia,Chordata,Aves,Passeriformes,Sittidae,,,3774,3774,ES,Sitta neumayer
+Animalia,Chordata,Aves,Passeriformes,Sittidae,,,3774,3774,ES,Sitta krueperi
 Animalia,Chordata,Aves,Passeriformes,Sittidae,,,3772,3772,ES,Sitta whiteheadi
 Animalia,Chordata,Aves,Passeriformes,Sittidae,,,928800,3780,ES,Certhia muraria
 Animalia,Chordata,Aves,Passeriformes,Sittidae,,,3780,3780,ES,Tichodroma muraria
@@ -139492,7 +139348,7 @@ Animalia,Chordata,Aves,Passeriformes,Sylviidae,,,824086,4229,ES,Curruca inornata
 Animalia,Chordata,Aves,Passeriformes,Sylviidae,,,4231,4229,ES,Motacilla cantillans
 Animalia,Chordata,Aves,Passeriformes,Sylviidae,,,782307,4229,SSES,Sylvia cantillans cantillans
 Animalia,Chordata,Aves,Passeriformes,Sylviidae,,,4229,4229,ES,Sylvia cantillans
-Animalia,Chordata,Aves,Passeriformes,Sylviidae,,,824084,4229,ES,Sylvia inornata
+Animalia,Chordata,Aves,Passeriformes,Sylviidae,,,824084,4229,ES,Curruca inornata
 Animalia,Chordata,Aves,Passeriformes,Sylviidae,,,961131,4229,SSES,Sylvia subalpina inornata
 Animalia,Chordata,Aves,Passeriformes,Sylviidae,,,886225,886224,ES,Curruca albistriata
 Animalia,Chordata,Aves,Passeriformes,Sylviidae,,,886224,886224,SSES,Sylvia cantillans albistriata
@@ -139505,19 +139361,21 @@ Animalia,Chordata,Aves,Passeriformes,Sylviidae,,,889076,4247,SSES,Curruca curruc
 Animalia,Chordata,Aves,Passeriformes,Sylviidae,,,4249,4247,ES,Motacilla curruca
 Animalia,Chordata,Aves,Passeriformes,Sylviidae,,,4250,4247,SSES,Sylvia curruca blythi
 Animalia,Chordata,Aves,Passeriformes,Sylviidae,,,4251,4247,SSES,Sylvia curruca curruca
-Animalia,Chordata,Aves,Passeriformes,Sylviidae,,,4247,4247,ES,Sylvia curruca
+Animalia,Chordata,Aves,Passeriformes,Sylviidae,,,4247,4247,ES,Curruca curruca
 Animalia,Chordata,Aves,Passeriformes,Sylviidae,,,199467,199467,ES,Sylvia deserticola
 Animalia,Chordata,Aves,Passeriformes,Sylviidae,,,889079,4242,ES,Curruca hortensis
 Animalia,Chordata,Aves,Passeriformes,Sylviidae,,,4244,4242,ES,Motacilla hortensis
-Animalia,Chordata,Aves,Passeriformes,Sylviidae,,,4242,4242,ES,Sylvia hortensis
+Animalia,Chordata,Aves,Passeriformes,Sylviidae,,,4242,4242,ES,Curruca hortensis
+Animalia,Chordata,Aves,Passeriformes,Sylviidae,,,889080,4232,ES,Curruca melanothorax
+Animalia,Chordata,Aves,Passeriformes,Sylviidae,,,889080,4232,ES,Curruca balearica
 Animalia,Chordata,Aves,Passeriformes,Sylviidae,,,889080,4232,ES,Curruca melanocephala
 Animalia,Chordata,Aves,Passeriformes,Sylviidae,,,4234,4232,ES,Montacilla melanocephala
 Animalia,Chordata,Aves,Passeriformes,Sylviidae,,,962070,4232,ES,Motacilla melanocephala
-Animalia,Chordata,Aves,Passeriformes,Sylviidae,,,4232,4232,ES,Sylvia melanocephala
+Animalia,Chordata,Aves,Passeriformes,Sylviidae,,,4232,4232,ES,Curruca melanocephala
 Animalia,Chordata,Aves,Passeriformes,Sylviidae,,,4241,4239,ES,Curruca nana
 Animalia,Chordata,Aves,Passeriformes,Sylviidae,,,4239,4239,ES,Sylvia nana
 Animalia,Chordata,Aves,Passeriformes,Sylviidae,,,4246,4245,ES,Motacilla nisoria
-Animalia,Chordata,Aves,Passeriformes,Sylviidae,,,4245,4245,ES,Sylvia nisoria
+Animalia,Chordata,Aves,Passeriformes,Sylviidae,,,4245,4245,ES,Curruca nisoria
 Animalia,Chordata,Aves,Passeriformes,Sylviidae,,,891599,891598,ES,Curruca ruppeli
 Animalia,Chordata,Aves,Passeriformes,Sylviidae,,,4237,891598,ES,Sylvia rueppeli
 Animalia,Chordata,Aves,Passeriformes,Sylviidae,,,199469,891598,ES,Sylvia rueppelli
@@ -139528,7 +139386,7 @@ Animalia,Chordata,Aves,Passeriformes,Sylviidae,,,824088,824026,ES,Curruca subalp
 Animalia,Chordata,Aves,Passeriformes,Sylviidae,,,782308,824026,SSES,Sylvia cantillans moltonii
 Animalia,Chordata,Aves,Passeriformes,Sylviidae,,,824027,824026,SSES,Sylvia cantillans subalpina
 Animalia,Chordata,Aves,Passeriformes,Sylviidae,,,782309,824026,ES,Sylvia moltonii
-Animalia,Chordata,Aves,Passeriformes,Sylviidae,,,824026,824026,ES,Sylvia subalpina
+Animalia,Chordata,Aves,Passeriformes,Sylviidae,,,824026,824026,ES,Curruca subalpina
 Animalia,Chordata,Aves,Passeriformes,Sylviidae,,,889083,4221,ES,Curruca undata
 Animalia,Chordata,Aves,Passeriformes,Sylviidae,,,4223,4221,ES,Motacilla undata
 Animalia,Chordata,Aves,Passeriformes,Sylviidae,,,4221,4221,ES,Sylvia undata
@@ -139539,6 +139397,7 @@ Animalia,Chordata,Aves,Passeriformes,Sylviidae,,,782305,782305,SSES,Sylvia undat
 Animalia,Chordata,Aves,Passeriformes,Sylviidae,,,889082,4224,SSES,Curruca undata undata
 Animalia,Chordata,Aves,Passeriformes,Sylviidae,,,4226,4224,SSES,Sylvia undata corsa
 Animalia,Chordata,Aves,Passeriformes,Sylviidae,,,4224,4224,SSES,Sylvia undata undata
+Animalia,Chordata,Aves,Passeriformes,Sylviidae,,,4221,4221,ES,Curruca crassirostris
 Animalia,Chordata,Aves,Passeriformes,Thraupidae,,,933239,933237,ES,Loxia coronata
 Animalia,Chordata,Aves,Passeriformes,Thraupidae,,,933237,933237,ES,Paroaria coronata
 Animalia,Chordata,Aves,Passeriformes,Troglodytidae,,,929026,3967,ES,Motacilla Troglodytes
@@ -139615,7 +139474,7 @@ Animalia,Chordata,Aves,Pelecaniformes,Ardeidae,,,2499,2497,ES,Ardea garzetta
 Animalia,Chordata,Aves,Pelecaniformes,Ardeidae,,,2497,2497,ES,Egretta garzetta
 Animalia,Chordata,Aves,Pelecaniformes,Ardeidae,,,2496,2494,ES,Ardea gularis
 Animalia,Chordata,Aves,Pelecaniformes,Ardeidae,,,2494,2494,ES,Egretta gularis
-Animalia,Chordata,Aves,Pelecaniformes,Ardeidae,,,2479,2477,ES,Ardea minuta
+Animalia,Chordata,Aves,Pelecaniformes,Ardeidae,,,2479,2477,ES,Botaurus minutus
 Animalia,Chordata,Aves,Pelecaniformes,Ardeidae,,,2477,2477,ES,Ixobrychus minutus
 Animalia,Chordata,Aves,Pelecaniformes,Ardeidae,,,2483,2481,ES,Ardea nycticorax
 Animalia,Chordata,Aves,Pelecaniformes,Ardeidae,,,2481,2481,ES,Nycticorax nycticorax
@@ -139635,6 +139494,7 @@ Animalia,Chordata,Aves,Pelecaniformes,Phalacrocoracidae,,,2456,895998,ES,Pelecan
 Animalia,Chordata,Aves,Pelecaniformes,Phalacrocoracidae,,,2454,895998,ES,Phalacrocorax pygmaeus
 Animalia,Chordata,Aves,Pelecaniformes,Phalacrocoracidae,,,2449,2447,ES,Pelecanus aristotelis
 Animalia,Chordata,Aves,Pelecaniformes,Phalacrocoracidae,,,851158,2447,SSES,Pelecanus subtus fuscus
+Animalia,Chordata,Aves,Pelecaniformes,Phalacrocoracidae,,,2447,2447,ES,Gulosus aristotelis
 Animalia,Chordata,Aves,Pelecaniformes,Phalacrocoracidae,,,2447,2447,ES,Phalacrocorax aristotelis
 Animalia,Chordata,Aves,Pelecaniformes,Phalacrocoracidae,,,2450,2450,SSES,Phalacrocorax aristotelis aristotelis
 Animalia,Chordata,Aves,Pelecaniformes,Phalacrocoracidae,,,929250,2452,ES,Carbo Desmarestii
@@ -139697,9 +139557,10 @@ Animalia,Chordata,Aves,Piciformes,Picidae,,,3613,3611,ES,Picoides major
 Animalia,Chordata,Aves,Piciformes,Picidae,,,3614,3611,ES,Picus major
 Animalia,Chordata,Aves,Piciformes,Picidae,,,960756,3611,SSES,Picus major pinetorum
 Animalia,Chordata,Aves,Piciformes,Picidae,,,938972,938972,SSES,Dendrocopos major harterti
+Animalia,Chordata,Aves,Piciformes,Picidae,,,3619,3619,ES,Dendrocopos syriacus
 Animalia,Chordata,Aves,Piciformes,Picidae,,,3619,3619,ES,Dendrocopos medius
 Animalia,Chordata,Aves,Piciformes,Picidae,,,895906,3619,ES,Leiopicus medius
-Animalia,Chordata,Aves,Piciformes,Picidae,,,3621,3619,ES,Picoides medius
+Animalia,Chordata,Aves,Piciformes,Picidae,,,3621,3619,ES,Dendrocoptes medius
 Animalia,Chordata,Aves,Piciformes,Picidae,,,3622,3619,ES,Picus medius
 Animalia,Chordata,Aves,Piciformes,Picidae,,,3634,3630,SSES,Dendrocopos minor buturlini
 Animalia,Chordata,Aves,Piciformes,Picidae,,,3635,3630,SSES,Dendrocopos minor hortorum
@@ -139720,6 +139581,7 @@ Animalia,Chordata,Aves,Piciformes,Picidae,,,3640,3638,ES,Picus tridactylus
 Animalia,Chordata,Aves,Piciformes,Picidae,,,3601,3601,ES,Picus canus
 Animalia,Chordata,Aves,Piciformes,Picidae,,,895793,895792,ES,Gecinus sharpei
 Animalia,Chordata,Aves,Piciformes,Picidae,,,895792,895792,ES,Picus sharpei
+Animalia,Chordata,Aves,Piciformes,Picidae,,,895792,895792,ES,Picus sharpei / viridis
 Animalia,Chordata,Aves,Piciformes,Picidae,,,3605,895792,SSES,Picus viridis sharpei
 Animalia,Chordata,Aves,Piciformes,Picidae,,,3603,3603,ES,Picus viridis
 Animalia,Chordata,Aves,Piciformes,Picidae,,,444422,444422,SSES,Picus viridis viridis
@@ -139804,6 +139666,7 @@ Animalia,Chordata,Aves,Psittaciformes,Psittaculidae,,,994944,994942,ES,Psittacus
 Animalia,Chordata,Aves,Psittaciformes,Psittaculidae,,,3451,3448,ES,Paleornis torquatus
 Animalia,Chordata,Aves,Psittaciformes,Psittaculidae,,,3448,3448,ES,Psittacula krameri
 Animalia,Chordata,Aves,Psittaciformes,Psittaculidae,,,3450,3448,ES,Psittacus krameri
+Animalia,Chordata,Aves,Pterocliformes,Pteroclidae,,,3408,3408,ES,Pterocles orientalis
 Animalia,Chordata,Aves,Pterocliformes,Pteroclidae,,,3408,3408,ES,Pterocles alchata
 Animalia,Chordata,Aves,Pterocliformes,Pteroclidae,,,3410,3408,ES,Tetrao alchata
 Animalia,Chordata,Aves,Pterocliformes,Pteroclidae,,,3415,3415,ES,Syrrhaptes paradoxus
@@ -139836,6 +139699,8 @@ Animalia,Chordata,Aves,Strigiformes,Strigidae,,,3507,3507,ES,Glaucidium passerin
 Animalia,Chordata,Aves,Strigiformes,Strigidae,,,3509,3507,ES,Strix passerina
 Animalia,Chordata,Aves,Strigiformes,Strigidae,,,3489,3489,ES,Otus scops
 Animalia,Chordata,Aves,Strigiformes,Strigidae,,,3491,3489,ES,Strix scops
+Animalia,Chordata,Aves,Strigiformes,Strigidae,,,3518,3518,ES,Strix nebulosa
+Animalia,Chordata,Aves,Strigiformes,Strigidae,,,3518,3518,ES,Strix uralensis
 Animalia,Chordata,Aves,Strigiformes,Strigidae,,,3518,3518,ES,Strix aluco
 Animalia,Chordata,Aves,Strigiformes,Strigidae,,,3505,3503,ES,Strix ulula
 Animalia,Chordata,Aves,Strigiformes,Strigidae,,,3503,3503,ES,Surnia ulula
@@ -149520,3 +149385,7 @@ Animalia,Arthropoda,Insecta,Orthoptera,Tettigoniidae,Phaneropterinae,Barbitistin
 Animalia,Arthropoda,Insecta,Orthoptera,Tettigoniidae,Phaneropterinae,Barbitistini,,,ES,Poecilimon ukrainicus
 Animalia,Arthropoda,Insecta,Orthoptera,Acrididae,Gomphocerinae,Gomphocerini,,,SSES,Stenobothrus fischeri fischeri
 Animalia,Arthropoda,Insecta,Orthoptera,Tettigoniidae,Tettigoniinae,Platycleidini,,,ES,Tessellana veyseli
+Animalia,Arthropoda,Insecta,Hemiptera,Aphrophoridae,Aphrophorinae,Philaenini,,,ES,
+Animalia,Arthropoda,Insecta,Hemiptera,Cicadellidae,Deltocephalinae,,,,ES,
+Animalia,Arthropoda,Insecta,Araneae,Agelenidae,Ageleninae,,,,ES,
+Animalia,Arthropoda,Insecta,Hemiptera,Cicadellidae,Deltocephalinae,Paralimnini,,,ES,

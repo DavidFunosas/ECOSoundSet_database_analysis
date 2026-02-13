@@ -1,11 +1,11 @@
 "category","family","n_soniferous_species","n_species_recorded","n_species_annotated","n_recordings","n_recordings_annotated","n_audio_segments_annotated"
-"Hemiptera","Cicadidae","24 (26)","24 (26)","22 (24)",2782,859,10019
-"Orthoptera","Acrididae","96 (111)","83 (94)","63 (72)",3645,1649,7541
-"Orthoptera","Gryllidae","12 (12)","12 (12)","12 (12)",1397,658,9522
-"Orthoptera","Gryllotalpidae","3 (3)","3 (3)","2 (2)",128,24,282
+"Hemiptera","Cicadidae","24 (26)","24 (26)","21 (23)",2781,858,10006
+"Orthoptera","Acrididae","95 (110)","81 (91)","46 (50)",3371,1561,7287
+"Orthoptera","Gryllidae","12 (12)","12 (12)","8 (8)",1365,638,9297
+"Orthoptera","Gryllotalpidae","3 (3)","3 (3)","2 (2)",125,24,282
 "Orthoptera","Pamphagidae","2 (2)","0 (0)","0 (0)",0,0,0
-"Orthoptera","Tettigoniidae","108 (117)","99 (106)","64 (68)",7180,4089,27697
-"Orthoptera","Trigonidiidae","4 (4)","4 (4)","4 (4)",389,159,1471
-"Other biophony","-","-","261","150",7549,1495,3974
-"Anthropophony","-","-","-","-",1987,1987,7360
+"Orthoptera","Tettigoniidae","108 (117)","93 (99)","56 (59)",6746,4043,27421
+"Orthoptera","Trigonidiidae","4 (4)","4 (4)","3 (3)",378,157,1457
+"Other biophony","-","-","261","149",7532,1478,3927
+"Anthropophony","-","-","-","-",1949,1949,7276
 "Geophony","-","-","-","-",515,515,2836

@@ -1,276 +1,275 @@
 "species","order","sound_type","frequency_range","n_recordings_on_online_libraries","n_recordings_in_our_dataset","n_recordings_annotated","n_annotated_audio_segments_in_train","n_annotated_audio_segments_in_val","n_annotated_audio_segments_in_test"
-"Cicada barbara","Hemiptera","Timbalization","Audible",254,31,29,267,35,36
-"Cicada orni","Hemiptera","Timbalization","Audible",1450,282,180,998,338,235
-"Cicadatra atra","Hemiptera","Timbalization","Audible",72,114,54,236,66,69
-"Cicadetta brevipennis brevipennis","Hemiptera","Timbalization","Partially audible",12,105,30,537,184,88
+"Cicada barbara","Hemiptera","Timbalization","Audible",272,31,29,113,201,24
+"Cicada orni","Hemiptera","Timbalization","Audible",1586,282,180,915,440,216
+"Cicadatra atra","Hemiptera","Timbalization","Audible",75,114,54,219,67,85
+"Cicadetta brevipennis brevipennis","Hemiptera","Timbalization","Partially audible",12,105,30,474,326,9
 "Cicadetta brevipennis litoralis","Hemiptera","Timbalization","Partially audible",0,15,15,331,0,0
-"Cicadetta cantilatrix","Hemiptera","Timbalization","Partially audible",14,138,32,256,278,203
-"Cicadetta cerdaniensis","Hemiptera","Timbalization","Partially audible",0,32,18,271,66,9
+"Cicadetta cantilatrix","Hemiptera","Timbalization","Partially audible",16,138,32,501,174,61
+"Cicadetta cerdaniensis","Hemiptera","Timbalization","Partially audible",0,32,18,210,66,71
 "Cicadetta concinna concinna","Hemiptera","Timbalization","Partially audible",0,16,0,0,0,0
-"Cicadetta fangoana","Hemiptera","Timbalization","Partially audible",6,18,13,115,44,26
-"Cicadetta macedonica","Hemiptera","Timbalization","Partially audible",9,93,0,0,0,0
-"Cicadetta montana","Hemiptera","Timbalization","Partially audible",20,200,28,162,69,110
-"Cicadetta petryi","Hemiptera","Timbalization","Partially audible",15,118,34,147,45,46
-"Cicadetta sibillae","Hemiptera","Timbalization","Partially audible",3,6,1,17,0,0
-"Dimissalna dimissa","Hemiptera","Timbalization","Partially audible",47,113,32,397,132,102
-"Lyristes plebejus","Hemiptera","Timbalization","Audible",157,104,57,266,116,71
-"Oligoglena tibialis","Hemiptera","Timbalization","Partially audible",22,61,2,3,0,0
-"Tettigettalna argentata","Hemiptera","Timbalization","Audible",327,167,110,381,184,142
-"Tettigettula pygmea","Hemiptera","Timbalization","Partially audible",26,156,39,162,76,38
-"Tibicina corsica corsica","Hemiptera","Timbalization","Audible",4,34,12,171,116,23
-"Tibicina corsica fairmairei","Hemiptera","Timbalization","Audible",0,118,13,164,14,34
-"Tibicina garricola","Hemiptera","Timbalization","Audible",68,231,32,216,55,46
-"Tibicina haematodes","Hemiptera","Timbalization","Audible",119,208,35,158,86,42
-"Tibicina nigronervosa","Hemiptera","Timbalization","Audible",0,37,21,162,59,26
-"Tibicina picta","Hemiptera","Timbalization","Audible",1,137,42,240,123,52
-"Tibicina quadrisignata","Hemiptera","Timbalization","Audible",10,133,16,503,45,60
-"Tibicina steveni","Hemiptera","Timbalization","Audible",12,115,14,185,44,41
-"Acheta domesticus","Orthoptera","Stridulation","Audible",365,28,7,49,0,10
-"Acrometopa italica","Orthoptera","Stridulation","Audible",32,2,1,11,0,0
-"Acrotylus braudi","Orthoptera","0","0",0,0,0,0,0,0
+"Cicadetta fangoana","Hemiptera","Timbalization","Partially audible",6,18,13,118,41,26
+"Cicadetta macedonica","Hemiptera","Timbalization","Partially audible",10,93,0,0,0,0
+"Cicadetta montana","Hemiptera","Timbalization","Partially audible",20,200,28,234,65,42
+"Cicadetta petryi","Hemiptera","Timbalization","Partially audible",16,118,34,134,66,38
+"Cicadetta sibillae","Hemiptera","Timbalization","Partially audible",3,5,0,0,0,0
+"Dimissalna dimissa","Hemiptera","Timbalization","Partially audible",48,113,32,380,144,108
+"Lyristes plebejus","Hemiptera","Timbalization","Audible",164,104,57,261,127,66
+"Oligoglena tibialis","Hemiptera","Timbalization","Partially audible",23,61,2,3,0,0
+"Tettigettalna argentata","Hemiptera","Timbalization","Audible",334,167,110,403,171,133
+"Tettigettula pygmea","Hemiptera","Timbalization","Partially audible",27,156,39,175,60,41
+"Tibicina corsica corsica","Hemiptera","Timbalization","Audible",4,34,12,263,13,34
+"Tibicina corsica fairmairei","Hemiptera","Timbalization","Audible",0,118,13,172,19,21
+"Tibicina garricola","Hemiptera","Timbalization","Audible",74,231,32,187,93,37
+"Tibicina haematodes","Hemiptera","Timbalization","Audible",127,208,35,133,112,41
+"Tibicina nigronervosa","Hemiptera","Timbalization","Audible",0,37,21,159,66,22
+"Tibicina picta","Hemiptera","Timbalization","Audible",1,137,42,325,23,69
+"Tibicina quadrisignata","Hemiptera","Timbalization","Audible",10,133,16,370,201,37
+"Tibicina steveni","Hemiptera","Timbalization","Audible",12,115,14,215,26,29
+"Acheta domesticus","Orthoptera","Stridulation","Audible",547,22,2,10,0,0
+"Acrometopa italica","Orthoptera","Stridulation","Audible",32,1,0,0,0,0
 "Acrotylus fischeri","Orthoptera","Crepitation","Audible",0,1,0,0,0,0
 "Acrotylus insubricus braudi","Orthoptera","Crepitation","Audible",0,0,0,0,0,0
-"Acrotylus insubricus insubricus","Orthoptera","Crepitation","Audible",0,1,0,0,0,0
+"Acrotylus insubricus insubricus","Orthoptera","Crepitation","Audible",0,2,0,0,0,0
 "Acrotylus patruelis","Orthoptera","Crepitation","Audible",0,0,0,0,0,0
-"Aeropedellus variegatus variegatus","Orthoptera","Stridulation","Audible",12,29,13,18,0,5
-"Aiolopus puissanti","Orthoptera","Crepitation","Audible",0,0,0,0,0,0
-"Aiolopus strepens","Orthoptera","Crepitation","Audible",6,0,0,0,0,0
+"Aeropedellus variegatus variegatus","Orthoptera","Stridulation","Audible",12,13,5,5,0,0
+"Aiolopus puissanti","Orthoptera","Crepitation","Audible",1,0,0,0,0,0
+"Aiolopus strepens","Orthoptera","Crepitation","Audible",7,0,0,0,0,0
 "Aiolopus thalassinus corsicus","Orthoptera","Crepitation","Audible",0,0,0,0,0,0
 "Aiolopus thalassinus thalassinus","Orthoptera","Crepitation","Audible",0,0,0,0,0,0
-"Amedegnatiana vicheti","Orthoptera","Stridulation","Ultrasounds",39,26,0,0,0,0
-"Anacridium aegyptium","Orthoptera","Crepitation","Audible",0,0,0,0,0,0
-"Anonconotus alpinus","Orthoptera","Stridulation","Ultrasounds",28,3,0,0,0,0
-"Anonconotus baracunensis","Orthoptera","Stridulation","Ultrasounds",22,1,0,0,0,0
-"Anonconotus ghilianii","Orthoptera","Stridulation","Partially audible",30,1,0,0,0,0
-"Anonconotus italoaustriacus","Orthoptera","Stridulation","Ultrasounds",12,0,0,0,0,0
+"Amedegnatiana vicheti","Orthoptera","Stridulation","Ultrasounds",39,0,0,0,0,0
+"Anacridium aegyptium","Orthoptera","Crepitation","Audible",1,0,0,0,0,0
+"Anonconotus alpinus","Orthoptera","Stridulation","Ultrasounds",28,2,0,0,0,0
+"Anonconotus baracunensis","Orthoptera","Stridulation","Ultrasounds",22,0,0,0,0,0
+"Anonconotus ghilianii","Orthoptera","Stridulation","Partially audible",30,0,0,0,0,0
+"Anonconotus italoaustriacus","Orthoptera","Stridulation","Ultrasounds",16,0,0,0,0,0
 "Anonconotus ligustinus","Orthoptera","Stridulation","Ultrasounds",26,0,0,0,0,0
 "Anonconotus mercantouri","Orthoptera","Stridulation","Ultrasounds",22,0,0,0,0,0
 "Anonconotus occidentalis","Orthoptera","Stridulation","Ultrasounds",8,0,0,0,0,0
-"Antaxius bouvieri","Orthoptera","Stridulation","Ultrasounds",13,14,0,0,0,0
-"Antaxius chopardi","Orthoptera","Stridulation","Ultrasounds",45,23,3,14,0,4
-"Antaxius difformis","Orthoptera","Stridulation","Ultrasounds",46,2,0,0,0,0
-"Antaxius hispanicus","Orthoptera","Stridulation","Ultrasounds",69,14,5,14,6,6
-"Antaxius pedestris pedestris","Orthoptera","Stridulation","Ultrasounds",35,35,1,1,0,0
-"Antaxius sorrezensis","Orthoptera","Stridulation","Ultrasounds",27,26,11,6,4,1
-"Antaxius spinibrachius","Orthoptera","Stridulation","Ultrasounds",109,10,0,0,0,0
+"Antaxius bouvieri","Orthoptera","Stridulation","Ultrasounds",13,0,0,0,0,0
+"Antaxius chopardi","Orthoptera","Stridulation","Ultrasounds",45,6,3,14,0,4
+"Antaxius difformis","Orthoptera","Stridulation","Ultrasounds",59,1,0,0,0,0
+"Antaxius hispanicus","Orthoptera","Stridulation","Ultrasounds",74,13,5,15,5,6
+"Antaxius pedestris pedestris","Orthoptera","Stridulation","Ultrasounds",43,3,1,1,0,0
+"Antaxius sorrezensis","Orthoptera","Stridulation","Ultrasounds",27,25,11,7,2,2
+"Antaxius spinibrachius","Orthoptera","Stridulation","Ultrasounds",109,5,0,0,0,0
 "Arcyptera alzonai","Orthoptera","Stridulation","Audible",0,0,0,0,0,0
-"Arcyptera brevipennis vicheti","Orthoptera","Stridulation","Audible",7,14,3,3,0,0
-"Arcyptera fusca","Orthoptera","Stridulation","Audible",62,54,26,41,10,20
-"Arcyptera kheili","Orthoptera","Stridulation","Audible",9,6,0,0,0,0
+"Arcyptera brevipennis vicheti","Orthoptera","Stridulation","Audible",7,6,0,0,0,0
+"Arcyptera fusca","Orthoptera","Stridulation","Audible",72,53,26,41,10,20
+"Arcyptera kheili","Orthoptera","Stridulation","Audible",10,4,0,0,0,0
 "Arcyptera microptera carpentieri","Orthoptera","Stridulation","Audible",6,3,0,0,0,0
-"Arcyptera microptera microptera","Orthoptera","Stridulation","Audible",8,22,0,0,0,0
+"Arcyptera microptera microptera","Orthoptera","Stridulation","Audible",9,20,0,0,0,0
 "Baratia sari","Orthoptera","Stridulation","Partially audible",0,0,0,0,0,0
-"Barbitistes constrictus","Orthoptera","Stridulation","Partially audible",35,13,0,0,0,0
-"Barbitistes fischeri","Orthoptera","Stridulation","Partially audible",165,33,7,35,4,8
-"Barbitistes obtusus","Orthoptera","Stridulation","Partially audible",60,23,2,13,0,4
+"Barbitistes constrictus","Orthoptera","Stridulation","Partially audible",36,0,0,0,0,0
+"Barbitistes fischeri","Orthoptera","Stridulation","Partially audible",167,33,7,24,22,1
+"Barbitistes obtusus","Orthoptera","Stridulation","Partially audible",71,10,2,13,0,4
 "Barbitistes ocskayi","Orthoptera","Stridulation","Partially audible",231,2,0,0,0,0
-"Barbitistes serricauda","Orthoptera","Stridulation","Ultrasounds",122,19,7,11,5,5
-"Bicolorana bicolor bicolor","Orthoptera","Stridulation","Audible",185,141,95,555,191,170
-"Bryodemella tuberculata tuberculata","Orthoptera","Crepitation","Audible",1,10,4,17,0,8
+"Barbitistes serricauda","Orthoptera","Stridulation","Ultrasounds",132,19,7,11,5,5
+"Bicolorana bicolor bicolor","Orthoptera","Stridulation","Audible",185,137,92,536,167,192
+"Bryodemella tuberculata tuberculata","Orthoptera","Crepitation","Audible",1,4,0,0,0,0
 "Calephorus compressicornis","Orthoptera","Crepitation","Audible",3,0,0,0,0,0
-"Callicrania ramburii","Orthoptera","Stridulation","Partially audible",43,39,11,21,5,5
+"Callicrania ramburii","Orthoptera","Stridulation","Partially audible",43,38,11,21,5,5
 "Calliptamus barbarus barbarus","Orthoptera","Mandibular sounds","Audible",0,3,0,0,0,0
 "Calliptamus italicus italicus","Orthoptera","Mandibular sounds","Audible",0,9,7,18,0,0
 "Calliptamus siciliae","Orthoptera","Mandibular sounds","Audible",0,3,2,10,0,0
 "Calliptamus wattenwylianus","Orthoptera","Mandibular sounds","Audible",0,0,0,0,0,0
-"Chorthippus albomarginatus albomarginatus","Orthoptera","Stridulation","Audible",78,29,17,40,14,4
+"Chorthippus albomarginatus albomarginatus","Orthoptera","Stridulation","Audible",78,27,17,30,12,16
 "Chorthippus alticola rammei","Orthoptera","Stridulation","Audible",0,4,0,0,0,0
-"Chorthippus apricarius apricarius","Orthoptera","Stridulation","Audible",150,143,96,218,151,75
-"Chorthippus biguttulus biguttulus","Orthoptera","Stridulation","Audible",727,249,162,434,223,110
-"Chorthippus binotatus binotatus","Orthoptera","Stridulation","Audible",14,67,0,0,0,0
-"Chorthippus brunneus brunneus","Orthoptera","Stridulation","Audible",390,170,116,288,61,50
-"Chorthippus cialancensis","Orthoptera","Stridulation","Audible",1,9,1,1,0,0
+"Chorthippus apricarius apricarius","Orthoptera","Stridulation","Audible",150,140,95,277,97,67
+"Chorthippus biguttulus biguttulus","Orthoptera","Stridulation","Audible",727,246,161,420,228,116
+"Chorthippus binotatus binotatus","Orthoptera","Stridulation","Audible",14,66,0,0,0,0
+"Chorthippus brunneus brunneus","Orthoptera","Stridulation","Audible",391,166,114,107,249,41
+"Chorthippus cialancensis","Orthoptera","Stridulation","Audible",1,3,0,0,0,0
 "Chorthippus corsicus corsicus","Orthoptera","Stridulation","Audible",5,3,1,11,0,0
-"Chorthippus corsicus pascuorum","Orthoptera","Stridulation","Audible",10,10,3,3,0,0
-"Chorthippus dichrous","Orthoptera","Stridulation","Audible",13,11,0,0,0,0
-"Chorthippus dorsatus dorsatus","Orthoptera","Stridulation","Audible",118,118,70,233,55,67
-"Chorthippus eisentrauti","Orthoptera","Stridulation","Audible",182,15,4,6,0,2
-"Chorthippus jacobsi","Orthoptera","Stridulation","Audible",89,60,30,55,44,13
-"Chorthippus jucundus","Orthoptera","Stridulation","Audible",14,7,2,4,0,0
+"Chorthippus corsicus pascuorum","Orthoptera","Stridulation","Audible",10,3,0,0,0,0
+"Chorthippus dichrous","Orthoptera","Stridulation","Audible",14,11,0,0,0,0
+"Chorthippus dorsatus dorsatus","Orthoptera","Stridulation","Audible",118,116,70,242,53,60
+"Chorthippus eisentrauti","Orthoptera","Stridulation","Audible",200,13,4,6,0,2
+"Chorthippus jacobsi","Orthoptera","Stridulation","Audible",124,59,30,51,38,23
+"Chorthippus jucundus","Orthoptera","Stridulation","Audible",14,2,0,0,0,0
 "Chorthippus jutlandica","Orthoptera","Stridulation","Audible",2,0,0,0,0,0
-"Chorthippus mollis ignifer","Orthoptera","Stridulation","Audible",114,17,2,33,0,3
-"Chorthippus mollis mollis","Orthoptera","Stridulation","Audible",270,111,79,180,79,81
+"Chorthippus mollis ignifer","Orthoptera","Stridulation","Audible",115,5,2,33,0,3
+"Chorthippus mollis mollis","Orthoptera","Stridulation","Audible",273,102,79,194,75,71
 "Chorthippus oschei pusztaensis","Orthoptera","Stridulation","Audible",0,10,0,0,0,0
-"Chorthippus pullus","Orthoptera","Stridulation","Audible",14,37,2,2,0,0
-"Chorthippus reissingeri","Orthoptera","Stridulation","Audible",11,5,5,17,0,7
-"Chorthippus sampeyrensis","Orthoptera","Stridulation","Audible",1,19,14,23,0,0
-"Chorthippus saulcyi algoaldensis","Orthoptera","Stridulation","Audible",0,9,1,1,0,0
-"Chorthippus saulcyi daimei","Orthoptera","Stridulation","Audible",4,16,1,1,0,0
-"Chorthippus saulcyi moralesi","Orthoptera","Stridulation","Audible",4,4,4,31,0,3
-"Chorthippus saulcyi saulcyi","Orthoptera","Stridulation","Audible",0,7,1,1,0,0
-"Chorthippus saulcyi vicdessossi","Orthoptera","Stridulation","Audible",4,45,20,55,30,22
+"Chorthippus pullus","Orthoptera","Stridulation","Audible",14,15,0,0,0,0
+"Chorthippus reissingeri","Orthoptera","Stridulation","Audible",28,5,5,22,0,2
+"Chorthippus sampeyrensis","Orthoptera","Stridulation","Audible",1,2,0,0,0,0
+"Chorthippus saulcyi algoaldensis","Orthoptera","Stridulation","Audible",0,8,0,0,0,0
+"Chorthippus saulcyi daimei","Orthoptera","Stridulation","Audible",5,15,0,0,0,0
+"Chorthippus saulcyi moralesi","Orthoptera","Stridulation","Audible",4,3,3,31,0,0
+"Chorthippus saulcyi saulcyi","Orthoptera","Stridulation","Audible",0,6,0,0,0,0
+"Chorthippus saulcyi vicdessossi","Orthoptera","Stridulation","Audible",4,46,20,66,18,23
 "Chorthippus smardai","Orthoptera","Stridulation","Audible",0,0,0,0,0,0
-"Chorthippus vagans vagans","Orthoptera","Stridulation","Audible",132,89,31,64,30,10
-"Chrysochraon dispar dispar","Orthoptera","Stridulation","Audible",153,55,18,51,4,9
-"Conocephalus conocephalus","Orthoptera","Stridulation","Ultrasounds",50,12,0,0,0,0
-"Conocephalus dorsalis","Orthoptera","Stridulation","Partially audible",97,66,50,100,134,45
-"Conocephalus fuscus","Orthoptera","Stridulation","Partially audible",447,219,173,987,473,436
+"Chorthippus vagans vagans","Orthoptera","Stridulation","Audible",132,88,31,61,32,11
+"Chrysochraon dispar dispar","Orthoptera","Stridulation","Audible",153,54,18,51,4,9
+"Conocephalus conocephalus","Orthoptera","Stridulation","Ultrasounds",51,12,0,0,0,0
+"Conocephalus dorsalis","Orthoptera","Stridulation","Partially audible",97,66,50,121,134,24
+"Conocephalus fuscus","Orthoptera","Stridulation","Partially audible",475,219,173,1113,466,317
 "Corsteropleurus chopardi","Orthoptera","Stridulation","Audible",33,16,0,0,0,0
-"Cyrtaspis scutata","Orthoptera","Stridulation","Ultrasounds",146,75,23,17,10,5
-"Decticus albifrons","Orthoptera","Stridulation","Audible",348,141,74,248,70,72
-"Decticus verrucivorus monspeliensis","Orthoptera","Stridulation","Audible",9,10,3,21,0,0
-"Decticus verrucivorus verrucivorus","Orthoptera","Stridulation","Audible",151,107,73,266,99,35
+"Cyrtaspis scutata","Orthoptera","Stridulation","Ultrasounds",156,75,23,21,6,5
+"Decticus albifrons","Orthoptera","Stridulation","Audible",392,140,74,230,84,76
+"Decticus verrucivorus monspeliensis","Orthoptera","Stridulation","Audible",9,6,3,21,0,0
+"Decticus verrucivorus verrucivorus","Orthoptera","Stridulation","Audible",151,105,73,251,87,62
 "Dociostaurus brevicollis","Orthoptera","Stridulation","Audible",2,13,0,0,0,0
 "Dociostaurus genei genei","Orthoptera","Stridulation","Audible",0,5,0,0,0,0
-"Dociostaurus jagoi occidentalis","Orthoptera","Stridulation","Audible",6,14,0,0,0,0
-"Dociostaurus maroccanus","Orthoptera","Stridulation","Audible",20,29,1,7,0,0
-"Ephippiger diurnus cunii","Orthoptera","Stridulation","Partially audible",73,73,7,20,4,4
-"Ephippiger diurnus diurnus","Orthoptera","Stridulation","Partially audible",79,158,88,243,107,88
-"Ephippiger ephippiger","Orthoptera","Stridulation","Partially audible",58,14,0,0,0,0
-"Ephippiger persicarius","Orthoptera","Stridulation","Partially audible",18,15,2,15,0,0
+"Dociostaurus jagoi occidentalis","Orthoptera","Stridulation","Audible",7,12,0,0,0,0
+"Dociostaurus maroccanus","Orthoptera","Stridulation","Audible",22,29,0,0,0,0
+"Ephippiger diurnus cunii","Orthoptera","Stridulation","Partially audible",73,69,4,6,0,2
+"Ephippiger diurnus diurnus","Orthoptera","Stridulation","Partially audible",79,157,88,279,108,51
+"Ephippiger ephippiger","Orthoptera","Stridulation","Partially audible",60,14,0,0,0,0
+"Ephippiger persicarius","Orthoptera","Stridulation","Partially audible",18,4,0,0,0,0
 "Ephippiger provincialis","Orthoptera","Stridulation","Partially audible",11,10,0,0,0,0
-"Ephippiger terrestris bormansi","Orthoptera","Stridulation","Partially audible",15,39,4,29,0,0
+"Ephippiger terrestris bormansi","Orthoptera","Stridulation","Partially audible",15,33,4,29,0,0
 "Ephippiger terrestris caprai","Orthoptera","Stridulation","Partially audible",13,1,0,0,0,0
-"Ephippiger terrestris terrestris","Orthoptera","Stridulation","Partially audible",17,38,4,20,0,11
-"Euchorthippus chopardi","Orthoptera","Stridulation","Audible",26,40,6,8,0,0
-"Euchorthippus declivus","Orthoptera","Stridulation","Audible",71,61,22,41,12,15
-"Euchorthippus elegantulus","Orthoptera","Stridulation","Audible",28,89,25,59,21,16
+"Ephippiger terrestris terrestris","Orthoptera","Stridulation","Partially audible",17,34,0,0,0,0
+"Euchorthippus chopardi","Orthoptera","Stridulation","Audible",39,39,6,8,0,0
+"Euchorthippus declivus","Orthoptera","Stridulation","Audible",102,60,22,54,8,6
+"Euchorthippus elegantulus","Orthoptera","Stridulation","Audible",35,88,25,67,16,13
 "Euchorthippus pulvinatus","Orthoptera","Stridulation","Audible",1,6,0,0,0,0
-"Eugryllodes pipiens","Orthoptera","Stridulation","Audible",132,58,1,4,0,0
-"Eumodicogryllus bordigalensis bordigalensis","Orthoptera","Stridulation","Audible",352,229,96,1252,388,405
-"Eupholidoptera chabrieri chabrieri","Orthoptera","Stridulation","Partially audible",9,42,3,9,0,0
-"Eupholidoptera schmidti","Orthoptera","Stridulation","Partially audible",637,7,0,0,0,0
-"Eupholidoptera tyrrhenica","Orthoptera","Stridulation","Partially audible",21,19,4,35,0,4
-"Euthystira brachyptera","Orthoptera","Stridulation","Partially audible",56,70,48,246,128,105
-"Gampsocleis glabra","Orthoptera","Stridulation","Audible",96,24,1,5,0,0
+"Eugryllodes pipiens","Orthoptera","Stridulation","Audible",152,57,0,0,0,0
+"Eumodicogryllus bordigalensis bordigalensis","Orthoptera","Stridulation","Audible",353,227,96,1347,535,164
+"Eupholidoptera chabrieri chabrieri","Orthoptera","Stridulation","Partially audible",9,43,3,9,0,0
+"Eupholidoptera schmidti","Orthoptera","Stridulation","Partially audible",649,7,0,0,0,0
+"Eupholidoptera tyrrhenica","Orthoptera","Stridulation","Partially audible",21,14,0,0,0,0
+"Euthystira brachyptera","Orthoptera","Stridulation","Partially audible",69,69,48,235,132,112
+"Gampsocleis glabra","Orthoptera","Stridulation","Audible",96,23,0,0,0,0
 "Gomphoceridius brevipennis","Orthoptera","Stridulation","Audible",0,2,0,0,0,0
 "Gomphocerippus armoricanus provincialis","Orthoptera","Stridulation","Audible",0,13,4,11,0,5
-"Gomphocerippus rufus","Orthoptera","Stridulation","Audible",105,58,23,74,0,1
-"Gomphocerus sibiricus sibiricus","Orthoptera","Stridulation","Audible",53,33,11,41,0,44
-"Gryllodes sigillatus","Orthoptera","Stridulation","Audible",95,17,8,107,0,12
-"Gryllotalpa africana","Orthoptera","Stridulation","Audible",81,4,0,0,0,0
-"Gryllotalpa gryllotalpa","Orthoptera","Stridulation","Audible",523,52,18,186,63,5
-"Gryllotalpa vineae","Orthoptera","Stridulation","Audible",195,72,6,16,5,7
-"Gryllus bimaculatus","Orthoptera","Stridulation","Audible",374,142,28,165,65,41
-"Gryllus campestris","Orthoptera","Stridulation","Audible",1471,573,355,2893,967,797
+"Gomphocerippus rufus","Orthoptera","Stridulation","Audible",118,57,23,74,0,1
+"Gomphocerus sibiricus sibiricus","Orthoptera","Stridulation","Audible",53,31,11,65,18,2
+"Gryllodes sigillatus","Orthoptera","Stridulation","Audible",99,9,0,0,0,0
+"Gryllotalpa africana","Orthoptera","Stridulation","Audible",82,4,0,0,0,0
+"Gryllotalpa gryllotalpa","Orthoptera","Stridulation","Audible",544,50,18,158,93,3
+"Gryllotalpa vineae","Orthoptera","Stridulation","Audible",209,71,6,14,7,7
+"Gryllus bimaculatus","Orthoptera","Stridulation","Audible",427,143,28,181,55,35
+"Gryllus campestris","Orthoptera","Stridulation","Audible",1590,571,355,2899,896,861
 "Isophya brevicauda","Orthoptera","Stridulation","Partially audible",16,1,0,0,0,0
-"Isophya camptoxypha","Orthoptera","Stridulation","Partially audible",15,16,0,0,0,0
+"Isophya camptoxypha","Orthoptera","Stridulation","Partially audible",16,16,0,0,0,0
 "Isophya costata","Orthoptera","Stridulation","Partially audible",15,2,0,0,0,0
-"Isophya kraussii","Orthoptera","Stridulation","Partially audible",72,193,167,1347,475,349
+"Isophya kraussii","Orthoptera","Stridulation","Partially audible",72,181,167,1434,363,375
 "Isophya modesta modesta","Orthoptera","Stridulation","Partially audible",0,19,0,0,0,0
-"Isophya modestior","Orthoptera","Stridulation","Partially audible",123,4,0,0,0,0
+"Isophya modestior","Orthoptera","Stridulation","Partially audible",125,4,0,0,0,0
 "Isophya pienensis austromoravica","Orthoptera","Stridulation","Partially audible",0,0,0,0,0,0
 "Isophya pienensis pienensis","Orthoptera","Stridulation","Partially audible",14,13,0,0,0,0
 "Isophya pienensis sudetica","Orthoptera","Stridulation","Partially audible",0,0,0,0,0,0
 "Isophya posthumoidalis","Orthoptera","Stridulation","Partially audible",11,27,0,0,0,0
-"Isophya pyrenaea","Orthoptera","Stridulation","Partially audible",61,31,9,12,2,2
+"Isophya pyrenaea","Orthoptera","Stridulation","Partially audible",67,31,9,9,5,2
 "Isophya rectipennis","Orthoptera","Stridulation","Partially audible",53,3,0,0,0,0
 "Isophya stysi","Orthoptera","Stridulation","Partially audible",8,26,0,0,0,0
-"Leptophyes albovittata","Orthoptera","Stridulation","Ultrasounds",59,3,0,0,0,0
-"Leptophyes boscii","Orthoptera","Stridulation","Ultrasounds",59,3,0,0,0,0
-"Leptophyes laticauda","Orthoptera","Stridulation","Partially audible",106,27,1,21,0,0
-"Leptophyes punctatissima","Orthoptera","Stridulation","Ultrasounds",1464,396,332,796,268,227
+"Leptophyes albovittata","Orthoptera","Stridulation","Ultrasounds",59,0,0,0,0,0
+"Leptophyes boscii","Orthoptera","Stridulation","Ultrasounds",59,1,0,0,0,0
+"Leptophyes laticauda","Orthoptera","Stridulation","Partially audible",139,12,1,21,0,0
+"Leptophyes punctatissima","Orthoptera","Stridulation","Ultrasounds",1476,396,332,673,380,238
 "Locusta migratoria gallica","Orthoptera","Crepitation","Audible",0,0,0,0,0,0
 "Locusta migratoria migratoria","Orthoptera","Crepitation","Audible",0,6,4,12,0,0
-"Locusta migratoria migratorioides","Orthoptera","Crepitation","Audible",0,9,3,3,0,0
-"Lucasinova nigromarginata","Orthoptera","Stridulation","Partially audible",24,2,0,0,0,0
-"Meconema meridionale","Orthoptera","Drumming","Audible",18,3,3,26,0,3
-"Meconema thalassinum","Orthoptera","Drumming","Audible",11,14,7,10,0,1
-"Melanogryllus desertus","Orthoptera","Stridulation","Audible",99,48,15,22,8,14
-"Metaplastes pulchripennis","Orthoptera","Stridulation","Ultrasounds",49,0,0,0,0,0
-"Metrioptera brachyptera","Orthoptera","Stridulation","Partially audible",178,67,58,209,102,7
-"Metrioptera buyssoni","Orthoptera","Stridulation","Partially audible",47,67,28,107,25,28
-"Metrioptera saussuriana","Orthoptera","Stridulation","Partially audible",152,123,56,339,75,52
-"Modicogryllus algirius algirius","Orthoptera","Stridulation","Audible",10,6,1,5,0,0
-"Modicogryllus frontalis","Orthoptera","Stridulation","Audible",27,10,4,20,0,4
+"Locusta migratoria migratorioides","Orthoptera","Crepitation","Audible",0,4,1,1,0,0
+"Lucasinova nigromarginata","Orthoptera","Stridulation","Partially audible",24,1,0,0,0,0
+"Meconema meridionale","Orthoptera","Drumming","Audible",18,2,2,26,0,0
+"Meconema thalassinum","Orthoptera","Drumming","Audible",11,7,0,0,0,0
+"Melanogryllus desertus","Orthoptera","Stridulation","Audible",104,46,15,26,4,14
+"Metaplastes pulchripennis","Orthoptera","Stridulation","Ultrasounds",51,0,0,0,0,0
+"Metrioptera brachyptera","Orthoptera","Stridulation","Partially audible",192,67,58,205,101,11
+"Metrioptera buyssoni","Orthoptera","Stridulation","Partially audible",48,68,28,105,18,37
+"Metrioptera saussuriana","Orthoptera","Stridulation","Partially audible",159,121,56,323,81,62
+"Modicogryllus algirius algirius","Orthoptera","Stridulation","Audible",10,3,0,0,0,0
+"Modicogryllus frontalis","Orthoptera","Stridulation","Audible",27,4,3,20,0,0
 "Montana montana","Orthoptera","Stridulation","Audible",2,1,0,0,0,0
 "Myrmeleotettix antennatus","Orthoptera","Stridulation","Audible",0,6,0,0,0,0
-"Myrmeleotettix maculatus maculatus","Orthoptera","Stridulation","Audible",106,37,16,70,0,41
-"Natula averni","Orthoptera","Stridulation","Audible",89,18,2,15,0,0
-"Nemobius sylvestris sylvestris","Orthoptera","Stridulation","Audible",276,201,91,442,131,100
-"Oecanthus dulcisonans","Orthoptera","Stridulation","Audible",212,45,5,62,0,15
-"Oecanthus pellucens pellucens","Orthoptera","Stridulation","Audible",759,213,136,1174,782,255
-"Oedaleus decorus","Orthoptera","Crepitation","Audible",0,16,5,19,0,0
-"Oedipoda caerulescens caerulescens","Orthoptera","Crepitation","Audible",0,46,3,4,0,2
+"Myrmeleotettix maculatus maculatus","Orthoptera","Stridulation","Audible",106,36,16,70,0,41
+"Natula averni","Orthoptera","Stridulation","Audible",106,16,0,0,0,0
+"Nemobius sylvestris sylvestris","Orthoptera","Stridulation","Audible",276,195,91,413,140,120
+"Oecanthus dulcisonans","Orthoptera","Stridulation","Audible",262,49,3,25,0,15
+"Oecanthus pellucens pellucens","Orthoptera","Stridulation","Audible",759,208,136,1203,646,361
+"Oedaleus decorus","Orthoptera","Crepitation","Audible",0,9,0,0,0,0
+"Oedipoda caerulescens caerulescens","Orthoptera","Crepitation","Audible",0,34,3,4,0,2
 "Oedipoda caerulescens sardeti","Orthoptera","Crepitation","Audible",0,0,0,0,0,0
 "Oedipoda charpentieri","Orthoptera","Crepitation","Audible",0,0,0,0,0,0
-"Oedipoda coerulea","Orthoptera","Crepitation","Audible",0,2,2,13,0,0
+"Oedipoda coerulea","Orthoptera","Crepitation","Audible",0,2,2,12,0,1
 "Oedipoda fuscocincta morini","Orthoptera","Crepitation","Audible",0,0,0,0,0,0
-"Oedipoda germanica germanica","Orthoptera","Crepitation","Audible",0,27,5,11,0,5
-"Omocestus antigai antigai","Orthoptera","Stridulation","Audible",7,12,4,7,2,3
-"Omocestus antigai bellmanni","Orthoptera","Stridulation","Audible",7,1,1,10,0,0
-"Omocestus defauti","Orthoptera","Stridulation","Audible",8,7,2,0,0,5
-"Omocestus haemorrhoidalis haemorrhoidalis","Orthoptera","Stridulation","Audible",37,60,8,20,0,5
-"Omocestus petraeus","Orthoptera","Stridulation","Audible",16,34,6,12,0,4
-"Omocestus raymondi","Orthoptera","Stridulation","Audible",57,54,41,53,30,13
-"Omocestus rufipes","Orthoptera","Stridulation","Audible",115,236,142,243,84,64
-"Omocestus viridulus","Orthoptera","Stridulation","Audible",201,39,19,93,41,58
+"Oedipoda germanica germanica","Orthoptera","Crepitation","Audible",0,20,0,0,0,0
+"Omocestus antigai antigai","Orthoptera","Stridulation","Audible",8,9,4,10,0,2
+"Omocestus antigai bellmanni","Orthoptera","Stridulation","Audible",7,0,0,0,0,0
+"Omocestus defauti","Orthoptera","Stridulation","Audible",8,0,0,0,0,0
+"Omocestus haemorrhoidalis haemorrhoidalis","Orthoptera","Stridulation","Audible",37,59,8,20,0,5
+"Omocestus petraeus","Orthoptera","Stridulation","Audible",16,32,5,12,0,0
+"Omocestus raymondi","Orthoptera","Stridulation","Audible",88,54,41,67,14,15
+"Omocestus rufipes","Orthoptera","Stridulation","Audible",142,235,142,231,94,66
+"Omocestus viridulus","Orthoptera","Stridulation","Audible",214,37,19,128,0,64
 "Pachytrachis gracilis","Orthoptera","Stridulation","Audible",70,3,0,0,0,0
-"Pachytrachis striolatus","Orthoptera","Stridulation","Audible",38,12,1,5,0,0
+"Pachytrachis striolatus","Orthoptera","Stridulation","Audible",38,2,0,0,0,0
 "Paracinema tricolor bisignata","Orthoptera","Crepitation","Audible",0,4,1,30,0,0
-"Phaneroptera falcata","Orthoptera","Stridulation","Partially audible",430,76,74,303,240,118
+"Phaneroptera falcata","Orthoptera","Stridulation","Partially audible",431,76,74,326,176,159
 "Phaneroptera laticerca","Orthoptera","Stridulation","Partially audible",388,33,15,52,24,14
-"Phaneroptera nana","Orthoptera","Stridulation","Partially audible",536,309,163,264,119,58
+"Phaneroptera nana","Orthoptera","Stridulation","Partially audible",559,309,163,239,115,87
 "Pholidoptera aptera aptera","Orthoptera","Stridulation","Partially audible",71,44,4,0,0,28
-"Pholidoptera fallax","Orthoptera","Stridulation","Partially audible",60,26,2,4,0,0
-"Pholidoptera femorata","Orthoptera","Stridulation","Partially audible",152,63,51,176,49,50
-"Pholidoptera griseoaptera","Orthoptera","Stridulation","Partially audible",1758,322,271,1132,333,358
-"Pholidoptera littoralis insubrica","Orthoptera","Stridulation","Audible",30,32,2,9,0,0
-"Pholidoptera littoralis littoralis","Orthoptera","Stridulation","Audible",41,6,0,0,0,0
-"Platycleis affinis affinis","Orthoptera","Stridulation","Partially audible",132,88,14,119,17,35
-"Platycleis albopunctata albopunctata","Orthoptera","Stridulation","Partially audible",206,340,216,780,314,374
+"Pholidoptera fallax","Orthoptera","Stridulation","Partially audible",116,26,2,4,0,0
+"Pholidoptera femorata","Orthoptera","Stridulation","Partially audible",153,63,51,169,59,47
+"Pholidoptera griseoaptera","Orthoptera","Stridulation","Partially audible",1822,315,271,969,345,509
+"Pholidoptera littoralis insubrica","Orthoptera","Stridulation","Audible",30,0,0,0,0,0
+"Pholidoptera littoralis littoralis","Orthoptera","Stridulation","Audible",42,6,0,0,0,0
+"Platycleis affinis affinis","Orthoptera","Stridulation","Partially audible",133,88,14,117,36,19
+"Platycleis albopunctata albopunctata","Orthoptera","Stridulation","Partially audible",206,339,215,827,366,272
 "Platycleis albopunctata monticola","Orthoptera","Stridulation","Partially audible",29,10,0,0,0,0
-"Platycleis falx laticauda","Orthoptera","Stridulation","Partially audible",59,30,5,96,0,0
-"Platycleis grisea","Orthoptera","Stridulation","Partially audible",101,13,2,4,0,0
-"Platycleis intermedia intermedia","Orthoptera","Stridulation","Partially audible",167,92,45,194,52,37
-"Platycleis sabulosa","Orthoptera","Stridulation","Partially audible",96,37,19,48,16,4
-"Podismopsis keisti","Orthoptera","Stridulation","Audible",2,18,7,37,0,6
+"Platycleis falx laticauda","Orthoptera","Stridulation","Partially audible",59,30,5,95,0,1
+"Platycleis grisea","Orthoptera","Stridulation","Partially audible",116,12,2,4,0,0
+"Platycleis intermedia intermedia","Orthoptera","Stridulation","Partially audible",168,92,45,200,41,42
+"Platycleis sabulosa","Orthoptera","Stridulation","Partially audible",106,37,19,47,15,6
+"Podismopsis keisti","Orthoptera","Stridulation","Audible",2,16,6,0,0,37
 "Podismopsis styriaca","Orthoptera","Stridulation","Audible",0,4,0,0,0,0
 "Poecilimon amissus","Orthoptera","Stridulation","Partially audible",39,0,0,0,0,0
 "Poecilimon gracilis","Orthoptera","Stridulation","Partially audible",29,0,0,0,0,0
-"Poecilimon ornatus","Orthoptera","Stridulation","Partially audible",168,14,0,0,0,0
+"Poecilimon ornatus","Orthoptera","Stridulation","Partially audible",173,14,0,0,0,0
 "Poecilimon schmidtii","Orthoptera","Stridulation","Partially audible",31,5,0,0,0,0
 "Poecilimon ukrainicus","Orthoptera","Stridulation","Partially audible",5,3,0,0,0,0
-"Polysarcus denticauda","Orthoptera","Stridulation","Partially audible",116,86,30,234,32,7
-"Polysarcus scutatus","Orthoptera","Stridulation","Partially audible",38,31,4,18,4,7
+"Polysarcus denticauda","Orthoptera","Stridulation","Partially audible",130,86,30,234,17,22
+"Polysarcus scutatus","Orthoptera","Stridulation","Partially audible",38,31,4,17,4,8
 "Prionotropis azami","Orthoptera","Stridulation","Audible",0,0,0,0,0,0
 "Prionotropis rhodanica","Orthoptera","Stridulation","Audible",0,0,0,0,0,0
-"Pseudochorthippus montanus","Orthoptera","Stridulation","Audible",59,39,8,42,8,13
-"Pseudochorthippus parallelus erythropus","Orthoptera","Stridulation","Audible",11,28,2,16,0,0
-"Pseudochorthippus parallelus parallelus","Orthoptera","Stridulation","Audible",334,295,249,1053,327,254
-"Psophus stridulus","Orthoptera","Crepitation","Audible",32,34,7,11,0,5
-"Pteronemobius heydenii heydenii","Orthoptera","Stridulation","Audible",105,120,57,378,158,97
-"Pteronemobius lineolatus","Orthoptera","Stridulation","Audible",60,50,9,132,16,2
-"Ramburiella hispanica","Orthoptera","Stridulation","Audible",16,13,0,0,0,0
-"Rhacocleis annulata","Orthoptera","Stridulation","Partially audible",66,48,32,93,16,19
-"Rhacocleis bonfilsi","Orthoptera","Stridulation","Ultrasounds",25,8,0,0,0,0
-"Rhacocleis corsicana","Orthoptera","Stridulation","Ultrasounds",52,6,0,0,0,0
-"Rhacocleis germanica","Orthoptera","Stridulation","Ultrasounds",132,8,1,2,0,0
-"Rhacocleis poneli","Orthoptera","Stridulation","Partially audible",40,43,11,8,2,1
-"Roeseliana azami azami","Orthoptera","Stridulation","Partially audible",59,39,6,59,0,4
-"Roeseliana azami minor","Orthoptera","Stridulation","Partially audible",47,22,10,42,7,5
-"Roeseliana roeselii","Orthoptera","Stridulation","Partially audible",623,644,605,2352,929,644
-"Ruspolia nitidula nitidula","Orthoptera","Stridulation","Partially audible",283,212,143,828,484,141
-"Sepiana sepium","Orthoptera","Stridulation","Partially audible",152,80,13,24,8,10
-"Sorapagus catalaunicus","Orthoptera","Stridulation","Partially audible",85,33,15,49,20,12
-"Sphingonotus caerulans","Orthoptera","Stridulation","Audible",9,9,1,6,0,0
-"Sphingonotus corsicus","Orthoptera","Stridulation","Audible",5,3,0,0,0,0
+"Pseudochorthippus montanus","Orthoptera","Stridulation","Audible",66,38,8,42,13,8
+"Pseudochorthippus parallelus erythropus","Orthoptera","Stridulation","Audible",11,26,1,7,0,0
+"Pseudochorthippus parallelus parallelus","Orthoptera","Stridulation","Audible",334,294,249,980,358,295
+"Psophus stridulus","Orthoptera","Crepitation","Audible",38,33,7,11,0,5
+"Pteronemobius heydenii heydenii","Orthoptera","Stridulation","Audible",105,118,57,393,89,151
+"Pteronemobius lineolatus","Orthoptera","Stridulation","Audible",81,49,9,89,59,3
+"Ramburiella hispanica","Orthoptera","Stridulation","Audible",17,13,0,0,0,0
+"Rhacocleis annulata","Orthoptera","Stridulation","Partially audible",85,47,32,67,41,20
+"Rhacocleis bonfilsi","Orthoptera","Stridulation","Ultrasounds",25,5,0,0,0,0
+"Rhacocleis corsicana","Orthoptera","Stridulation","Ultrasounds",52,2,0,0,0,0
+"Rhacocleis germanica","Orthoptera","Stridulation","Ultrasounds",135,2,1,2,0,0
+"Rhacocleis poneli","Orthoptera","Stridulation","Partially audible",49,42,11,8,0,3
+"Roeseliana azami azami","Orthoptera","Stridulation","Partially audible",59,32,3,21,0,4
+"Roeseliana azami minor","Orthoptera","Stridulation","Partially audible",53,3,1,7,0,0
+"Roeseliana roeselii","Orthoptera","Stridulation","Partially audible",685,644,605,2028,1203,693
+"Ruspolia nitidula nitidula","Orthoptera","Stridulation","Partially audible",283,205,143,885,357,210
+"Sepiana sepium","Orthoptera","Stridulation","Partially audible",171,78,13,24,12,6
+"Sorapagus catalaunicus","Orthoptera","Stridulation","Partially audible",124,31,15,52,20,9
+"Sphingonotus caerulans","Orthoptera","Stridulation","Audible",11,8,0,0,0,0
+"Sphingonotus corsicus","Orthoptera","Stridulation","Audible",6,3,0,0,0,0
 "Sphingonotus rubescens rubescens","Orthoptera","Stridulation","Audible",6,7,0,0,0,0
 "Sphingonotus uvarovi","Orthoptera","Stridulation","Audible",0,3,0,0,0,0
-"Stauroderus scalaris scalaris","Orthoptera","Stridulation","Audible",114,115,48,101,30,21
-"Stenobothrus cotticus","Orthoptera","Stridulation","Audible",6,61,3,5,0,3
-"Stenobothrus crassipes","Orthoptera","Stridulation","Audible",0,7,2,9,0,0
-"Stenobothrus eurasius","Orthoptera","Stridulation","Audible",0,18,4,20,0,0
-"Stenobothrus festivus","Orthoptera","Stridulation","Audible",27,14,3,8,0,0
+"Stauroderus scalaris scalaris","Orthoptera","Stridulation","Audible",114,114,48,97,27,28
+"Stenobothrus cotticus","Orthoptera","Stridulation","Audible",8,30,0,0,0,0
+"Stenobothrus crassipes","Orthoptera","Stridulation","Audible",0,3,0,0,0,0
+"Stenobothrus eurasius","Orthoptera","Stridulation","Audible",0,13,0,0,0,0
+"Stenobothrus festivus","Orthoptera","Stridulation","Audible",28,12,3,8,0,0
 "Stenobothrus fischeri fischeri","Orthoptera","Stridulation","Audible",12,9,0,0,0,0
-"Stenobothrus fischeri glaucescens","Orthoptera","Stridulation","Audible",4,28,2,13,0,0
-"Stenobothrus grammicus","Orthoptera","Stridulation","Audible",12,4,3,9,0,0
-"Stenobothrus lineatus lineatus","Orthoptera","Stridulation","Audible",123,92,41,137,47,103
-"Stenobothrus nigromaculatus nigromaculatus","Orthoptera","Stridulation","Audible",49,99,8,26,0,4
-"Stenobothrus rubicundulus","Orthoptera","Stridulation","Audible",53,36,2,8,0,0
-"Stenobothrus stigmaticus stigmaticus","Orthoptera","Stridulation","Audible",76,41,15,75,0,26
-"Stethophyma grossum","Orthoptera","Stridulation","Audible",80,133,93,122,105,23
-"Svercus palmetorum palmetorum","Orthoptera","Stridulation","Audible",95,14,1,3,0,0
-"Tessellana tessellata tessellata","Orthoptera","Stridulation","Ultrasounds",110,124,37,131,52,26
+"Stenobothrus fischeri glaucescens","Orthoptera","Stridulation","Audible",4,27,2,13,0,0
+"Stenobothrus grammicus","Orthoptera","Stridulation","Audible",31,1,0,0,0,0
+"Stenobothrus lineatus lineatus","Orthoptera","Stridulation","Audible",123,90,41,157,46,85
+"Stenobothrus nigromaculatus nigromaculatus","Orthoptera","Stridulation","Audible",49,97,8,26,0,4
+"Stenobothrus rubicundulus","Orthoptera","Stridulation","Audible",64,34,0,0,0,0
+"Stenobothrus stigmaticus stigmaticus","Orthoptera","Stridulation","Audible",76,39,15,72,26,3
+"Stethophyma grossum","Orthoptera","Stridulation","Audible",94,132,93,138,109,3
+"Svercus palmetorum palmetorum","Orthoptera","Stridulation","Audible",95,13,0,0,0,0
+"Tessellana tessellata tessellata","Orthoptera","Stridulation","Ultrasounds",110,123,37,133,46,30
 "Tessellana veyseli","Orthoptera","Stridulation","Ultrasounds",6,0,0,0,0,0
-"Tettigonia cantans","Orthoptera","Stridulation","Audible",646,281,199,866,229,206
-"Tettigonia caudata caudata","Orthoptera","Stridulation","Audible",53,31,2,6,0,0
-"Tettigonia viridissima","Orthoptera","Stridulation","Audible",1664,849,590,2533,1392,687
-"Thyreonotus corsicus corsicus","Orthoptera","Stridulation","Partially audible",47,40,3,8,0,4
-"Tropidopola cylindrica cylindrica","Orthoptera","Crepitation","Audible",0,1,1,5,0,0
-"Tylopsis lilifolia","Orthoptera","Stridulation","Partially audible",122,115,52,75,44,17
-"Uromenus brevicollis insularis","Orthoptera","Stridulation","Partially audible",61,22,0,0,0,0
-"Uromenus rugosicollis","Orthoptera","Stridulation","Audible",184,126,65,241,63,26
-"Yersinella beybienkoi","Orthoptera","Stridulation","Ultrasounds",45,25,0,0,0,0
-"Yersinella raymondii","Orthoptera","Stridulation","Ultrasounds",205,133,47,54,20,12
-"Zeuneriana abbreviata","Orthoptera","Stridulation","Partially audible",92,43,20,239,53,11
+"Tettigonia cantans","Orthoptera","Stridulation","Audible",782,249,198,688,294,313
+"Tettigonia caudata caudata","Orthoptera","Stridulation","Audible",53,10,0,0,0,0
+"Tettigonia viridissima","Orthoptera","Stridulation","Audible",1861,809,589,2671,1049,887
+"Thyreonotus corsicus corsicus","Orthoptera","Stridulation","Partially audible",47,42,3,8,0,4
+"Tropidopola cylindrica cylindrica","Orthoptera","Crepitation","Audible",0,0,0,0,0,0
+"Tylopsis lilifolia","Orthoptera","Stridulation","Partially audible",135,115,52,75,34,27
+"Uromenus brevicollis insularis","Orthoptera","Stridulation","Partially audible",61,10,0,0,0,0
+"Uromenus rugosicollis","Orthoptera","Stridulation","Audible",204,126,65,239,65,26
+"Yersinella beybienkoi","Orthoptera","Stridulation","Ultrasounds",46,10,0,0,0,0
+"Yersinella raymondii","Orthoptera","Stridulation","Ultrasounds",210,133,47,51,22,13
+"Zeuneriana abbreviata","Orthoptera","Stridulation","Partially audible",93,43,20,224,63,16

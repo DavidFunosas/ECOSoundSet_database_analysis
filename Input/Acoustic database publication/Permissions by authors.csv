@@ -1,6 +1,6 @@
 Author,Permission,License,n_orthopteran_recordings,n_orthopteran_species,n_hemipteran_recordings,n_hemipteran_species
 Alejandro García Salmerón,Yes,CC BY-NC 4.0,0,0,0,0
-Rafael Carbonell Font,Yes,CC BY 4.0,719,33,126,7
+Rafael Carbonell Font,Yes,CC BY 4.0,726,35,126,7
 Sònia Amaya,Yes,CC BY-NC 4.0,0,0,0,0
 David Sannier,Yes,CC BY 4.0,435,50,169,12
 Maelys Robert,Yes,CC BY-NC 4.0,0,0,1,1
@@ -12,7 +12,7 @@ David Llucià Pomares,No,CC BY-NC 4.0,2,1,0,0
 Miquel Macias Arau,No,CC BY-NC 4.0,6,4,0,0
 Xavier Béjar,Yes,CC BY 4.0,2,2,0,0
 Carlos Álvarez-Cros,Yes,CC BY-NC 4.0,3,2,4,1
-Daniel Espejo Fraga,Yes,CC BY-NC 4.0,14,7,16,6
+Daniel Espejo Fraga,Yes,CC BY-NC 4.0,20,9,17,6
 Eloïsa Matheu,Yes,CC BY-NC 4.0,95,23,29,7
 Joan Estrada Bonell,Yes,CC BY-NC 4.0,4,2,1,1
 Joan Ventura Linares,Yes,CC BY 4.0,9,4,8,5
@@ -22,8 +22,8 @@ Kurt Grossenbacher,Yes,CC BY-NC 4.0,0,0,0,0
 Matija Gogala,Yes,CC BY-NC 4.0,0,0,15,11
 Tomi Trilar,Yes,CC BY-NC 4.0,16,3,570,11
 Roy Kleukers,Yes,CC BY-NC 4.0,100,39,7,4
-Thomas Hertach,No,CC BY-NC 4.0,0,0,44,17
-Jean Roché,No,CC BY-NC 4.0,0,0,0,0
+Thomas Hertach,No,?,0,0,44,17
+Jean Roché,No,?,0,0,0,0
 Adeline Pichard,Yes,CC BY 4.0,6,1,0,0
 Antoine Chabrolle,Yes,CC BY 4.0,23,2,0,0
 Antoine Robiquet,Yes,CC BY 4.0,NA,NA,NA,NA
@@ -45,23 +45,23 @@ Margaux Charra,Yes,CC BY 4.0,43,3,0,0
 Marie-Lilith Patou,Yes,CC BY 4.0,20,3,0,0
 Marlene Massouh,Yes,CC BY 4.0,7,3,0,0
 Remi Jullian,Yes,CC BY 4.0,4,2,0,0
-Yves Bas,Yes,CC BY 4.0,627,47,87,12
+Yves Bas,Yes,CC BY 4.0,640,48,92,13
 Alexis Laforge,Yes,CC BY 4.0,13,3,0,0
 Ghislain Riou,Yes,CC BY-NC 4.0,22,12,0,0
 Jérome Sueur,Yes,CC BY 4.0,0,0,600,17
-Julien Barataud,Yes,CC BY-NC 4.0,2453,107,0,0
+Julien Barataud,Yes,CC BY-NC 4.0,2454,107,0,0
 Stéphane Puissant,Yes,CC BY 4.0,0,0,88,14
 Thomas Cuypers,Yes,CC BY-NC 4.0,6,4,1,1
 Marta Celej,Yes,CC BY 4.0,19,15,1,1
 Gaëtan Jouvenez,Yes,CC BY 4.0,1,1,8,3
 Nicola Larroux,Yes,CC BY 4.0,2,2,0,0
-Mathieu Pélissié,Yes,CC BY 4.0,40,26,32,10
+Mathieu Pélissié,Yes,CC BY 4.0,56,35,32,10
 Mathieu Sannier,Yes,CC BY-NC 4.0,10,7,0,0
 Łukasz Cudziło,Yes,CC BY 4.0,25,18,0,0
 Sonke Hardersen,Yes,CC BY-NC 4.0,0,0,0,0
 Jérome Allain,Yes,CC BY 4.0,0,0,10,2
 Benoit Nabholz,Yes,CC BY 4.0,1,1,0,0
-Romain Riols,Yes,CC BY-NC 4.0,6,5,0,0
+Romain Riols,Yes,CC BY-NC 4.0,7,6,0,0
 Georges Bedrines,Yes,CC BY 4.0,3,2,0,0
 Sébastien Merle,Yes,CC BY-NC 4.0,2,1,0,0
 Bastien Jeannin,Yes,CC BY 4.0,0,0,0,0
@@ -69,7 +69,7 @@ Nicolas Mokuenko,Yes,CC BY 4.0,4,4,3,2
 Vincent Milaret,Yes,CC BY-NC 4.0,6,4,6,3
 Nicolas Vissyrias,Yes,CC BY-NC 4.0,2,1,0,0
 Laura Martin,Yes,CC BY-NC 4.0,10,7,4,3
-Benjamin Drillat,Yes,CC BY-NC 4.0,19,14,1,1
+Benjamin Drillat,Yes,CC BY-NC 4.0,20,15,1,1
 Joss Deffarges,Yes,CC BY 4.0,17,10,0,0
 Adrien Charbonneau,Yes,CC BY-NC 4.0,8,4,48,15
 Aurélie Torres,Yes,CC BY 4.0,1,1,3,1
@@ -80,20 +80,20 @@ Marc Corail,Yes,CC BY-NC 4.0,8,7,0,0
 Thomas Armand,Yes,CC BY 4.0,1,1,0,0
 Daniel Bizet,Yes,CC BY-NC 4.0,21,5,6,1
 Sylvain Grimaud,Yes,CC BY-NC 4.0,1,1,0,0
-Wolfgang Forstmeier,Yes,CC BY 4.0,364,77,3,1
+Wolfgang Forstmeier,Yes,CC BY 4.0,373,78,4,1
 Evgenia Kovalyova,Yes,CC BY-NC 4.0,3,1,0,0
 Fernand Deroussen,Yes,CC BY-NC 4.0,378,38,108,7
-Christian Roesti,Yes,Without license,438,81,1,1
+Christian Roesti,No,Without license,438,81,1,1
 Aurélien Grimaud,Yes,CC BY 4.0,0,0,3,3
 Eric Sardet,Yes,CC BY-NC 4.0,1,1,0,0
 Jakub Burdzicki,Yes,CC BY-NC 4.0,36,10,0,0
 Piotr Guzik,Yes,CC BY 4.0,124,17,5,1
 Tamás Kiss,Yes,CC BY-NC 4.0,4,2,0,0
 Klaus Alix,Yes,CC BY-NC 4.0,3,1,0,0
-Werner Reitmeier,Yes,CC BY 4.0,9,9,13,6
+Werner Reitmeier,Yes,CC BY 4.0,26,20,14,6
 Dominik Arend,Yes,CC BY 4.0,821,14,0,0
 Varvara Vedenina,Yes,CC BY-NC 4.0,2,1,0,0
-Kevin Gurcel,Yes,CC BY-NC-ND 4.0,0,0,1,1
+Kevin Gurcel,No,CC BY-NC-ND 4.0,0,0,1,1
 Szymon Czyzewski,Yes,CC BY-NC 4.0,NA,NA,NA,NA
 Miguel Domenech Fernández,Yes,CC BY-NC 4.0,8,3,0,0
 Adrian Attinger,Yes,CC BY-NC 4.0,0,0,31,2

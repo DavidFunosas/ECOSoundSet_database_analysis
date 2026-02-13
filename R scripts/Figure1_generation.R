@@ -210,8 +210,8 @@ discrete_orange_palette <- c("white", paletteer_d("ggsci::orange_material", 7, d
 
 # Plotting the number of recordings by country/region
 pl <- ggplot() +
-  geom_sf(data = all_polygons, aes(fill = discrete_n_recordings), color = "grey60", size = 0.025) +  # Region borders
-  geom_sf(data = country_values, fill = NA, color = "black", size = 1.5) +  # Country borders
+  geom_sf(data = all_polygons, aes(fill = discrete_n_recordings), color = "grey60", size = 0.05) +  # Region borders
+  geom_sf(data = country_values, fill = NA, color = "black", size = 0.25) +  # Country borders
   scale_fill_manual(values = setNames(discrete_green_palette, levels(all_polygons$discrete_n_recordings))) +
   theme_minimal() +
   theme(legend.position = "right",
@@ -222,8 +222,8 @@ ggsave(paste0(output_folder, "Figures/Figure1a.jpeg"), width = 2000, height = 20
 
 # Plotting the number of species by country/region
 pl <- ggplot() +
-  geom_sf(data = all_polygons, aes(fill = discrete_n_species), color = "grey60", size = 0.025) +  # Region borders
-  geom_sf(data = country_values, fill = NA, color = "black", size = 1.5) +  # Country borders
+  geom_sf(data = all_polygons, aes(fill = discrete_n_species), color = "grey60", size = 0.05) +  # Region borders
+  geom_sf(data = country_values, fill = NA, color = "black", size = 0.25) +  # Country borders
   scale_fill_manual(values = setNames(discrete_orange_palette, levels(all_polygons$discrete_n_species))) +
   theme_minimal() +
   theme(legend.position = "right",

@@ -30,6 +30,9 @@ permissions_by_authors <- read.csv("../Input/Acoustic database publication/Permi
 # Basic metadata of all publishable recordings in our dataset
 recordings_with_permission_to_publish <- read.csv("../Input/Acoustic database publication/recordings_with_permission_to_publish.csv")
 
+# Link between recording original and export names
+recording_export_names <- read.csv("../Input/Recording metadata/recording_export_names.csv")
+
 # List of soniferous orthopteran and cicada species in North, Central and temperate Western Europe
 singing_ort_hem_sp <- read.csv("../Input/Species lists/soniferous_ort_hem_species.csv")
 
@@ -128,9 +131,14 @@ ort_hem_recordings <- code_unique_espece_combinations %>%
               filter(Permission == "Yes") %>%
               select(Author),
             by = c("author_name" = "Author")) %>%
+  inner_join(recording_export_names %>%
+               select(-recording_id),
+             by = c("code_unique" = "export_file_name")) %>%
   inner_join(recordings_with_permission_to_publish %>%
-               select(unique_code),
-             by = c("code_unique" = "unique_code"))
+             select(file_name),
+           by = "file_name") %>%
+  mutate(old_code_unique = gsub(".wav", "", file_name)) %>%
+  select(-file_name)
 
 # Filtering out recordings whose orthopteran and cicada sounds have not been identified at least at the species level
 recordings_without_annotations_at_the_species_level <- setdiff(unique((ort_hem_recordings %>%
@@ -216,7 +224,7 @@ n_chunks_by_category <- selected_annotation_chunks %>%
 table1 <- ort_hem_recording_metadata %>%
   left_join(recordings_with_permission_to_publish_metadata %>%
               select(code_unique, categorie),
-            by = "code_unique") %>%
+            by = c("old_code_unique" = "code_unique")) %>%
   mutate(categorie = case_when(categorie == "Soundscape cédé par un auteur" & author_name %in% c("Dominik Arend", "David Sannier") ~ "Soundscape",
                                 categorie == "Enregistrement focal cédé par un auteur" & author_name %in% c("Dominik Arend", "David Sannier") ~ "Enregistrement focal",
                                 TRUE ~ categorie)) %>%
